@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  2 SEP 2013 14:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  14 SEP 2013 17:52
 entering extended mode
 **C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
 (C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
@@ -571,11 +571,11 @@ Headheight and headsep: 14.5pt and 19.8738pt
 Footskip: 30pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 7pt and 42.9055pt
-Sidecapsep and sidecapwidth: 7pt and 92pt
-Sidebarhsep and sidebarwidth: 7pt and 92pt
+Sidecapsep and sidecapwidth: 7pt and 42pt
+Sidebarhsep and sidebarwidth: 7pt and 42pt
 Sidebarvsep and sidebartopsep: 14.5pt and 0pt
 Sidebarheight: 590.14995pt
-Sidefoothsep and sidefootwidth: 7pt and 92pt
+Sidefoothsep and sidefootwidth: 7pt and 42pt
 Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 ******************************************************
 
@@ -1042,9 +1042,7 @@ Package pdftex.def Info: figuras/capa-eps-converted-to.pdf used on input line 1
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Aline/Documents/
-GitHub/TCC1_Aline_Goncalves/figuras/capa-eps-converted-to.pdf>] [2
-
-]
+GitHub/TCC1_Aline_Goncalves/figuras/capa-eps-converted-to.pdf>]
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 14.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
@@ -1080,6 +1078,7 @@ been already used, duplicate ignored
                    \relax 
 l.14 
       [1
+
 
 
 ]
@@ -1120,138 +1119,170 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 30.
-) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/errata.texpdf
-TeX warning (ext4): destination with the same identifier (name{page.2}) has bee
-n already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.2 E
-     lemento opcional da \citeonline[4.2.1.2]{NBR14724:2011}. \textbf{Caso nÃ£o
+) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/errata.tex
 [2] [3
-
-] [4
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\fixos/folhaDeAprovacao.te
-x [5
+x [4
 
-] [6
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/dedicatoria.tex
-[7] [8
+[5
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/agradecimentos.
-tex [9
+tex [6
 
-] [10
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/epigrafe.tex
-[11] [12
+[7
 
-])
-(C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/resumo.tex
-[13] [14
+]) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/resumo.tex [
+8
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/abstract.tex
-[15] [16
+[9
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\fixos/listasAutomaticas.t
-ex (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.lof) [17] [18
+ex (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.lof) [10
 
 ]
-(C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.lot) [19] [20
+(C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.lot) [11
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/abreviaturas.te
-x [21
+x [12
 
-] [22
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/simbolos.tex
-[23
+[13
 
-] [24
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\fixos/indiceAutomatico.te
 x (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <14.4> on input line 3.
+ [14
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25])
-[26])
+]) [15])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/introducao.tex
-[27
+[16
 
 
-] [28])
+] [17
+
+]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 38.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 38.
+ [18]
+<figuras/metodologiapesquisa.png, id=205, 1004.25188pt x 409.53pt>
+File: figuras/metodologiapesquisa.png Graphic file (type png)
+
+<use figuras/metodologiapesquisa.png>
+Package pdftex.def Info: figuras/metodologiapesquisa.png used on input line 61.
+
+(pdftex.def)             Requested size: 401.69363pt x 163.80908pt.
+)
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo2.tex
-[29
+[19 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/metodologiape
+squisa.png>] [20] [21
 
-] [30
-
-] [31] [32]
-Overfull \hbox (16.52211pt too wide) in paragraph at lines 9--9
-[]\T1/lmss/m/n/17.28 IMPORTÂNCIA DA CON-TRA-TA-ÇÃO DE FÁ-BRI-CAS DE SOFT-
+]
+Overfull \hbox (1.43195pt too wide) in paragraph at lines 7--7
+[]\T1/lmss/m/n/17.28 Importância da Con-tra-ção de For-ne-ce-do-res de De-sen-v
+ol-vi-mento
  []
 
-) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo3.tex
-[33
 
-] [34
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
 
-] [35] [36]
+
+LaTeX Warning: Command \c invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \c invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \c invalid in math mode on input line 13.
+
+
+Overfull \hbox (373.53506pt too wide) in paragraph at lines 13--14
+\T1/lmr/m/n/12 R$\OT1/lmr/m/n/12 12\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 5\OML/lmm
+/m/it/12 bilh\OT1/lmr/m/n/12 õ\OML/lmm/m/it/12 es; sendograndepartedessevalorde
+stinadoacontrata\OT1/lmr/m/n/12 çõ\OML/lmm/m/it/12 esdeservi\OT1/lmr/m/n/12 ç\O
+ML/lmm/m/it/12 osrelacionadosasoftware:Nomesmoanotamb\OT1/lmr/m/n/12 é\OML/lmm/
+m/it/12 meraprevistoumor\OT1/lmr/m/n/12 ç\OML/lmm/m/it/12 amentodecercadeR$
+ []
+
+[22
+
+] [23] [24] [25] [26]
+Overfull \hbox (5.67972pt too wide) in paragraph at lines 74--74
+[]|\T1/lmr/bx/n/10 Etapas| 
+ []
+
+[27] [28] [29])
+(C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo3.tex
+[30] [31
+
+]
 Underfull \hbox (badness 4981) in paragraph at lines 3--3
 []\T1/lmss/m/n/24.88 LEAN NO DE-SEN-VOL-VI-MENTO DE
  []
 
 ) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo4.tex
-[37
+[32
 
-] [38
+] [33
 
-] [39] [40])
-(C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.bbl
+]) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.bbl
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.brf)
 \tf@brf=\write5
- [41
-
-] [42
+ [34
 
 ]
 bibitemlist
 ) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/apendices.tex
-[43] [44
+[35
 
-] [45
+] [36
 
-] [46] [47
 
-] [48
+] [37
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/anexos.tex
-[49] [50
+[38
 
-] [51
+] [39
 
-] [52] [53
 
-] [54
+] [40
 
 ])
 No file tcc.ind.
 
 AED: lastpage setting LastPage
-[55]
+[41
+
+]
 \tf@lof=\write6
 \tf@lot=\write7
 \tf@toc=\write8
@@ -1261,7 +1292,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
 Package rerunfilecheck Info: File `tcc.brf' has not changed.
-(rerunfilecheck)             Checksum: AD98EE1D039DF15293826E9C3AB7A245;55.
+(rerunfilecheck)             Checksum: 51C711B1DB0B8CC96D5ECAACB1EB0414;305.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -1269,29 +1300,34 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
- 12152 strings out of 493921
- 180343 string characters out of 3144877
- 293087 words of memory out of 3000000
- 15007 multiletter control sequences out of 15000+200000
- 80871 words of font info for 56 fonts, out of 3000000 for 9000
+ 12175 strings out of 493921
+ 180688 string characters out of 3144877
+ 295009 words of memory out of 3000000
+ 15028 multiletter control sequences out of 15000+200000
+ 99431 words of font info for 61 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,13n,38p,290b,489s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files (x86)/
-MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files (x86)/MiKTeX 2.9/
-fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+ 41i,13n,38p,2470b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files (x86)/
+MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files (x86)/MiKTeX 2.9/font
+s/enc/dvips/lm/lm-mathit.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbx
-12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/
-Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/lm/lmri12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
-ic/lm/lmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss1
-7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on tcc.pdf (57 pages, 411083 bytes).
+12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbxi10.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/lm/lmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri10
+.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri8.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/lm/lmss17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
+ic/lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lms
+y10.pfb>
+Output written on tcc.pdf (42 pages, 550317 bytes).
 PDF statistics:
- 562 PDF objects out of 1000 (max. 8388607)
- 126 named destinations out of 1000 (max. 500000)
- 362 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 544 PDF objects out of 1000 (max. 8388607)
+ 112 named destinations out of 1000 (max. 500000)
+ 383 words of extra memory for PDF output out of 10000 (max. 10000000)
 
