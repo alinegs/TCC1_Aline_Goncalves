@@ -51,33 +51,40 @@
 \contentsline {subsubsection}{\numberline {3.2.2.6}Respeitar as Pessoas}{48}{subsubsection.3.2.2.6}
 \contentsline {subsubsection}{\numberline {3.2.2.7}Otimizar o Todo}{48}{subsubsection.3.2.2.7}
 \contentsline {subsection}{\numberline {3.2.3} Pr\IeC {\'a}ticas}{48}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Conclus\IeC {\~a}o}{48}{section.3.3}
-\contentsline {part}{\partnumberline {IV}METODOLOGIAS \IeC {\'A}GEIS DE DESENVOLVIMENTO DE SOFTWARE}{49}{part.4}
-\contentsline {chapter}{\chapternumberline {4}Metodologias \IeC {\'A}geis de Desenvolvimento de Software}{50}{chapter.4}
-\contentsline {section}{\numberline {4.1}O Manifesto \IeC {\'A}gil}{50}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Princ\IeC {\'\i }pios}{50}{subsection.4.1.1}
-\contentsline {section}{\numberline {4.2}Scrum}{50}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Abordagem}{50}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Pap\IeC {\'e}is}{50}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Artefatos}{50}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Contrata\IeC {\c c}\IeC {\~a}o \IeC {\'A}gil nas Organiza\IeC {\c c}\IeC {\~o}es P\IeC {\'u}blicas}{50}{section.4.3}
-\contentsline {part}{\partnumberline {V}A PROPOSTA DE TRABALHO}{51}{part.5}
-\contentsline {chapter}{\chapternumberline {5}A Proposta de Trabalho}{52}{chapter.5}
-\contentsline {section}{\numberline {5.1}Defini\IeC {\c c}\IeC {\~a}o da Proposta}{52}{section.5.1}
-\contentsline {section}{\numberline {5.2}Estudo de Caso}{52}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Contexto}{52}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Hip\IeC {\'o}teses}{52}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Fonte e M\IeC {\'e}todo Coleta de Dados}{52}{subsection.5.2.3}
-\contentsline {section}{\numberline {5.3}Resultados Esperados}{52}{section.5.3}
-\contentsline {section}{\numberline {5.4}Cronograma de Execu\IeC {\c c}\IeC {\~a}o}{52}{section.5.4}
-\contentsline {section}{\numberline {5.5}Conclus\IeC {\~a}o}{52}{section.5.5}
-\contentsline {chapter}{Refer\^encias}{53}{section*.21}
+\contentsline {subsubsection}{\numberline {3.2.3.1}Gerenciamento de C\IeC {\'o}digo Fonte e Scripts de Builds}{48}{subsubsection.3.2.3.1}
+\contentsline {subsubsection}{\numberline {3.2.3.2}Teste Automatizado}{49}{subsubsection.3.2.3.2}
+\contentsline {subsubsection}{\numberline {3.2.3.3}Integra\IeC {\c c}\IeC {\~a}o Cont\IeC {\'\i }nua}{50}{subsubsection.3.2.3.3}
+\contentsline {subsubsection}{\numberline {3.2.3.4}Menos C\IeC {\'o}digo }{50}{subsubsection.3.2.3.4}
+\contentsline {subsubsection}{\numberline {3.2.3.5}Itera\IeC {\c c}\IeC {\~o}es Curtas}{51}{subsubsection.3.2.3.5}
+\contentsline {subsubsection}{\numberline {3.2.3.6}Participa\IeC {\c c}\IeC {\~a}o do Cliente}{52}{subsubsection.3.2.3.6}
+\contentsline {section}{\numberline {3.3}Conclus\IeC {\~a}o}{52}{section.3.3}
+\contentsline {part}{\partnumberline {IV}METODOLOGIAS \IeC {\'A}GEIS DE DESENVOLVIMENTO DE SOFTWARE}{53}{part.4}
+\contentsline {chapter}{\chapternumberline {4}Metodologias \IeC {\'A}geis de Desenvolvimento de Software}{54}{chapter.4}
+\contentsline {section}{\numberline {4.1}O Manifesto \IeC {\'A}gil}{54}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Princ\IeC {\'\i }pios}{54}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Scrum}{54}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}O Framework}{54}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Pap\IeC {\'e}is}{54}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Artefatos}{54}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Cerim\IeC {\^o}nias}{54}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Contrata\IeC {\c c}\IeC {\~a}o \IeC {\'A}gil nas Organiza\IeC {\c c}\IeC {\~o}es P\IeC {\'u}blicas}{54}{section.4.3}
+\contentsline {part}{\partnumberline {V}A PROPOSTA DE TRABALHO}{55}{part.5}
+\contentsline {chapter}{\chapternumberline {5}A Proposta de Trabalho}{56}{chapter.5}
+\contentsline {section}{\numberline {5.1}Defini\IeC {\c c}\IeC {\~a}o da Proposta}{56}{section.5.1}
+\contentsline {section}{\numberline {5.2}Estudo de Caso}{56}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Contexto}{56}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Hip\IeC {\'o}teses}{56}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Fonte e M\IeC {\'e}todo Coleta de Dados}{56}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Resultados Esperados}{56}{section.5.3}
+\contentsline {section}{\numberline {5.4}Cronograma de Execu\IeC {\c c}\IeC {\~a}o}{56}{section.5.4}
+\contentsline {section}{\numberline {5.5}Conclus\IeC {\~a}o}{56}{section.5.5}
+\contentsline {chapter}{Refer\^encias}{57}{section*.21}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
-\contentsline {part}{Ap\^endices}{54}{section*.22}
-\contentsline {appendix}{\chapternumberline {A}Primeiro Ap\IeC {\^e}ndice}{55}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Segundo Ap\IeC {\^e}ndice}{56}{appendix.B}
+\contentsline {part}{Ap\^endices}{58}{section*.22}
+\contentsline {appendix}{\chapternumberline {A}Primeiro Ap\IeC {\^e}ndice}{59}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Segundo Ap\IeC {\^e}ndice}{60}{appendix.B}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
-\contentsline {part}{Anexos}{57}{section*.23}
-\contentsline {appendix}{\chapternumberline {A}Primeiro Anexo}{58}{appendix.anexochapback.1}
-\contentsline {appendix}{\chapternumberline {B}Segundo Anexo}{59}{appendix.anexochapback.2}
+\contentsline {part}{Anexos}{61}{section*.23}
+\contentsline {appendix}{\chapternumberline {A}Primeiro Anexo}{62}{appendix.anexochapback.1}
+\contentsline {appendix}{\chapternumberline {B}Segundo Anexo}{63}{appendix.anexochapback.2}

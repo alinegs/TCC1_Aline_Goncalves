@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  8 OCT 2013 11:19
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  9 OCT 2013 13:49
 entering extended mode
 **C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
 (C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
@@ -1184,7 +1184,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
  [14
 
 ]
-Overfull \hbox (12.97711pt too wide) in paragraph at lines 55--55
+Overfull \hbox (12.97711pt too wide) in paragraph at lines 61--61
  [][] [][][]\T1/lmss/bx/n/14.4 METODOLOGIAS ÁGEIS DE DE-SEN-VOL-VI-MENTO DE SOF
 T- 
  []
@@ -1204,7 +1204,7 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 38.
  [19]
-<figuras/metodologiapesquisa.png, id=311, 1004.25188pt x 409.53pt>
+<figuras/metodologiapesquisa.png, id=325, 1004.25188pt x 409.53pt>
 File: figuras/metodologiapesquisa.png Graphic file (type png)
 
 <use figuras/metodologiapesquisa.png>
@@ -1262,7 +1262,7 @@ Overfull \hbox (5.67972pt too wide) in paragraph at lines 74--74
 
 ] [33
 
-] <figuras/ranking.png, id=390, 593.21625pt x 403.5075pt>
+] <figuras/ranking.png, id=404, 593.21625pt x 403.5075pt>
 File: figuras/ranking.png Graphic file (type png)
 
 <use figuras/ranking.png>
@@ -1272,7 +1272,7 @@ Package pdftex.def Info: figuras/ranking.png used on input line 28.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[34] <figuras/principioslean.png, id=395, 633.86812pt x 401.24907pt>
+[34] <figuras/principioslean.png, id=409, 633.86812pt x 401.24907pt>
 File: figuras/principioslean.png Graphic file (type png)
 
 <use figuras/principioslean.png>
@@ -1281,7 +1281,7 @@ Package pdftex.def Info: figuras/principioslean.png used on input line 39.
  [35 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/ranking.png>
  <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/principioslean.p
 ng>] [36]
-<figuras/matrizcomportamento.png, id=405, 469.00218pt x 357.58594pt>
+<figuras/matrizcomportamento.png, id=419, 469.00218pt x 357.58594pt>
 File: figuras/matrizcomportamento.png Graphic file (type png)
 
 <use figuras/matrizcomportamento.png>
@@ -1294,52 +1294,52 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [37] [38 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/matrizco
 mportamento.png>] [39] [40] [41] [42] [43] [44]
-<figuras/kanban.png, id=439, 907.39pt x 623.32875pt>
+<figuras/kanban.png, id=453, 907.39pt x 623.32875pt>
 File: figuras/kanban.png Graphic file (type png)
  <use figuras/kanban.png>
 Package pdftex.def Info: figuras/kanban.png used on input line 209.
 (pdftex.def)             Requested size: 362.94957pt x 249.32707pt.
 
 [45 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanban.png>]
-[46] [47])
+[46] [47] [48] [49] [50] [51])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo4.tex
-[48] [49
+[52] [53
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo5.tex
-[50
+[54
 
-] [51
+] [55
 
 ]) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.bbl
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.brf)
 \tf@brf=\write5
- [52
+ [56
 
 ]
 bibitemlist
 ) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/apendices.tex
-[53
+[57
 
-] [54
+] [58
 
 
-] [55
+] [59
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/anexos.tex
-[56
+[60
 
-] [57
+] [61
 
 
-] [58
+] [62
 
 ])
 No file tcc.ind.
 
 AED: lastpage setting LastPage
-[59
+[63
 
 ]
 \tf@lof=\write6
@@ -1359,10 +1359,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
- 12318 strings out of 493921
- 182710 string characters out of 3144877
- 296009 words of memory out of 3000000
- 15094 multiletter control sequences out of 15000+200000
+ 12336 strings out of 493921
+ 182922 string characters out of 3144877
+ 295009 words of memory out of 3000000
+ 15101 multiletter control sequences out of 15000+200000
  99431 words of font info for 61 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  41i,13n,38p,2470b,508s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1384,9 +1384,9 @@ X 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/public/lm/lmss17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
 ic/lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lms
 y10.pfb>
-Output written on tcc.pdf (60 pages, 781013 bytes).
+Output written on tcc.pdf (64 pages, 796961 bytes).
 PDF statistics:
- 882 PDF objects out of 1000 (max. 8388607)
- 182 named destinations out of 1000 (max. 500000)
- 779 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 936 PDF objects out of 1000 (max. 8388607)
+ 193 named destinations out of 1000 (max. 500000)
+ 835 words of extra memory for PDF output out of 10000 (max. 10000000)
 

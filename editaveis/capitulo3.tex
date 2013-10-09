@@ -244,7 +244,7 @@ As empresas que já mostraram uma excelência a longo prazo em desenvolvimento d
 
 A cada problema, é preciso acionar uma busca pela causa raiz, construir soluções possíveis para o problema e acionar uma mudança no processo para impedir que ele ressurja. Cada equipe de desenvolvimento deve reservar algum tempo para melhorar seus próprios processos.
 
-\subsubsection[Adiar Comprometimentos]{[Adiar Comprometimentos}
+\subsubsection[Adiar Comprometimentos]{Adiar Comprometimentos}
 
 A ideia principal deste princípio é deixar as decisões irreversíveis para o último momento possível, ou seja, a última oportunidade de tomar a decisão antes que seja tarde demais, afinal de contas é um comprometimento que é tomado. Porém, isto não quer dizer que todas as decisões devam ser adiadas. Em primeiro lugar, é preciso tentar tornar a maioria das decisões reversíveis, ou seja, que possam ser mudadas ao decorrer do desenvolvimento sem prejuízos significativos. Um sistema de software não precisa ser completamente flexível, mas precisa que opções sejam preservadas em pontos onde as mudanças invariavelmente ocorram. É preciso experiência para saber quando devem ser mantidas essas opções.
 
@@ -262,10 +262,72 @@ Mão de obra técnica especializada: empresas sábias garantem que a especializa
 
 Responsabilidade baseada em planejamento e controle: respeitar as pessoas significa que as equipes recebem planos genéricos e objetivos claros, e em vez de dizer como e o que fazer, desenvolve uma organização reflexiva onde as pessoas usam suas cabeças e descobrem isso sozinhas.
 
-\subsubsection[Otimizar o Todo]{[Otimizar o Todo}
+\subsubsection[Otimizar o Todo]{Otimizar o Todo}
 
 Uma organização Lean otimiza todo o fluxo de valor, do momento em que recebe o pedido visando uma necessidade do cliente até o momento em que o software seja implantado e a necessidade do cliente seja atendida. Se houver concentração em otimizar apenas uma pequena parte do todo, inevitavelmente, o fluxo de valor completo sofrerá. 
 
 \subsection[ Práticas]{ Práticas}
+
+\subsubsection[Gerenciamento de Código Fonte e Scripts de Builds]{Gerenciamento de Código Fonte e Scripts de Builds}
+
+O Gerenciamento de Código Fonte e Scripts de Builds não são práticas exclusivas do Lean, mas sim uma prática que deveria ser usada adotando Lean ou não, por isso é considerada como um pré-requisito para as práticas do Lean. Estas práticas ajudam a construir um time disciplinado e um ambiente de desenvolvimento estável.
+
+O Gerenciamento de Código Fonte também é conhecido como controle de versão, basicamente, diz respeito a manter todo o código fonte e outros artefatos importantes do projeto em um repositório que mantém um histórico de versões de todos os itens de configuração, que são artefatos que precisam ser mantido sobre controle, pois sofrem mudanças e evoluções. Com o controle de versão é possível recuperar uma configuração, versão dos itens de configuração, em um momento desejado do tempo. Sempre é possível retornar a uma versão estável (baseline) quando erros são identificados.
+
+O objetivo de realizar scripts de builds é automatizar todo o processo de construção do sistema e garantir que as mudanças no projeto são construídas, testadas e relatadas tão logo quanto o possível depois de serem relatadas. Como resultado, o build do sistema é gerado da mesma forma em todas as vezes. Esta prática elimina erros escondidos e torna mais fácil a inserção de novos integrantes à equipe. E também torna mais fácil realizar testes e a entrega de release do software, uma vez que constrói arquivos executáveis e de instalação do produto.
+
+\subsubsection[Teste Automatizado]{Teste Automatizado}
+
+Um sistema à prova de erros é uma das práticas fundamentais do Lean. É parte central da produção de um produto com qualidade e da redução de desperdícios. O teste automatizado é um dos principais meios de evitar erros no desenvolvimento de software. O teste automatizado engloba todos os tipos de testes: teste unitário, teste de integração, teste de aceitação, teste de desempenho, teste de carga, desenvolvimento orientado a testes, etc.
+
+Cada um dos tipos de testes possui um objetivo principal, mas todos eles têm os seguintes objetivos em comum:
+\begin{itemize}
+\item Os testes são criados manualmente pelos desenvolvedores.
+\item Todos os testes podem ser executados automaticamente, sem intervenção humana.
+\item Os erros são detectados automaticamente.
+\item O desenvolvedor é notificado quando os erros acontecem.
+\end{itemize}
+
+O teste automatizado suporta três princípios do Lean: eliminação de desperdícios, qualidade na raiz e criar conhecimento. Ele ajuda a eliminar desperdícios que geram retrabalho e custos quando erros são detectados apenas nas fases finais do ciclo de desenvolvimento de software. No que diz respeito a construir com qualidade, o teste automatizado é um dos principais meios. Uma base de código com uma suíte de testes automatizados realiza a validação e checagem de forma automática, o que reduz a possibilidade de erros não detectados seja introduzido dentro do software.
+
+Além disso, os testes automatizados servem como uma documentação atualizada do que está sendo feito. Ele cria um conhecimento primário e confiável para os desenvolvedores porque garante conformidade com o esperado toda vez que a suíte de teste é executada com sucesso.
+
+\subsubsection[Integração Contínua]{Integração Contínua}
+
+A integração diz respeito ao momento que todos os módulos ou componentes do software que está sendo desenvolvido são executados juntos. Componentes individuais, banco de dados, interfaces de usuário e recursos do sistema são todos reunidos e testados em cima da arquitetura. A integração envolve verificar a comunicação dos componentes e garantir que a mensagem passada entre eles é compatível e completa. 
+
+O processo de desenvolvimento tradicional trata integração como uma fase separada que ocorre depois que todos os componentes tenham sido implementados, o que costuma gerar uma serie de correções e retrabalho. A integração contínua transforma a tradicional fase de integração em uma atividade que ocorre durante toda o processo de implementação do sistema.
+
+A integração contínua é o processo de integrar pequenas mudanças em uma base estável para entrega de um novo release do produto. Integrando pequenas mudanças em um curto intervalo, os desenvolvedores podem evoluir o produto um pouco de cada vez enquanto garantem que cada novo pedaço funciona corretamente com todo o resto do sistema. A integração contínua usa testes unitários para garantir que cada pequena parte do sistema está implementada corretamente e usa o gerenciamento do código fonte e os scripts de build para garantir que a cada nova pequena integração nada foi quebrado, ou seja, garantir que o sistema continue funcionando corretamente como um todo. 
+
+\subsubsection[Menos Código ]{Menos Código}
+
+A prática de escrever menos código não diz respeito a escrever menos software, mas sim a ter todas as funcionalidades implementadas com poucas linhas de código e de maneira simples. Diz respeito a eliminar código desnecessário e fazer com que o código necessário se torne mais eficiente, mantendo a base de código pequena ao menos tempo em que funcionalidades (valor) são entregues ao cliente.
+
+O tamanho da base de código afeta o projeto de vários modos. Quanto maior o código maior é a quantidade de componentes que precisam ser conectadas e mais esforço de integração será gasto. Quanto maior o tamanho da base de código mais erros podem ser gerados e mais esforço para encontrar e corrigir os erros será gasto. Ainda, quanto maior o tamanho maior é a dificuldade de entender o que foi desenvolvido, aumentando a curva de aprendizado de novos desenvolvedores e futuros mantedores.  
+
+Como uma base de código grande acarreta em mais componentes, mais bugs e grande curva de aprendizagem, como consequência terá mais custos em desenvolvimento e manutenção. A definição de desperdício no desenvolvimento Lean é qualquer coisa que aumente os custos sem produzir valor, então o custo de desenvolvimento e manutenção resultante de uma grande base de código pode ser considerado como desperdício. 
+
+Para escrever menos código e manter o valor desejado pelo cliente, os desenvolvedores precisam adotar uma atitude de olhar criticamente para cada linha de código. Minimizar o tamanho do código, no entanto, não é limitar a implementação. Os desenvolvedores precisam ser minimalistas durante todo o processo de desenvolvimento, desenvolvendo de maneira simples cada funcionalidade. Um design simplista facilita, ainda, a implementação de mudanças. Os padrões e técnicas podem ser utilizados para auxiliar os desenvolvedores a desenvolver apenas o código que é realmente necessário, por exemplo, utilizar padrões de design, reuso e refatoração.
+
+\subsubsection[Iterações Curtas]{Iterações Curtas}
+
+O desenvolvimento iterativo entrega software funcional ao cliente para avaliação a cada intervalo específico de tempo. Cada iteração adiciona novas funcionalidades ao produto e aumenta o entendimento do cliente sobre como o produto final irá atender à suas necessidades. A efetividade do processo iterativo vem da oportunidade de ter o feedback do cliente e incorporar esse feedback ao desenvolvimento. O feedback do cliente é que irá direcionar a próxima iteração quanto a adição, remoção ou modificação de requisitos e implementação. Quanto menor a iteração, mais oportunidades de receber o feedback do cliente e maior é a possibilidade de atender o que o cliente deseja no produto final. 
+
+As iterações curtas suportam três princípios do Lean: eliminar desperdício, adiar compromisso e entrega rápida. Existem duas formas de desperdícios advindos de iterações largas, o trabalho parcial, aquele que não é construído de forma completa seja com requisitos não implementados ou incompletos quanto com código não testado, porque não adiciona novo valor ao produto e o replanejamento, quando o planejamento inicial é feito para um futuro muito distante e as necessidades e desejos do cliente podem mudar fazendo com que seja preciso o realizar o replanejamento, porque o trabalho planejado anteriormente é desperdiçado. As iterações curtas previnem tais situações de desperdícios, pois o esforço fica concentrado em desenvolver o que é de alta prioridade para o cliente mais rapidamente e planeja tão longe quanto necessário para manter o desenvolvimento.  
+
+O princípio de adiar compromisso, como já explicado anteriormente, diz respeito a adiar decisões importantes tanto quanto possível. Adiar tais decisões fornece aos desenvolvedores tempo para coletar e entender as informações necessárias para o desenvolvimento, e iterações curtas dão oportunidades de coletar informações por meio do feedback do cliente. Os desenvolvedores podem criar protótipos do produto final já nas iterações iniciais, recebem o feedback e usam o feedback para decidir a implementação final nas iterações finais.
+
+As iterações curtas, claramente, suportam o princípio de entrega rápida devido a redução dos intervalos de contato com o cliente e por entregar novas funcionalidades rapidamente para receber feedback. Em vez de esperar até o final do desenvolvimento para vê os efeitos das suas solicitações, o cliente já poderá visualizá-los na próxima iteração. 
+
+\subsubsection[Participação do Cliente]{Participação do Cliente}
+
+Se o objetivo do desenvolvimento de um produto é criar um produto que o cliente irá usar, é importante ter a participação do cliente em grande parte do processo. Os conceitos de priorizar requisitos e de realizar correções de acordo com o feedback do cliente necessitam de participação ativa do cliente no processo de desenvolvimento. 
+Os clientes são as melhores fontes de informações sobre o domínio do problema.  Eles sabem as atividades que precisam ser feitas, eles sabem as condições que o software será executado e eles sabem os objetivos que desejam atingir com a solução. No entanto, eles raramente sabem sobre a tecnologia que será usada na implementação da solução.  
+
+Por outro lado, os desenvolvedores sabem sobre as a tecnologias e sabem o caminho mais eficiente para modelar e implementar problemas e soluções. O que os desenvolvedores não sabem é sobre os conhecimentos do negócio no qual a solução será incorporada. 
+
+Combinando o conhecimento do negócio do cliente com o conhecimento técnico do desenvolvedor cria uma equipe dinâmica que resulta em um desenvolvimento de um melhor produto. Desenvolvedor e clientes trabalhando juntos inspiram um ao outro a criar algo melhor do que eles poderiam criar individualmente.
+
 
 \section[Conclusão]{Conclusão}
