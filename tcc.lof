@@ -1,12 +1,17 @@
 \select@language {brazil}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {1}{\ignorespaces Sele\IeC {\c c}\IeC {\~a}o de Metodologia de Pesquisa}}{20}{figure.1.1}
+\contentsline {figure}{\numberline {1}{\ignorespaces Sele\IeC {\c c}\IeC {\~a}o de Metodologia de Pesquisa}}{21}{figure.1.1}
 \addvspace {10pt}
+\contentsline {figure}{\numberline {2}{\ignorespaces Modelo de Contrata\IeC {\c c}\IeC {\~o}es de Solu\IeC {\c c}\IeC {\~o}es de TI}}{29}{figure.2.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Gerenciamento de Contrata\IeC {\c c}\IeC {\~o}es de Solu\IeC {\c c}\IeC {\~o}es de TI}}{31}{figure.2.3}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {2}{\ignorespaces Ranking de Vendas da Ind\IeC {\'u}stria Automobil\IeC {\'\i }stica}}{35}{figure.3.2}
-\contentsline {figure}{\numberline {3}{\ignorespaces Pir\IeC {\^a}mide de Princ\IeC {\'\i }pios Lean}}{35}{figure.3.3}
-\contentsline {figure}{\numberline {4}{\ignorespaces Matriz de Gerenciamento de Tempo}}{38}{figure.3.4}
-\contentsline {figure}{\numberline {5}{\ignorespaces Quadro Kanban}}{45}{figure.3.5}
+\contentsline {figure}{\numberline {4}{\ignorespaces Ranking de Vendas da Ind\IeC {\'u}stria Automobil\IeC {\'\i }stica \cite {ranking}}}{37}{figure.3.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Pir\IeC {\^a}mide de Princ\IeC {\'\i }pios Lean}}{37}{figure.3.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Matriz de Gerenciamento de Tempo \cite {bell2011}}}{40}{figure.3.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Quadro Andon, com o mesmo objetivo do Kanban, na f\IeC {\'a}brica da Toyota \cite {kanbanindustria}}}{47}{figure.3.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Quadro Kanban \cite {kanban}}}{55}{figure.3.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Work in Progress \cite {klipp}}}{56}{figure.3.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Gr\IeC {\'a}fico de Medi\IeC {\c c}\IeC {\~o}es Kanban \cite {klipp}}}{56}{figure.3.10}
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}

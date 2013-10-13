@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  12 OCT 2013 18:16
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  12 OCT 2013 13:13
 entering extended mode
-**C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/editaveis/capitulo2.tex
-(C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/editaveis/capitulo2.tex
+**C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/editaveis/capitulo3.tex
+(C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/editaveis/capitulo3.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -15,11 +15,11 @@ an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
 ! Undefined control sequence.
 l.1 \part
-         {CONTRATAÇÕES DE FORNECEDORES DE DESENVOLVIMENTO DE SOFTWARE}
+         {PENSAMENTO LEAN}
 ? 
 ! Emergency stop.
 l.1 \part
-         {CONTRATAÇÕES DE FORNECEDORES DE DESENVOLVIMENTO DE SOFTWARE}
+         {PENSAMENTO LEAN}
 End of file on the terminal!
 
  
@@ -30,5 +30,5 @@ Here is how much of TeX's memory you used:
  3400 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 5i,0n,1p,148b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 5i,0n,1p,102b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
