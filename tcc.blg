@@ -2,18 +2,8 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: tcc.aux
 The style file: abntex2-alf.bst
 Database file #1: abntex2-options.bib
 Database file #2: bibliografia.bib
-Warning--entry type for "leaninstitute" isn't style-file defined
---line 100 of file bibliografia.bib
-Warning--entry type for "ranking" isn't style-file defined
---line 106 of file bibliografia.bib
-Warning--entry type for "kanbanindustria" isn't style-file defined
---line 111 of file bibliografia.bib
-Warning--entry type for "kanban" isn't style-file defined
---line 117 of file bibliografia.bib
-Warning--I didn't find a database entry for "NBR14724:2011"
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.8           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://abntex2.googlecode.com                           |
 +---------------------------------------------------------+
-(There were 5 warnings)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  12 OCT 2013 22:03
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  9 OCT 2013 13:49
 entering extended mode
 **C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
 (C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
@@ -951,19 +951,16 @@ G,.JBIG2,.JB2,.eps]
 ))
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.aux
 
-LaTeX Warning: Label `fig05' multiply defined.
+LaTeX Warning: Label `fig01' multiply defined.
 
 
 LaTeX Warning: Label `fig01' multiply defined.
 
 
-LaTeX Warning: Label `fig05' multiply defined.
+LaTeX Warning: Label `fig01' multiply defined.
 
 
-LaTeX Warning: Label `fig05' multiply defined.
-
-
-LaTeX Warning: Label `fig05' multiply defined.
+LaTeX Warning: Label `fig01' multiply defined.
 
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -1135,11 +1132,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 30.
 ) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/errata.tex
-[2]
-
-LaTeX Warning: Citation `NBR14724:2011' on page 3 undefined on input line 2.
-
-[3
+[2] [3
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\fixos/folhaDeAprovacao.te
@@ -1191,7 +1184,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
  [14
 
 ]
-Overfull \hbox (12.97711pt too wide) in paragraph at lines 60--60
+Overfull \hbox (12.97711pt too wide) in paragraph at lines 61--61
  [][] [][][]\T1/lmss/bx/n/14.4 METODOLOGIAS ÁGEIS DE DE-SEN-VOL-VI-MENTO DE SOF
 T- 
  []
@@ -1203,33 +1196,25 @@ T-
 
 ] [18
 
-] [19]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 39.
+]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 38.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 39.
-
-<figuras/metodologiapesquisa.png, id=348, 837.8502pt x 542.025pt>
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 38.
+ [19]
+<figuras/metodologiapesquisa.png, id=325, 1004.25188pt x 409.53pt>
 File: figuras/metodologiapesquisa.png Graphic file (type png)
 
 <use figuras/metodologiapesquisa.png>
-Package pdftex.def Info: figuras/metodologiapesquisa.png used on input line 62.
+Package pdftex.def Info: figuras/metodologiapesquisa.png used on input line 61.
 
-(pdftex.def)             Requested size: 586.49115pt x 379.4149pt.
-
-Overfull \hbox (131.49115pt too wide) in paragraph at lines 62--63
- [][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[20] [21 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/metodolo
-giapesquisa.png>])
+(pdftex.def)             Requested size: 401.69363pt x 163.80908pt.
+)
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo2.tex
-[22] [23
+[20 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/metodologiape
+squisa.png>] [21] [22
 
 ]
 Overfull \hbox (1.43195pt too wide) in paragraph at lines 7--7
@@ -1237,34 +1222,47 @@ Overfull \hbox (1.43195pt too wide) in paragraph at lines 7--7
 ol-vi-mento
  []
 
-[24
 
-] [25] [26] [27] [28] <figuras/MCTI.png, id=405, 554.82281pt x 240.14719pt>
-File: figuras/MCTI.png Graphic file (type png)
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
 
-<use figuras/MCTI.png>
-Package pdftex.def Info: figuras/MCTI.png used on input line 72.
-(pdftex.def)             Requested size: 443.85886pt x 192.11798pt.
 
-Overfull \hbox (5.67972pt too wide) in paragraph at lines 84--84
+LaTeX Warning: Command \c invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \c invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \c invalid in math mode on input line 13.
+
+
+Overfull \hbox (373.53506pt too wide) in paragraph at lines 13--14
+\T1/lmr/m/n/12 R$\OT1/lmr/m/n/12 12\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 5\OML/lmm
+/m/it/12 bilh\OT1/lmr/m/n/12 õ\OML/lmm/m/it/12 es; sendograndepartedessevalorde
+stinadoacontrata\OT1/lmr/m/n/12 çõ\OML/lmm/m/it/12 esdeservi\OT1/lmr/m/n/12 ç\O
+ML/lmm/m/it/12 osrelacionadosasoftware:Nomesmoanotamb\OT1/lmr/m/n/12 é\OML/lmm/
+m/it/12 meraprevistoumor\OT1/lmr/m/n/12 ç\OML/lmm/m/it/12 amentodecercadeR$
+ []
+
+[23
+
+] [24] [25] [26] [27]
+Overfull \hbox (5.67972pt too wide) in paragraph at lines 74--74
 []|\T1/lmr/bx/n/10 Etapas| 
  []
 
-[29 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/MCTI.png>]
-[30] <figuras/GCTI.png, id=416, 699.36281pt x 380.17032pt>
-File: figuras/GCTI.png Graphic file (type png)
-
-<use figuras/GCTI.png>
-Package pdftex.def Info: figuras/GCTI.png used on input line 116.
-(pdftex.def)             Requested size: 419.62093pt x 228.10394pt.
- [31 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/GCTI.png>] [
-32])
+[28] [29] [30])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo3.tex
-[33] [34
+[31] [32
 
-] [35
+] [33
 
-] <figuras/ranking.png, id=446, 593.21625pt x 403.5075pt>
+] <figuras/ranking.png, id=404, 593.21625pt x 403.5075pt>
 File: figuras/ranking.png Graphic file (type png)
 
 <use figuras/ranking.png>
@@ -1274,16 +1272,16 @@ Package pdftex.def Info: figuras/ranking.png used on input line 28.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[36] <figuras/principioslean.png, id=458, 633.86812pt x 401.24907pt>
+[34] <figuras/principioslean.png, id=409, 633.86812pt x 401.24907pt>
 File: figuras/principioslean.png Graphic file (type png)
 
 <use figuras/principioslean.png>
 Package pdftex.def Info: figuras/principioslean.png used on input line 39.
 (pdftex.def)             Requested size: 443.70467pt x 280.87242pt.
- [37 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/ranking.png>
+ [35 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/ranking.png>
  <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/principioslean.p
-ng>] [38]
-<figuras/matrizcomportamento.png, id=476, 469.00218pt x 357.58594pt>
+ng>] [36]
+<figuras/matrizcomportamento.png, id=419, 469.00218pt x 357.58594pt>
 File: figuras/matrizcomportamento.png Graphic file (type png)
 
 <use figuras/matrizcomportamento.png>
@@ -1294,82 +1292,54 @@ Package pdftex.def Info: figuras/matrizcomportamento.png used on input line 75.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[39] [40 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/matrizco
-mportamento.png>] [41] [42] [43] [44] [45] [46]
-<figuras/kanbanindustria.png, id=542, 361.35pt x 220.57407pt>
-File: figuras/kanbanindustria.png Graphic file (type png)
-
-<use figuras/kanbanindustria.png>
-Package pdftex.def Info: figuras/kanbanindustria.png used on input line 211.
-(pdftex.def)             Requested size: 361.34912pt x 220.57352pt.
- [47 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanindust
-ria.png>] [48] [49] [50] [51] [52] [53]
-[54] <figuras/kanban.png, id=599, 680.5425pt x 467.49657pt>
+[37] [38 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/matrizco
+mportamento.png>] [39] [40] [41] [42] [43] [44]
+<figuras/kanban.png, id=453, 907.39pt x 623.32875pt>
 File: figuras/kanban.png Graphic file (type png)
+ <use figuras/kanban.png>
+Package pdftex.def Info: figuras/kanban.png used on input line 209.
+(pdftex.def)             Requested size: 362.94957pt x 249.32707pt.
 
-<use figuras/kanban.png>
-Package pdftex.def Info: figuras/kanban.png used on input line 342.
-(pdftex.def)             Requested size: 476.3765pt x 327.24536pt.
-
-Overfull \hbox (21.3765pt too wide) in paragraph at lines 342--343
- [][] 
- []
-
-[55 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanban.png>]
-<figuras/WIP.png, id=609, 524.71031pt x 267.24844pt>
-File: figuras/WIP.png Graphic file (type png)
- <use figuras/WIP.png>
-Package pdftex.def Info: figuras/WIP.png used on input line 354.
-(pdftex.def)             Requested size: 262.3545pt x 133.62389pt.
-
-<figuras/metricasKanban.png, id=616, 1018.55531pt x 603.0028pt>
-File: figuras/metricasKanban.png Graphic file (type png)
-
-<use figuras/metricasKanban.png>
-Package pdftex.def Info: figuras/metricasKanban.png used on input line 366.
-(pdftex.def)             Requested size: 407.4149pt x 241.19684pt.
-)
+[45 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanban.png>]
+[46] [47] [48] [49] [50] [51])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo4.tex
-[56 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/WIP.png> <C:/
-Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/metricasKanban.png>]
-[57] [58
+[52] [53
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo5.tex
-[59
+[54
 
-] [60
+] [55
 
 ]) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.bbl
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.brf)
 \tf@brf=\write5
- [61
+ [56
 
 ]
 bibitemlist
-[62
+) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/apendices.tex
+[57
 
-])
-(C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/apendices.tex
-[63] [64
+] [58
 
 
-] [65
+] [59
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/anexos.tex
-[66
+[60
 
-] [67
+] [61
 
 
-] [68
+] [62
 
 ])
 No file tcc.ind.
 
 AED: lastpage setting LastPage
-[69
+[63
 
 ]
 \tf@lof=\write6
@@ -1381,10 +1351,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
 Package rerunfilecheck Info: File `tcc.brf' has not changed.
-(rerunfilecheck)             Checksum: CF86423B68E997AD1CFABD1132445CAE;2521.
-
-
-LaTeX Warning: There were undefined references.
+(rerunfilecheck)             Checksum: EA75BF0227BD9D18ABBE724BABC24A3E;305.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1392,13 +1359,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
- 12517 strings out of 493921
- 185749 string characters out of 3144877
- 299712 words of memory out of 3000000
- 15255 multiletter control sequences out of 15000+200000
+ 12336 strings out of 493921
+ 182922 string characters out of 3144877
+ 295009 words of memory out of 3000000
+ 15101 multiletter control sequences out of 15000+200000
  99431 words of font info for 61 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,13n,38p,2470b,618s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,13n,38p,2470b,508s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files (x86)/
 MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files (x86)/MiKTeX 2.9/font
@@ -1417,9 +1384,9 @@ X 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/public/lm/lmss17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
 ic/lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lms
 y10.pfb>
-Output written on tcc.pdf (70 pages, 1409131 bytes).
+Output written on tcc.pdf (64 pages, 796961 bytes).
 PDF statistics:
- 1120 PDF objects out of 1200 (max. 8388607)
- 215 named destinations out of 1000 (max. 500000)
- 852 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 936 PDF objects out of 1000 (max. 8388607)
+ 193 named destinations out of 1000 (max. 500000)
+ 835 words of extra memory for PDF output out of 10000 (max. 10000000)
 

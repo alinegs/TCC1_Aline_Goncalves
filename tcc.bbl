@@ -5,10 +5,12 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.8 }
 
-\bibitem[Bell e Orzen 2011]{bell2011}
-\abntrefinfo{Bell e Orzen}{BELL; ORZEN}{2011}
-{BELL, S.~C.; ORZEN, M.~A. \emph{Lean IT Enabling and Sustaining your Lean
-  Transformation}. [S.l.: s.n.], 2011.}
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2011]{NBR14724:2011}
+\abntrefinfo{ABNT}{ABNT}{2011}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \emph{{NBR} 14724}:
+  Informa{\c c}\~ao e documenta{\c c}\~ao --- trabalhos acad\^emicos ---
+  apresenta{\c c}\~ao.
+Rio de Janeiro, 2011. 15~p.}
 
 \bibitem[BRASIL 1993]{Lei8666:1993}
 \abntrefinfo{BRASIL}{BRASIL}{1993}
@@ -31,79 +33,16 @@
   Contratação de Serviços de Tecnologia da Informação para Organizações
   Públicas}. [S.l.: s.n.], 2011.}
 
-\bibitem[Guedes 2012]{ranking}
-\abntrefinfo{Guedes}{GUEDES}{2012}
-{GUEDES, P. 2012.}
-
-\bibitem[Hibbs, Jewett e Sullivan 2009]{hibbs2009}
-\abntrefinfo{Hibbs, Jewett e Sullivan}{HIBBS; JEWETT; SULLIVAN}{2009}
-{HIBBS, C.; JEWETT, S.; SULLIVAN, M. \emph{The Art of Lean Software
-  Development}. [S.l.: s.n.], 2009.}
-
-\bibitem[Jardim 2010]{costa2010}
-\abntrefinfo{Jardim}{JARDIM}{2010}
-{JARDIM, R. S.~C. e G. \emph{Os Cinco Passos do Pensamento Enxuto}. [S.l.:
-  s.n.], 2010.}
-
-\bibitem[Jenses 2009]{kanban}
-\abntrefinfo{Jenses}{JENSES}{2009}
-{JENSES, K. 2009.
-Dispon{\'\i}vel em:
-  \htmladdnormallink{$<$http:\-/\-/ketiljensen\-.wordpress\-.com\-/2009\-/10\-/31\-/kanban-the-next-step-in-the-agile-evolution\-/$>$}{http://ketiljensen.wordpress.com/2009/10/31/kanban-the-next-step-in-the-agile-evolution/}.}
-
-\bibitem[Katayama 2010]{katayama2010}
-\abntrefinfo{Katayama}{KATAYAMA}{2010}
-{KATAYAMA, E. \emph{A contribuição da indústria da manufatura no
-  desenvolvimento de software}. [S.l.: s.n.], 2010.}
-
-\bibitem[Klipp 2011]{klipp}
-\abntrefinfo{Klipp}{KLIPP}{2011}
-{KLIPP, P. \emph{Getting Started with Kanban}. [S.l.: s.n.], 2011.}
-
-\bibitem[Kniberg e Skarin 2009]{kniberg2009}
-\abntrefinfo{Kniberg e Skarin}{KNIBERG; SKARIN}{2009}
-{KNIBERG, H.; SKARIN, M. \emph{Kanban e Scrum obtendo o melhor de ambos}.
-  [S.l.: s.n.], 2009.}
-
-\bibitem[Lean Institute Brasil 2013]{leaninstitute}
-\abntrefinfo{Lean Institute Brasil}{LEAN INSTITUTE BRASIL}{2013}
-{LEAN INSTITUTE BRASIL. 2013.
-Dispon{\'\i}vel em:
-  \htmladdnormallink{$<$http:\-/\-/www\-.lean\-.org\-.br\-/o\underline{\
-  }que\underline{\ }e\-.aspx$>$}{http://www.lean.org.br/o_que_e.aspx}.}
-
 \bibitem[Minist\'erio do Planejamento, Orçamento e Gest\~ao 2011]{MPOG:2011}
 \abntrefinfo{MPOG}{MPOG}{2011}
 {MINIST\'ERIO DO PLANEJAMENTO, ORçAMENTO E GEST\~AO. \emph{Guia Prático para
   Contratação de Soluções de Tecnologia da Informação}.
 Brasília, Brasil, 2011.}
 
-\bibitem[Morgan e Liker 2006]{liker}
-\abntrefinfo{Morgan e Liker}{MORGAN; LIKER}{2006}
-{MORGAN, J.~M.; LIKER, J.~K. \emph{The Toyota product development system:
-  integrating people, process, and technology}. [S.l.: s.n.], 2006.}
-
-\bibitem[Poppendieck e Poppendieck 2011]{poppendieck}
-\abntrefinfo{Poppendieck e Poppendieck}{POPPENDIECK; POPPENDIECK}{2011}
-{POPPENDIECK, M.; POPPENDIECK, T. \emph{Implementando o Desenvolvimento Lean de
-  Software}: Do conceito ao dinheiro. [S.l.: s.n.], 2011.}
-
-\bibitem[Rodrigues 2012]{rodrigues2012}
-\abntrefinfo{Rodrigues}{RODRIGUES}{2012}
-{RODRIGUES, M. J.~F. \emph{Implementação de práticas Lean numa linha de
-  produção eletrónica}. [S.l.: s.n.], 2012.}
-
 \bibitem[Tribunal de Contas da Uni\~ao 2012]{TCU:2012}
 \abntrefinfo{TCU}{TCU}{2012}
 {TRIBUNAL DE CONTAS DA UNI\~AO. \emph{Guia de boas práticas em contratação
   de soluções de tecnologia da informação}.
 Brasília, Brasil, 2012.}
-
-\bibitem[Williams 2009]{kanbanindustria}
-\abntrefinfo{Williams}{WILLIAMS}{2009}
-{WILLIAMS, S. 2009.
-Dispon{\'\i}vel em:
-  \htmladdnormallink{$<$http:\-/\-/wheels\-.blogs\-.nytimes\-.com\-/2009\-/09\-/04\-/toyota-quality-control-includes-greensleeves-and-popeye\-/?\underline{\
-  }r=1$>$}{http://wheels.blogs.nytimes.com/2009/09/04/toyota-quality-control-includes-greensleeves-and-popeye/?_r=1}.}
 
 \end{thebibliography}
