@@ -10,6 +10,12 @@
 {BELL, S.~C.; ORZEN, M.~A. \emph{Lean IT Enabling and Sustaining your Lean
   Transformation}. [S.l.: s.n.], 2011.}
 
+\bibitem[Bird 2006]{scrumprocess}
+\abntrefinfo{Bird}{BIRD}{2006}
+{BIRD, C. 2006.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/consultingblogs\-.emc\-.com\-/colinbird\-/archive\-/2006\-/03\-/10\-/3058\-.aspx$>$}{http://consultingblogs.emc.com/colinbird/archive/2006/03/10/3058.aspx}.}
+
 \bibitem[BRASIL 1993]{Lei8666:1993}
 \abntrefinfo{BRASIL}{BRASIL}{1993}
 {BRASIL. \emph{Lei nª 8.666/93, de 21 de Junho de 1993}: Regulamenta o art.
@@ -31,6 +37,11 @@
   Contratação de Serviços de Tecnologia da Informação para Organizações
   Públicas}. [S.l.: s.n.], 2011.}
 
+\bibitem[Filho 2008]{filho}
+\abntrefinfo{Filho}{FILHO}{2008}
+{FILHO, D. L.~B. \emph{Experiências com desenvolvimento ágil}. [S.l.: s.n.],
+  2008.}
+
 \bibitem[Guedes 2012]{ranking}
 \abntrefinfo{Guedes}{GUEDES}{2012}
 {GUEDES, P. 2012.}
@@ -39,6 +50,13 @@
 \abntrefinfo{Hibbs, Jewett e Sullivan}{HIBBS; JEWETT; SULLIVAN}{2009}
 {HIBBS, C.; JEWETT, S.; SULLIVAN, M. \emph{The Art of Lean Software
   Development}. [S.l.: s.n.], 2009.}
+
+\bibitem[Instituto do Patrimônio Histórico e Artístico Nacional
+  2013]{IPHAN:2013}
+\abntrefinfo{IPHAN}{IPHAN}{2013}
+{INSTITUTO DO PATRIMôNIO HISTóRICO E ARTíSTICO NACIONAL. \emph{Metodologia
+  IPHAN de Gestão de Demandas de Desenvolvimento Ágil de Softwares}.
+Brasília, Brasil, 2013.}
 
 \bibitem[Jardim 2010]{costa2010}
 \abntrefinfo{Jardim}{JARDIM}{2010}
@@ -78,10 +96,28 @@ Dispon{\'\i}vel em:
   Contratação de Soluções de Tecnologia da Informação}.
 Brasília, Brasil, 2011.}
 
+\bibitem[Minist\'erio do Planejamento, Orçamento e Gest\~ao 2013]{mcti}
+\abntrefinfo{MPOG}{MPOG}{2013}
+{MINIST\'ERIO DO PLANEJAMENTO, ORçAMENTO E GEST\~AO. 2013.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/arquivo\-.governoeletronico\-.gov\-.br\-/mcti\-/index\-.htm$>$}{http://arquivo.governoeletronico.gov.br/mcti/index.htm}.}
+
 \bibitem[Morgan e Liker 2006]{liker}
 \abntrefinfo{Morgan e Liker}{MORGAN; LIKER}{2006}
 {MORGAN, J.~M.; LIKER, J.~K. \emph{The Toyota product development system:
   integrating people, process, and technology}. [S.l.: s.n.], 2006.}
+
+\bibitem[Parente 2013]{parente}
+\abntrefinfo{Parente}{PARENTE}{2013a}
+{PARENTE, H. 2013.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.slideshare\-.net\-/herbertparente\-/contratao-de-fbrica-de-software-metodologia-gil$>$}{http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil}.}
+
+\bibitem[Parente 2013]{agilebrazil}
+\abntrefinfo{Parente}{PARENTE}{2013b}
+{PARENTE, H. 2013.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/submissoes\-.agilebrazil\-.com\-/2013$>$}{http://submissoes.agilebrazil.com/2013}.}
 
 \bibitem[Poppendieck e Poppendieck 2011]{poppendieck}
 \abntrefinfo{Poppendieck e Poppendieck}{POPPENDIECK; POPPENDIECK}{2011}
@@ -93,11 +129,26 @@ Brasília, Brasil, 2011.}
 {RODRIGUES, M. J.~F. \emph{Implementação de práticas Lean numa linha de
   produção eletrónica}. [S.l.: s.n.], 2012.}
 
+\bibitem[Ruas e Vaz 2013]{ruas}
+\abntrefinfo{Ruas e Vaz}{RUAS; VAZ}{2013}
+{RUAS, F.; VAZ, W. 2013.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.slideshare\-.net\-/faruas\-/apresentacao-agile-brazil-2013$>$}{http://www.slideshare.net/faruas/apresentacao-agile-brazil-2013}.}
+
+\bibitem[Sutherland's 2010]{jeff}
+\abntrefinfo{Sutherland's}{SUTHERLAND'S}{2010}
+{SUTHERLAND'S, J. \emph{Scrum Handbook}. [S.l.: s.n.], 2010.}
+
 \bibitem[Tribunal de Contas da Uni\~ao 2012]{TCU:2012}
 \abntrefinfo{TCU}{TCU}{2012}
 {TRIBUNAL DE CONTAS DA UNI\~AO. \emph{Guia de boas práticas em contratação
   de soluções de tecnologia da informação}.
 Brasília, Brasil, 2012.}
+
+\bibitem[Tribunal de Contas da Uni\~ao 2013]{TCU:2013}
+\abntrefinfo{TCU}{TCU}{2013}
+{TRIBUNAL DE CONTAS DA UNI\~AO. \emph{Acórdão nº 116247}.
+Brasília, Brasil, 2013.}
 
 \bibitem[Williams 2009]{kanbanindustria}
 \abntrefinfo{Williams}{WILLIAMS}{2009}
