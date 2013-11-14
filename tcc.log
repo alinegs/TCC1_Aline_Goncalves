@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  28 OCT 2013 18:04
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  14 NOV 2013 15:59
 entering extended mode
 **C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
 (C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
@@ -972,9 +972,6 @@ LaTeX Warning: Label `fig01' multiply defined.
 LaTeX Warning: Label `fig02' multiply defined.
 
 
-LaTeX Warning: Label `fig03' multiply defined.
-
-
 LaTeX Warning: Label `fig05' multiply defined.
 
 
@@ -982,6 +979,9 @@ LaTeX Warning: Label `fig01' multiply defined.
 
 
 LaTeX Warning: Label `fig02' multiply defined.
+
+
+LaTeX Warning: Label `fig03' multiply defined.
 
 
 LaTeX Warning: Label `fig01' multiply defined.
@@ -1233,7 +1233,7 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 39.
 
-<figuras/metodologiapesquisa.png, id=410, 837.8502pt x 542.025pt>
+<figuras/metodologiapesquisa.png, id=412, 837.8502pt x 542.025pt>
 File: figuras/metodologiapesquisa.png Graphic file (type png)
 
 <use figuras/metodologiapesquisa.png>
@@ -1261,7 +1261,7 @@ ol-vi-mento
 
 [24
 
-] [25] [26] [27] [28] <figuras/MCTI.png, id=467, 554.82281pt x 240.14719pt>
+] [25] [26] [27] [28] <figuras/MCTI.png, id=469, 554.82281pt x 240.14719pt>
 File: figuras/MCTI.png Graphic file (type png)
 
 <use figuras/MCTI.png>
@@ -1273,7 +1273,7 @@ Overfull \hbox (5.67972pt too wide) in paragraph at lines 84--84
  []
 
 [29 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/MCTI.png>]
-[30] <figuras/GCTI.png, id=482, 699.36281pt x 380.17032pt>
+[30] <figuras/GCTI.png, id=484, 699.36281pt x 380.17032pt>
 File: figuras/GCTI.png Graphic file (type png)
 
 <use figuras/GCTI.png>
@@ -1286,7 +1286,7 @@ Package pdftex.def Info: figuras/GCTI.png used on input line 117.
 
 ] [35
 
-] <figuras/ranking.png, id=516, 593.21625pt x 403.5075pt>
+] <figuras/ranking.png, id=518, 593.21625pt x 403.5075pt>
 File: figuras/ranking.png Graphic file (type png)
 
 <use figuras/ranking.png>
@@ -1296,7 +1296,7 @@ Package pdftex.def Info: figuras/ranking.png used on input line 28.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[36] <figuras/principioslean.png, id=528, 633.86812pt x 401.24907pt>
+[36] <figuras/principioslean.png, id=530, 633.86812pt x 401.24907pt>
 File: figuras/principioslean.png Graphic file (type png)
 
 <use figuras/principioslean.png>
@@ -1304,137 +1304,119 @@ Package pdftex.def Info: figuras/principioslean.png used on input line 39.
 (pdftex.def)             Requested size: 443.70467pt x 280.87242pt.
  [37 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/ranking.png>
  <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/principioslean.p
-ng>] [38]
-<figuras/matrizcomportamento.png, id=546, 469.00218pt x 357.58594pt>
-File: figuras/matrizcomportamento.png Graphic file (type png)
+ng>] [38] [39] [40] [41] [42] [43] [44]
+<figuras/kanban.png, id=594, 680.5425pt x 467.49657pt>
+File: figuras/kanban.png Graphic file (type png)
 
-<use figuras/matrizcomportamento.png>
-Package pdftex.def Info: figuras/matrizcomportamento.png used on input line 75.
+<use figuras/kanban.png>
+Package pdftex.def Info: figuras/kanban.png used on input line 170.
+(pdftex.def)             Requested size: 476.3765pt x 327.24536pt.
 
-(pdftex.def)             Requested size: 422.09807pt x 321.82436pt.
+Overfull \hbox (21.3765pt too wide) in paragraph at lines 170--171
+ [][] 
+ []
+
+[45 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanban.png>]
+<figuras/WIP.png, id=608, 524.71031pt x 267.24844pt>
+File: figuras/WIP.png Graphic file (type png)
+ <use figuras/WIP.png>
+Package pdftex.def Info: figuras/WIP.png used on input line 184.
+(pdftex.def)             Requested size: 262.3545pt x 133.62389pt.
+
+<figuras/metricasKanban.png, id=615, 1018.55531pt x 603.0028pt>
+File: figuras/metricasKanban.png Graphic file (type png)
+
+<use figuras/metricasKanban.png>
+Package pdftex.def Info: figuras/metricasKanban.png used on input line 196.
+(pdftex.def)             Requested size: 407.4149pt x 241.19684pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[39] [40 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/matrizco
-mportamento.png>] [41] [42] [43] [44] [45] [46]
-<figuras/kanbanindustria.png, id=612, 361.35pt x 220.57407pt>
-File: figuras/kanbanindustria.png Graphic file (type png)
+) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo4.tex
+[46 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/WIP.png>]
+[47 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/metricasKanba
+n.png>] [48
 
-<use figuras/kanbanindustria.png>
-Package pdftex.def Info: figuras/kanbanindustria.png used on input line 211.
-(pdftex.def)             Requested size: 361.34912pt x 220.57352pt.
- [47 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanindust
-ria.png>] [48] [49] [50] [51] [52] [53]
-[54] <figuras/kanban.png, id=669, 680.5425pt x 467.49657pt>
-File: figuras/kanban.png Graphic file (type png)
+] [49
 
-<use figuras/kanban.png>
-Package pdftex.def Info: figuras/kanban.png used on input line 342.
-(pdftex.def)             Requested size: 476.3765pt x 327.24536pt.
-
-Overfull \hbox (21.3765pt too wide) in paragraph at lines 342--343
- [][] 
- []
-
-[55 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanban.png>]
-<figuras/WIP.png, id=679, 524.71031pt x 267.24844pt>
-File: figuras/WIP.png Graphic file (type png)
- <use figuras/WIP.png>
-Package pdftex.def Info: figuras/WIP.png used on input line 354.
-(pdftex.def)             Requested size: 262.3545pt x 133.62389pt.
-
-<figuras/metricasKanban.png, id=686, 1018.55531pt x 603.0028pt>
-File: figuras/metricasKanban.png Graphic file (type png)
-
-<use figuras/metricasKanban.png>
-Package pdftex.def Info: figuras/metricasKanban.png used on input line 366.
-(pdftex.def)             Requested size: 407.4149pt x 241.19684pt.
-)
-(C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo4.tex
-[56 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/WIP.png> <C:/
-Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/metricasKanban.png>]
-[57] [58
-
-] [59
-
-] [60] <figuras/scrum.png, id=720, 453.19313pt x 283.0575pt>
+] [50] <figuras/scrum.png, id=654, 453.19313pt x 283.0575pt>
 File: figuras/scrum.png Graphic file (type png)
 
 <use figuras/scrum.png>
 Package pdftex.def Info: figuras/scrum.png used on input line 48.
 (pdftex.def)             Requested size: 407.87004pt x 254.74937pt.
- [61 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/scrum.png>] 
-[62]
-<figuras/prescritivo.png, id=738, 499.11469pt x 111.41624pt>
+ [51 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/scrum.png>] 
+[52]
+<figuras/prescritivo.png, id=676, 499.11469pt x 111.41624pt>
 File: figuras/prescritivo.png Graphic file (type png)
 
 <use figuras/prescritivo.png>
-Package pdftex.def Info: figuras/prescritivo.png used on input line 73.
+Package pdftex.def Info: figuras/prescritivo.png used on input line 71.
 (pdftex.def)             Requested size: 349.37788pt x 77.99083pt.
- [63 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/prescritivo.
+ [53 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/prescritivo.
 png>]
-<figuras/quadros.png, id=743, 659.46375pt x 292.84406pt>
+<figuras/quadros.png, id=683, 659.46375pt x 292.84406pt>
 File: figuras/quadros.png Graphic file (type png)
 
 <use figuras/quadros.png>
-Package pdftex.def Info: figuras/quadros.png used on input line 92.
+Package pdftex.def Info: figuras/quadros.png used on input line 90.
 (pdftex.def)             Requested size: 461.62148pt x 204.98944pt.
 
-Overfull \hbox (6.62148pt too wide) in paragraph at lines 92--93
+Overfull \hbox (6.62148pt too wide) in paragraph at lines 90--91
  [][] 
  []
 
-[64 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quadros.png>]
-[65] [66] [67] [68] [69]
-<figuras/kanbanIPHAN1.png, id=784, 929.72343pt x 383.93437pt>
+[54 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quadros.png>]
+[55] [56] [57] [58] [59]
+<figuras/kanbanIPHAN1.png, id=727, 929.72343pt x 383.93437pt>
 File: figuras/kanbanIPHAN1.png Graphic file (type png)
 
 <use figuras/kanbanIPHAN1.png>
-Package pdftex.def Info: figuras/kanbanIPHAN1.png used on input line 179.
+Package pdftex.def Info: figuras/kanbanIPHAN1.png used on input line 175.
 (pdftex.def)             Requested size: 464.86058pt x 191.9667pt.
 
-Overfull \hbox (9.86058pt too wide) in paragraph at lines 179--180
+Overfull \hbox (9.86058pt too wide) in paragraph at lines 175--176
  [][] 
  []
 
-[70 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanIPHAN1.
-png>] <figuras/kanbanIPHAN2.png, id=793, 648.92438pt x 377.91188pt>
+[60 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanIPHAN1.
+png>] <figuras/kanbanIPHAN2.png, id=737, 648.92438pt x 377.91188pt>
 File: figuras/kanbanIPHAN2.png Graphic file (type png)
 
 <use figuras/kanbanIPHAN2.png>
-Package pdftex.def Info: figuras/kanbanIPHAN2.png used on input line 188.
+Package pdftex.def Info: figuras/kanbanIPHAN2.png used on input line 184.
 (pdftex.def)             Requested size: 324.4614pt x 188.95547pt.
 
-<figuras/kanbanIPHAN3.png, id=798, 715.17188pt x 429.10312pt>
+<figuras/kanbanIPHAN3.png, id=742, 715.17188pt x 429.10312pt>
 File: figuras/kanbanIPHAN3.png Graphic file (type png)
 
 <use figuras/kanbanIPHAN3.png>
-Package pdftex.def Info: figuras/kanbanIPHAN3.png used on input line 198.
+Package pdftex.def Info: figuras/kanbanIPHAN3.png used on input line 194.
 (pdftex.def)             Requested size: 357.58505pt x 214.55103pt.
- [71 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanIPHAN2
+ [61 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanIPHAN2
 .png> <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanIPHAN
 3.png>]
-<figuras/kanbanIPHAN4.png, id=807, 694.84593pt x 400.49625pt>
+<figuras/kanbanIPHAN4.png, id=751, 694.84593pt x 400.49625pt>
 File: figuras/kanbanIPHAN4.png Graphic file (type png)
 
 <use figuras/kanbanIPHAN4.png>
-Package pdftex.def Info: figuras/kanbanIPHAN4.png used on input line 212.
+Package pdftex.def Info: figuras/kanbanIPHAN4.png used on input line 208.
 (pdftex.def)             Requested size: 347.4221pt x 200.24763pt.
- [72 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanIPHAN4
+ [62 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanIPHAN4
 .png>]
-<figuras/kanbanIPHAN5.png, id=817, 644.4075pt x 331.2375pt>
+<figuras/kanbanIPHAN5.png, id=760, 644.4075pt x 331.2375pt>
 File: figuras/kanbanIPHAN5.png Graphic file (type png)
 
 <use figuras/kanbanIPHAN5.png>
-Package pdftex.def Info: figuras/kanbanIPHAN5.png used on input line 243.
+Package pdftex.def Info: figuras/kanbanIPHAN5.png used on input line 239.
 (pdftex.def)             Requested size: 386.64748pt x 198.74402pt.
 )
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo5.tex
-[73 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanIPHAN5.
-png>] [74
+[63 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanIPHAN5.
+png>] [64
 
-] <figuras/escopoEC.png, id=831, 715.17188pt x 371.13657pt>
+] <figuras/escopoEC.png, id=774, 715.17188pt x 371.13657pt>
 File: figuras/escopoEC.png Graphic file (type png)
 
 <use figuras/escopoEC.png>
@@ -1444,89 +1426,107 @@ Package pdftex.def Info: figuras/escopoEC.png used on input line 26.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[75
+[65
 
-] [76 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/escopoEC.pn
-g>]
-Overfull \hbox (9.31993pt too wide) in paragraph at lines 69--70
-[]\T1/lmr/m/n/12 O tempo de exe-cu-ção de uma mu-dança com o uso de me-to-do-lo
--gias ágeis é maior/menor
- []
-
-[77] <figuras/cronograma2.png, id=844, 721.19438pt x 427.5975pt>
+] [66 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/escopoEC.pn
+g>] [67] [68] <figuras/cronograma2.png, id=792, 721.19438pt x 427.5975pt>
 File: figuras/cronograma2.png Graphic file (type png)
 
 <use figuras/cronograma2.png>
-Package pdftex.def Info: figuras/cronograma2.png used on input line 87.
+Package pdftex.def Info: figuras/cronograma2.png used on input line 103.
 (pdftex.def)             Requested size: 432.71997pt x 256.56047pt.
-)
-(C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.bbl
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.bbl
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.brf)
 \tf@brf=\write5
- [78 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/cronograma2.
-png>]
+ [69] [70 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/cronogr
+ama2.png>]
 bibitemlist
-[79
+[71
 
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/apendices.tex
-[80] [81
+[72] [73
 
 
-] [82
+] [74
 
-] [83])
+] [75])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/anexos.tex
-[84
+[76
 
-] [85
+] [77
 
 
-] [86
+] [78
 
 ]
-Underfull \hbox (badness 1742) in paragraph at lines 9--9
+<figuras/matrizcomportamento.png, id=968, 469.00218pt x 357.58594pt>
+File: figuras/matrizcomportamento.png Graphic file (type png)
+
+<use figuras/matrizcomportamento.png>
+Package pdftex.def Info: figuras/matrizcomportamento.png used on input line 39.
+
+(pdftex.def)             Requested size: 422.09807pt x 321.82436pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[79] [80 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/matrizco
+mportamento.png>] [81] [82] [83] [84] [85] [86]
+<figuras/kanbanindustria.png, id=1035, 361.35pt x 220.57407pt>
+File: figuras/kanbanindustria.png Graphic file (type png)
+
+<use figuras/kanbanindustria.png>
+Package pdftex.def Info: figuras/kanbanindustria.png used on input line 158.
+(pdftex.def)             Requested size: 361.34912pt x 220.57352pt.
+ [87 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanindust
+ria.png>]
+Underfull \hbox (badness 1742) in paragraph at lines 162--162
 \T1/lmss/m/n/24.88 de De-man-das de De-sen-vol-vi-
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 29--30
+Underfull \hbox (badness 1062) in paragraph at lines 182--183
 []|\T1/lmr/m/n/10 Área Re-qui-si-tante da So-lu-ção, In-te-
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 29--30
+Underfull \hbox (badness 2600) in paragraph at lines 182--183
 \T1/lmr/m/n/10 grante Re-qui-si-tante, Fis-cal Re-qui-si-
  []
 
-[87
+[88
 
-] <figuras/processoMIDAS.png, id=982, 1318.9275pt x 679.03688pt>
+] <figuras/processoMIDAS.png, id=1047, 1318.9275pt x 679.03688pt>
 File: figuras/processoMIDAS.png Graphic file (type png)
 
 <use figuras/processoMIDAS.png>
-Package pdftex.def Info: figuras/processoMIDAS.png used on input line 49.
+Package pdftex.def Info: figuras/processoMIDAS.png used on input line 202.
 (pdftex.def)             Requested size: 395.6813pt x 203.71263pt.
 
-<figuras/subprocessoAteste.png, id=987, 641.39626pt x 481.04718pt>
+<figuras/subprocessoAteste.png, id=1052, 641.39626pt x 481.04718pt>
 File: figuras/subprocessoAteste.png Graphic file (type png)
 
 <use figuras/subprocessoAteste.png>
-Package pdftex.def Info: figuras/subprocessoAteste.png used on input line 58.
+Package pdftex.def Info: figuras/subprocessoAteste.png used on input line 211.
 (pdftex.def)             Requested size: 448.97432pt x 336.73073pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[88 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/processoMIDAS
-.png>] <figuras/subprocessoSprint.png, id=996, 1171.37625pt x 663.22781pt>
+[89 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/processoMIDAS
+.png>] <figuras/subprocessoSprint.png, id=1061, 1171.37625pt x 663.22781pt>
 File: figuras/subprocessoSprint.png Graphic file (type png)
 
 <use figuras/subprocessoSprint.png>
-Package pdftex.def Info: figuras/subprocessoSprint.png used on input line 68.
+Package pdftex.def Info: figuras/subprocessoSprint.png used on input line 221.
 (pdftex.def)             Requested size: 468.5422pt x 265.28642pt.
 
-Overfull \hbox (13.5422pt too wide) in paragraph at lines 68--69
+Overfull \hbox (13.5422pt too wide) in paragraph at lines 221--222
  [][] 
  []
 
@@ -1537,8 +1537,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 No file tcc.ind.
 
 AED: lastpage setting LastPage
-[89 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/subprocessoAt
-este.png>] [90 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/su
+[90 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/subprocessoAt
+este.png>] [91 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/su
 bprocessoSprint.png>]
 \tf@lof=\write6
 \tf@lot=\write7
@@ -1550,7 +1550,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
 Package rerunfilecheck Info: File `tcc.brf' has not changed.
-(rerunfilecheck)             Checksum: CE577F11FA75E6050283FC95C4E03F77;4059.
+(rerunfilecheck)             Checksum: C0757783174A6253C63F2A11499C3ED3;5503.
 
 
 LaTeX Warning: There were undefined references.
@@ -1561,10 +1561,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
- 12751 strings out of 493921
- 189368 string characters out of 3144877
- 304906 words of memory out of 3000000
- 15410 multiletter control sequences out of 15000+200000
+ 12776 strings out of 493921
+ 189896 string characters out of 3144877
+ 307824 words of memory out of 3000000
+ 15431 multiletter control sequences out of 15000+200000
  99431 words of font info for 61 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  41i,13n,38p,2470b,800s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1586,9 +1586,9 @@ X 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/public/lm/lmss17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
 ic/lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lms
 y10.pfb>
-Output written on tcc.pdf (91 pages, 3564397 bytes).
+Output written on tcc.pdf (92 pages, 3582146 bytes).
 PDF statistics:
- 1422 PDF objects out of 1440 (max. 8388607)
- 281 named destinations out of 1000 (max. 500000)
- 925 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1491 PDF objects out of 1728 (max. 8388607)
+ 285 named destinations out of 1000 (max. 500000)
+ 933 words of extra memory for PDF output out of 10000 (max. 10000000)
 
