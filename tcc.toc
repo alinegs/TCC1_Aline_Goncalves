@@ -3,11 +3,11 @@
 \contentsline {part}{\partnumberline {I}INTRODU\IeC {\c C}\IeC {\~A}O}{15}{part.1}
 \contentsline {chapter}{\chapternumberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{16}{chapter.1}
 \contentsline {section}{\numberline {1.1}Contexto}{16}{section.1.1}
-\contentsline {section}{\numberline {1.2}Justificativa}{18}{section.1.2}
+\contentsline {section}{\numberline {1.2}Justificativa}{17}{section.1.2}
 \contentsline {section}{\numberline {1.3}Problema}{18}{section.1.3}
 \contentsline {section}{\numberline {1.4}Objetivos}{18}{section.1.4}
 \contentsline {section}{\numberline {1.5}Metodologia de Pesquisa}{19}{section.1.5}
-\contentsline {section}{\numberline {1.6}Organiza\IeC {\c c}\IeC {\~a}o do Trabalho}{21}{section.1.6}
+\contentsline {section}{\numberline {1.6}Organiza\IeC {\c c}\IeC {\~a}o do Trabalho}{20}{section.1.6}
 \contentsline {part}{\partnumberline {II}CONTRATA\IeC {\c C}\IeC {\~O}ES DE FORNECEDORES DE DESENVOLVIMENTO DE SOFTWARE}{22}{part.2}
 \contentsline {chapter}{\chapternumberline {2}Contrata\IeC {\c c}\IeC {\~o}es de Fornecedores de Desenvolvimento de Software}{23}{chapter.2}
 \contentsline {section}{\numberline {2.1}Import\IeC {\^a}ncia da Contra\IeC {\c c}\IeC {\~a}o de Fornecedores de Desenvolvimento de Software}{23}{section.2.1}
@@ -16,7 +16,6 @@
 \contentsline {subsection}{\numberline {2.2.2}Instru\IeC {\c c}\IeC {\~a}o Normativa n\IeC {\textordmasculine } 04}{26}{subsection.2.2.2}
 \contentsline {subsubsection}{\numberline {2.2.2.1}Disposi\IeC {\c c}\IeC {\~o}es Gerais}{27}{subsubsection.2.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.2.2}Processo de Contrata\IeC {\c c}\IeC {\~a}o}{28}{subsubsection.2.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Processo de Contrata\IeC {\c c}\IeC {\~a}o de Servi\IeC {\c c}os Tecnologia da Informa\IeC {\c c}\IeC {\~a}o}{32}{subsection.2.2.3}
 \contentsline {part}{\partnumberline {III}PENSAMENTO LEAN}{33}{part.3}
 \contentsline {chapter}{\chapternumberline {3}Pensamento Lean}{34}{chapter.3}
 \contentsline {section}{\numberline {3.1}Lean na Manufatura}{34}{section.3.1}
@@ -58,35 +57,35 @@
 \contentsline {section}{\numberline {5.2}Estudo de Caso}{66}{section.5.2}
 \contentsline {subsection}{\numberline {5.2.1}A Organiza\IeC {\c c}\IeC {\~a}o}{67}{subsection.5.2.1}
 \contentsline {subsection}{\numberline {5.2.2}Quest\IeC {\~o}es de Pesquisa}{69}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Fonte e M\IeC {\'e}todo Coleta de Dados}{69}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.3}Fonte e M\IeC {\'e}todo Coleta de Dados}{70}{subsection.5.2.3}
 \contentsline {section}{\numberline {5.3}Resultados Esperados}{70}{section.5.3}
 \contentsline {section}{\numberline {5.4}Cronograma de Execu\IeC {\c c}\IeC {\~a}o}{70}{section.5.4}
 \contentsline {chapter}{Refer\^encias}{72}{section*.16}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
-\contentsline {part}{Ap\^endices}{74}{section*.17}
-\contentsline {appendix}{\chapternumberline {A}Roteiro da Entrevista}{75}{appendix.A}
+\contentsline {part}{Ap\^endices}{75}{section*.17}
+\contentsline {appendix}{\chapternumberline {A}Roteiro da Entrevista}{76}{appendix.A}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
-\contentsline {part}{Anexos}{77}{section*.18}
-\contentsline {appendix}{\chapternumberline {A}Princ\IeC {\'\i }pios e Pr\IeC {\'a}ticas Lean na Manufatura}{78}{appendix.anexochapback.1}
-\contentsline {section}{\numberline {A.1}Princ\IeC {\'\i }pios}{78}{section.anexochapback.1.1}
-\contentsline {subsection}{\numberline {A.1.1}Const\IeC {\^a}ncia de Prop\IeC {\'o}sitos}{78}{subsection.anexochapback.1.1.1}
-\contentsline {subsection}{\numberline {A.1.2}Respeito \IeC {\`a}s Pessoas}{78}{subsection.anexochapback.1.1.2}
-\contentsline {subsection}{\numberline {A.1.3}Melhoria Cont\IeC {\'\i }nua e Perfei\IeC {\c c}\IeC {\~a}o}{79}{subsection.anexochapback.1.1.3}
-\contentsline {subsection}{\numberline {A.1.4}Comportamento Proativo}{79}{subsection.anexochapback.1.1.4}
-\contentsline {subsection}{\numberline {A.1.5}Voz do Cliente}{80}{subsection.anexochapback.1.1.5}
-\contentsline {subsection}{\numberline {A.1.6}Qualidade na Ra\IeC {\'\i }z}{81}{subsection.anexochapback.1.1.6}
-\contentsline {subsection}{\numberline {A.1.7}Pensamento Sist\IeC {\^e}mico}{81}{subsection.anexochapback.1.1.7}
-\contentsline {subsection}{\numberline {A.1.8}Fluxo Cont\IeC {\'\i }nuo, Produ\IeC {\c c}\IeC {\~a}o Puxada e Just in Time}{82}{subsection.anexochapback.1.1.8}
-\contentsline {subsection}{\numberline {A.1.9}Cultura}{83}{subsection.anexochapback.1.1.9}
-\contentsline {section}{\numberline {A.2}Conceitos de Valor e Desperd\IeC {\'\i }cio}{83}{section.anexochapback.1.2}
-\contentsline {subsection}{\numberline {A.2.1}Valor}{84}{subsection.anexochapback.1.2.1}
-\contentsline {subsection}{\numberline {A.2.2}Cadeia de Valor}{84}{subsection.anexochapback.1.2.2}
-\contentsline {subsection}{\numberline {A.2.3}Os Tr\IeC {\^e}s Ms}{84}{subsection.anexochapback.1.2.3}
-\contentsline {section}{\numberline {A.3}Pr\IeC {\'a}ticas e Ferramentas}{85}{section.anexochapback.1.3}
-\contentsline {subsection}{\numberline {A.3.1}A3 Thinking}{85}{subsection.anexochapback.1.3.1}
-\contentsline {subsection}{\numberline {A.3.2}Mapeamento da Cadeia de Valor}{85}{subsection.anexochapback.1.3.2}
-\contentsline {subsection}{\numberline {A.3.3}Kaizen}{85}{subsection.anexochapback.1.3.3}
-\contentsline {subsection}{\numberline {A.3.4}Metodologia 5S}{86}{subsection.anexochapback.1.3.4}
-\contentsline {subsection}{\numberline {A.3.5}Kanban}{87}{subsection.anexochapback.1.3.5}
-\contentsline {appendix}{\chapternumberline {B}Metodologia IPHAN de Gest\IeC {\~a}o de Demandas de Desenvolvimento \IeC {\'A}gil de Software}{89}{appendix.anexochapback.2}
+\contentsline {part}{Anexos}{78}{section*.18}
+\contentsline {appendix}{\chapternumberline {A}Princ\IeC {\'\i }pios e Pr\IeC {\'a}ticas Lean na Manufatura}{79}{appendix.anexochapback.1}
+\contentsline {section}{\numberline {A.1}Princ\IeC {\'\i }pios}{79}{section.anexochapback.1.1}
+\contentsline {subsection}{\numberline {A.1.1}Const\IeC {\^a}ncia de Prop\IeC {\'o}sitos}{79}{subsection.anexochapback.1.1.1}
+\contentsline {subsection}{\numberline {A.1.2}Respeito \IeC {\`a}s Pessoas}{79}{subsection.anexochapback.1.1.2}
+\contentsline {subsection}{\numberline {A.1.3}Melhoria Cont\IeC {\'\i }nua e Perfei\IeC {\c c}\IeC {\~a}o}{80}{subsection.anexochapback.1.1.3}
+\contentsline {subsection}{\numberline {A.1.4}Comportamento Proativo}{80}{subsection.anexochapback.1.1.4}
+\contentsline {subsection}{\numberline {A.1.5}Voz do Cliente}{81}{subsection.anexochapback.1.1.5}
+\contentsline {subsection}{\numberline {A.1.6}Qualidade na Ra\IeC {\'\i }z}{82}{subsection.anexochapback.1.1.6}
+\contentsline {subsection}{\numberline {A.1.7}Pensamento Sist\IeC {\^e}mico}{82}{subsection.anexochapback.1.1.7}
+\contentsline {subsection}{\numberline {A.1.8}Fluxo Cont\IeC {\'\i }nuo, Produ\IeC {\c c}\IeC {\~a}o Puxada e Just in Time}{83}{subsection.anexochapback.1.1.8}
+\contentsline {subsection}{\numberline {A.1.9}Cultura}{84}{subsection.anexochapback.1.1.9}
+\contentsline {section}{\numberline {A.2}Conceitos de Valor e Desperd\IeC {\'\i }cio}{84}{section.anexochapback.1.2}
+\contentsline {subsection}{\numberline {A.2.1}Valor}{85}{subsection.anexochapback.1.2.1}
+\contentsline {subsection}{\numberline {A.2.2}Cadeia de Valor}{85}{subsection.anexochapback.1.2.2}
+\contentsline {subsection}{\numberline {A.2.3}Os Tr\IeC {\^e}s Ms}{85}{subsection.anexochapback.1.2.3}
+\contentsline {section}{\numberline {A.3}Pr\IeC {\'a}ticas e Ferramentas}{86}{section.anexochapback.1.3}
+\contentsline {subsection}{\numberline {A.3.1}A3 Thinking}{86}{subsection.anexochapback.1.3.1}
+\contentsline {subsection}{\numberline {A.3.2}Mapeamento da Cadeia de Valor}{86}{subsection.anexochapback.1.3.2}
+\contentsline {subsection}{\numberline {A.3.3}Kaizen}{86}{subsection.anexochapback.1.3.3}
+\contentsline {subsection}{\numberline {A.3.4}Metodologia 5S}{87}{subsection.anexochapback.1.3.4}
+\contentsline {subsection}{\numberline {A.3.5}Kanban}{88}{subsection.anexochapback.1.3.5}
+\contentsline {appendix}{\chapternumberline {B}Metodologia IPHAN de Gest\IeC {\~a}o de Demandas de Desenvolvimento \IeC {\'A}gil de Software}{90}{appendix.anexochapback.2}

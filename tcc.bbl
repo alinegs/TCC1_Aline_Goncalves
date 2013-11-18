@@ -96,6 +96,17 @@ Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/www\-.lean\-.org\-.br\-/o\underline{\
   }que\underline{\ }e\-.aspx$>$}{http://www.lean.org.br/o_que_e.aspx}.}
 
+\bibitem[Lima e Silva 2003]{complexidade}
+\abntrefinfo{Lima e Silva}{LIMA; SILVA}{2003}
+{LIMA, O.; SILVA, W. 2003.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www2\-.ufersa\-.edu\-.br\-/portal\-/view\-/uploads\-/setores\-/241\-/texto\%203\-.pdf$>$}{http://www2.ufersa.edu.br/portal/view/uploads/setores/241/texto\%203.pdf}.}
+
+\bibitem[Melo et al. 2012]{RTMAC}
+\abntrefinfo{Melo et al.}{MELO et al.}{2012}
+{MELO, C. et al. \emph{Métodos ágeis no Brasil: estado da prática em times e
+  organizações}. [S.l.: s.n.], 2012.}
+
 \bibitem[Minist\'erio do Planejamento, Orçamento e Gest\~ao 2011]{MPOG:2011}
 \abntrefinfo{MPOG}{MPOG}{2011}
 {MINIST\'ERIO DO PLANEJAMENTO, ORçAMENTO E GEST\~AO. \emph{Guia Prático para
@@ -130,6 +141,11 @@ Dispon{\'\i}vel em:
 Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/submissoes\-.agilebrazil\-.com\-/2013$>$}{http://submissoes.agilebrazil.com/2013}.}
 
+\bibitem[Pereira e Sousa 2011]{porto}
+\abntrefinfo{Pereira e Sousa}{PEREIRA; SOUSA}{2011}
+{PEREIRA, C.; SOUSA, C. \emph{Metodologias de Desenvolvimeto de SW -
+  Metodologias "Ágeis"}. [S.l.: s.n.], 2011.}
+
 \bibitem[Poppendieck e Poppendieck 2011]{poppendieck}
 \abntrefinfo{Poppendieck e Poppendieck}{POPPENDIECK; POPPENDIECK}{2011}
 {POPPENDIECK, M.; POPPENDIECK, T. \emph{Implementando o Desenvolvimento Lean de
@@ -146,6 +162,10 @@ Dispon{\'\i}vel em:
 Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/www\-.slideshare\-.net\-/faruas\-/apresentacao-agile-brazil-2013$>$}{http://www.slideshare.net/faruas/apresentacao-agile-brazil-2013}.}
 
+\bibitem[Saldanha 2005]{administracao}
+\abntrefinfo{Saldanha}{SALDANHA}{2005}
+{SALDANHA, B. L.~F. \emph{O Gerenciamento e suas origens}. [S.l.: s.n.], 2005.}
+
 \bibitem[Sutherland's 2010]{jeff}
 \abntrefinfo{Sutherland's}{SUTHERLAND'S}{2010}
 {SUTHERLAND'S, J. \emph{Scrum Handbook}. [S.l.: s.n.], 2010.}
@@ -158,8 +178,15 @@ Brasília, Brasil, 2012.}
 
 \bibitem[Tribunal de Contas da Uni\~ao 2013]{TCU:2013}
 \abntrefinfo{TCU}{TCU}{2013}
-{TRIBUNAL DE CONTAS DA UNI\~AO. \emph{Acórdão nº 116247}.
+{TRIBUNAL DE CONTAS DA UNI\~AO. \emph{Acórdão nº 2314}.
 Brasília, Brasil, 2013.}
+
+\bibitem[Vieira et al. 2005]{sistemas}
+\abntrefinfo{Vieira et al.}{VIEIRA et al.}{2005}
+{VIEIRA, E. et al. \emph{A Teoria Geral de Sistemas, Gestão do Conhecimento e
+  Educação a Distância}. 2005.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.redalyc\-.org\-/articulo\-.oa?id=273520153003$>$}{http://www.redalyc.org/articulo.oa?id=273520153003}.}
 
 \bibitem[Williams 2009]{kanbanindustria}
 \abntrefinfo{Williams}{WILLIAMS}{2009}

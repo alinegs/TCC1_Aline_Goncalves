@@ -13,18 +13,22 @@ Warning--entry type for "kanban" isn't style-file defined
 Warning--entry type for "scrumprocess" isn't style-file defined
 --line 141 of file bibliografia.bib
 Warning--entry type for "agilebrazil" isn't style-file defined
---line 155 of file bibliografia.bib
+--line 148 of file bibliografia.bib
 Warning--entry type for "mcti" isn't style-file defined
---line 162 of file bibliografia.bib
+--line 155 of file bibliografia.bib
 Warning--entry type for "ruas" isn't style-file defined
---line 170 of file bibliografia.bib
+--line 163 of file bibliografia.bib
 Warning--entry type for "parente" isn't style-file defined
---line 176 of file bibliografia.bib
+--line 169 of file bibliografia.bib
 Warning--entry type for "manifesto" isn't style-file defined
---line 182 of file bibliografia.bib
+--line 175 of file bibliografia.bib
+Warning--entry type for "sistemas" isn't style-file defined
+--line 196 of file bibliografia.bib
+Warning--entry type for "complexidade" isn't style-file defined
+--line 203 of file bibliografia.bib
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.8           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://abntex2.googlecode.com                           |
 +---------------------------------------------------------+
-(There were 10 warnings)
+(There were 12 warnings)
