@@ -10,12 +10,9 @@ O foco deste trabalho será investigar a utilização da ferramenta Kanban na fa
 
 À luz do levantamento bibliográfico realizado, não foram encontrados estudos que buscassem levantar e analisar os aspectos advindos do uso de metodologias ágeis em contraposição ao uso de metodologias tradicionais no contexto da gestão de contratos de fornecedores de desenvolvimento de software.
 
-Assim, a proposta deste trabalho consiste na investigação, coleta, análise e discussão dos resultados, de dados de contratações de fornecedores de desenvolvimento de software por uma instituição pública brasileira afim de comparação entre os resultados obtidos com uso de metodologias ágeis e os resultados obtidos sem o uso das metodologias ágeis na gestão de contratos de fornecedores de desenvolvimento de software.Com este objetivo, será realizado um estudo de caso que será definido na próxima seção.
-
+Assim, a proposta deste trabalho consiste na investigação, coleta, análise e discussão dos resultados, de dados de contratações de fornecedores de desenvolvimento de software por uma instituição pública brasileira. A partir da análise  dos dados será realizada uma comparação entre os resultados obtidos com uso de metodologias ágeis e os resultados obtidos sem o uso de metodologias ágeis na gestão de contratos de fornecedores de desenvolvimento de software.
 
 \section[Estudo de Caso]{Estudo de Caso}
-
-Nesta seção será apresentada a proposta de realização de um estudo de caso na área de TI de um órgão público federal brasileiro, sendo esta uma forma de aplicar os conhecimentos adquiridos ao longo do trabalho e de coletar dados da experiência do órgão tanto em gestão de contratos com métodos ágeis quanto em gestão de contrato com métodos tradicionais.
 
 O órgão público selecionado foi o Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN).
 
@@ -29,38 +26,41 @@ O escopo do estudo de caso está ilustrado na figura 17.
 
 \subsection[A Organização]{A Organização}
 
-O órgão escolhido, IPHAN, possui uma força de trabalho atuante na área de TI de apenas 8 funcionários, dos quais apenas 3 trabalham diretamente com sistemas e um deles é o responsável pela gestão de demandas. Os contratos mais significantes gerenciados pela área de TI do órgão são:
+O órgão escolhido, IPHAN, possui uma força de trabalho atuante na área de TI de apenas 8 funcionários, dos quais apenas 3 trabalham diretamente com sistemas. O perfil dessa equipe é apresentado na tabela 3. Devido ao número reduzido de servidores disponíveis na área de TI do órgão, frequentemente uma mesma pessoa acaba desempenhando diferentes papeis requeridos pela Instrução Normativa MP/SLTI Nº04/2010.
+
+O contexto atual do órgão foi identificado por meio da aplicação da técnica de entrevista semi-estruturada. A estrutura da entrevista pode ser encontrada no Apêndice I -  Roteiro de Entrevista.
+
+Os contratos mais significantes gerenciados pela área de TI do órgão são:
 \begin{itemize}
 \item Demanda para desenvolvimento de sistemas (sistema novo, manutenção, documentação ou refatoração).
 \item Demanda de controle de qualidade de sistemas.
 \item Demanda de medição de sistemas.
 \end{itemize}
 
-Devido ao o número reduzido de servidores disponíveis na área de TI do órgão, muitas vezes uma só pessoa pode desempenhar mais de um dos papéis definidos na IN 04. Além disso diversos problemas começaram a ser identificados com o uso de metodologias tradicionais, dentre eles:
+Por meio da entrevista foram identificados alguns problemas, dentre eles:
 \begin{itemize}
-\item Não entrega de software.
-\item Pagava apenas por documentação.
-\item Dificuldade para aferir a qualidade interna do produto.
-\item A mudanças tardias geravam grande impacto no tempo de execução do projeto.
+\item Alguns contratos foram encerrados sem haver entrega de software;
+\item Havia faturamento de Ordens de Serviço apenas com entrega de documentação;
+\item Incapacidade de aferir a qualidade interna do produto;
+\item As mudanças de requisitos geravam impacto no tempo de execução do projeto, ocasionando constantes atrasos.
 \end{itemize}
 
-O contexto atual do órgão foi identificado por meio da aplicação da técnica de entrevista semi-estruturada. A estrutura da entrevista pode ser encontrada no Apêndice I -  Roteiro de Entrevista.  Com os problemas que foram identificados, as principais motivações para o uso de metodologias ágeis na gestão de contratos foram: entregar mais software, pois o órgão nunca tinha tido um contrato com completo sucesso, e poder perceber de forma mais rápida se o projeto terá sucesso ou não, pois os riscos inerentes à contratação poderiam ser identificados mais previamentes.
+A partir dos problemas identificados, as principais motivações para o uso de metodologias ágeis na gestão de contratos foram: entregar mais software; prover maior visibilidade do processo e do produto para o do gestor de negócio; autonomia e gerência dos requisitos por parte do gestor de negócio, sem a interferência direta do gestor de contrato e perceber de forma mais rápida se o projeto terá sucesso ou não, pois os riscos inerentes à contratação poderiam ser identificados previamente.
 
-Pela pesquisa documental identificou-se que o órgão possuí uma Metodologia de Gestão de Demandas de Desenvolvimento de Software, detalhada no Anexo B, e um Kanban para Gestão de 
-Demandas, o qual foi apresentado no capítulo anterior. 
+Conforme apresentado no capítulo 4 o órgão possuí uma Metodologia de Gestão de Demandas de Desenvolvimento de Software (MIDAS), detalhada no Anexo B, além de um Kanban para Gestão dessas Demandas. 
 
-Segundo a IN 04 a fase de Gerenciamento de Contrato deve conter seguintes etapas: início do contrato; encaminhamento formal de ordem de serviço ou fornecimento de bens  monitoramento da execução; e transição contratual e/ou encerramento do contrato. Todas estas etapas podem ser observadas na metodologia definida pelo órgão, fazendo com que ele seja aderente a legislação e adequado para o estudo de caso deste trabalho.
+De acordo com a Instrução Normativa MP/SLTI Nº04/2010, a fase de Gerenciamento de Contrato deve conter as seguintes etapas: início do contrato; encaminhamento formal de ordem de serviço ou fornecimento de bens  monitoramento da execução; e transição contratual e/ou encerramento do contrato. Todas estas etapas podem ser observadas na metodologia definida pelo órgão, fazendo com que ele seja aderente a legislação e adequado para o estudo de caso deste trabalho.
 
 Segundo um representante do órgão, as metas definidas para a construção da metodologia de gestão de demandas foram:
 \begin{itemize}
-\item Ser aderente à legislação pertinente.
-\item Entregar software mais rapidamente.
-\item Focar na gestão do contrato e na definição de uma metodologia de gestão de demandas.
-\item Não focar em dizer como a empresa deve desenvolver o software, ou seja, não definir metodologia de desenvolvimento de software.
+\item Ser aderente à legislação pertinente;
+\item Entregar software mais rapidamente;
+\item Focar na gestão do contrato e na definição de uma metodologia de gestão de demandas;
+\item Não focar em dizer como a empresa deve desenvolver o software, ou seja, não definir metodologia de desenvolvimento de software;
 \item Satisfazer as necessidades do cliente.
 \end{itemize}
 
-Outro aspecto que foi tratado de forma diferente com o uso de metodologias ágeis na gestão de contratos foi a forma de pagamento e a aplicação de multas. Diferente das outras formas de gestão de contrato onde existem diversas categorias para aplicação de multas, que variam de acordo com diversas variáveis como tipos de erros ou dias de atraso, com o uso de métodos ágeis na gestão do contrato os pagamentos eram feitos a cada entrega (Sprint) em curtos intervalos de tempo, o que mantinha o fluxo de caixa da empresa contratada sempre ativo, e as multas eram somente aplicadas se nada fosse entregue, se algo fosse entregue de forma incompleta não era aplicada multa, pois há o bom senso que a empresa ainda está adquirindo maturidade no contrato, e se o que foi entregue tivesse erros ou não estava conforme o que foi pedido era feito um abatimento no pagamento.
+Outros aspectos que foram modificados a partir do uso de metodologias ágeis na gestão de contratos foram a forma de pagamento e a aplicação de multas. Diferente das outras formas de gestão de contrato onde existem diversas categorias para aplicação de multas, que variam de acordo com diversas variáveis como tipos de erros ou dias de atraso, com o uso de métodos ágeis na gestão do contrato os pagamentos eram feitos a cada entrega (Sprint) em curtos intervalos de tempo, o que mantinha o fluxo de caixa da empresa contratada sempre ativo, e as multas eram somente aplicadas se nada fosse entregue, se algo fosse entregue de forma incompleta não era aplicada multa, pois há o bom senso que a empresa ainda está adquirindo maturidade no contrato, e se o que foi entregue tivesse erros ou não estava conforme o que foi pedido era feito um abatimento no pagamento.
 
 De forma geral, o órgão começou a notar alguns benefícios com a aplicação de métodos ágeis, em especial o Kanban, na gestão de contratos, dentre os principais estão: visibilidade para o gestor do negócio (cliente) sobre o que estava sendo feito, o domínio do gestor do negócio sobre a gestão do Backlog, definindo quais seriam as próximas funcionalidades a serem desenvolvidas, e o gestor do contrato passou a ser responsável somente pela gestão dos contratos e não mais por gerenciar requisitos e desenvolvimento de software.
 
