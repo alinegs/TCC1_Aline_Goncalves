@@ -131,15 +131,15 @@ Algumas peculiaridades da Administração Pública e o seu arcabouço jurídico 
 
 Ordens de Serviços, Mensuração do Produto em Pontos de Função ou Horas de Serviços Técnicos, Termo de Recebimento Provisório e Termo Definitivo, Homologações Técnicas e Negociais, Atestes e Notas Fiscais são alguns dos documentos mínimos exigidos pela legislação que o Gestor Público e a Empresa Contratada terão que produzir independentemente se a metodologia adotada é ágil ou não. Somam-se ainda todos os documentos exigidos em cláusulas contratuais   \cite{agilebrazil}. 
 
-Como isso, o excesso de documentação poderia ser inadequado aos princípios ágeis de software funcionando mais que documentação abrangente e responder a mudanças mais que seguir um plano. Ao mesmo tempo, a falta das principais documentações exigidas pode ferir o princípio de eficiência da Administração Pública Federal (APF) e, ainda, se não seguir de forma alguma oque foi  planejado, pode-se ferir também os princípios de planejamento e economicidade da APF. 
+Como isso, o excesso de documentação poderia ser inadequado aos valores ágeis de software funcionando mais que documentação abrangente e responder a mudanças mais que seguir um plano. Ao mesmo tempo, a falta das principais documentações exigidas pode ferir o princípio de eficiência da Administração Pública Federal (APF) e, ainda, se não seguir de forma alguma oque foi  planejado, pode-se ferir também os princípios de planejamento e economicidade da APF. \cite{ruas}
 
-Outro ponto relevante é a relação com equipe de desenvolvimento terceirizada. Em uma equipe externa (terceirizada), o Gestor Público não pode, por lei, interferir na conduta das pessoas contratadas, exceto via  o Preposto, pois poderia ferir o princípio de impessoalidade da APF.
+Outro ponto relevante é a relação com equipe de desenvolvimento terceirizada. Em uma equipe externa (terceirizada), o Gestor Público não pode, por lei, interferir na conduta das pessoas contratadas, exceto via o Preposto, pois poderia ferir o princípio de impessoalidade da APF.
 
-Na busca pela compatibilização entre o uso de métodos ágeis e adequação a legislação pertinente, algumas alternativas tem sido adotadas por instituições públicas  em suas iniciativas recentes no uso de métodos ágeis, são elas: entrega de artefatos de documentação associados ao software produzido a cada iteração, relação contratual prevalece sobre a possível colaboração entre as partes, escopo fixo dentro das iterações e níveis de serviços vinculados à qualidade do produto   \cite{ruas}. 
+Na busca pela compatibilização entre o uso de métodos ágeis e adequação a legislação pertinente, algumas alternativas tem sido adotadas por instituições públicas, em suas iniciativas recentes, no uso de métodos ágeis. São elas: entrega de artefatos de documentação associados ao software produzido a cada iteração; relação contratual prevalece sobre a possível colaboração entre as partes; escopo fixo dentro das iterações e níveis de serviços vinculados à qualidade do produto   \cite{ruas}. 
 
-Com essas alternativas, alguns dos riscos inerentes são mitigados, não há o afastamento dos princípios e da legislação aplicável e ao mesmo tempo estão encaminhadas na direção dos valores e princípios ágeis. Assim, para superar os riscos e desafios vindos do uso de métodos ágeis em contratações é preciso ser criativos, cumprir e interpretar de forma adequada as leis e valores ágeis. 
+Com essas alternativas, alguns dos riscos inerentes são mitigados e não há o afastamento da legislação aplicável e ao mesmo tempo estão encaminhadas na direção dos valores e princípios ágeis. 
 
-\subsection[Estudo de Caso]{Contexto a ser analisado}
+\subsection[Caracterização do Contexto do IPHAN]{Caracterização do Contexto do IPHAN}
 
 Para desenvolver um modelo de contratação de fornecedores de software baseado em Scrum e Kanban, o IPHAN definiu alguns procedimentos que deveriam ser feitos com o foco na minimização dos riscos da execução contratual e na obtenção do sucesso no contrato de terceirização. O framework utilizado não é considerado o mais relevante, mas sim os valores e princípios do Manifesto Ágil, além do atendimento à legislação vigente. 
 
@@ -190,12 +190,11 @@ A transição de um item da raia “Preparado” para a raia “OS Aberta” oco
 		\caption{Transição entre raias \cite{parente}}
 \end{figure}
 
-A transição da raia “OS Aberta” para a raia “Homologando” ocorre quando o Termo de Recebimento Provisório é emitido. Ao se observar o subprocesso de Realizar Ateste Técnico, percebe-se que essa transição ocorre na atividade “Receber Produtos”. a qual tem como entrada a ordem de serviço da fase e como saída o termo de recebimento provisório. Tal atividade tem como objetivo receber os produtos definidos para a fase para posterior análise de sua aderência aos padrões e requisitos definidos. Com a emissão do termo de recebimento provisório, os produtos recebidos entram na processo de homologação. 
+A transição da raia “OS Aberta” para a raia “Homologando” ocorre quando o Termo de Recebimento Provisório é emitido. Ao se observar o subprocesso de Realizar Ateste Técnico, percebe-se que essa transição ocorre na atividade “Receber Produtos”. Esta tem como entrada a ordem de serviço da fase e como saída o termo de recebimento provisório. Com a emissão do termo de recebimento provisório, os produtos recebidos entram na processo de homologação. 
 
-E a transição da raia “Homologando” para a raia “Pronto” ocorre quando o Termo de Recebimento Definitivo é emitido, ou seja, quando todos os produtos que foram anteriormente entregues são verificados e aprovados quanto a aderência aos padrões e aos requisitos a partir de uma análise técnica e negocial. Se forem detectados bugs nos produtos entregues ou se eles forem rejeitados ou tiverem necessidade de refatoração, os produtos retornam para a fila de demandas, iniciando novamente o ciclo. A sinalização de rejeitado ou bug diz respeito a funcionalidade que foi rejeitada por não atender o que foi pedido tanto funcionalmente quanto tecnicamente. A sinalização de refatoração diz respeito a mudança que é pedida em uma funcionalidade depois de ela já ter sido implementada, para que uma funcionalidade entre nessa sinalização é preciso que o gestor de negócio assuma a responsabilidade pelos impactos que a mudança causará no custo, tempo e escopo.
+A transição da raia “Homologando” para a raia “Pronto” ocorre quando o Termo de Recebimento Definitivo é emitido, ou seja, quando todos os produtos que foram anteriormente entregues são verificados e aprovados. Para tanto são aferidos a aderência aos padrões técnicos e aos requisitos a partir de uma análise técnica e negocial, realizadas conjuntamente pelo Fiscal do Contrato e o Gestor de Negócio. Se forem detectados defeitos nos produtos entregues ou se eles forem rejeitados ou tiverem necessidade de refatoração, eles retornam para a fila de demandas, iniciando novamente o ciclo. A sinalização de rejeitado ou bug diz respeito a funcionalidade que foi rejeitada por não atender o que foi pedido tanto funcionalmente quanto tecnicamente. A sinalização de refatoração diz respeito a mudança que é pedida em uma funcionalidade depois de ela já ter sido implementada. Para que uma funcionalidade entre nessa sinalização é preciso que o gestor de negócio assuma a responsabilidade pelos impactos que a mudança causará no custo, tempo e escopo.
 
-
-Vale ressaltar que é importante que o trabalho em progresso (WIP) seja limitado conforme o que é conceituado no método Kanban. Se as funcionalidades estão medidas por meio da técnica pontos por função, estabeleça um limite de pontos por função que podem estar em progresso em cada raia. O IPHAN definiu um limite de 200 pontos por função por raia. 
+Vale ressaltar que é importante que o trabalho em progresso (WIP) seja limitado conforme o que é conceituado no método Kanban. O IPHAN definiu um limite de 200 pontos por função por ciclo. 
 
 \begin{figure}[h]
 		\centering
@@ -204,8 +203,7 @@ Vale ressaltar que é importante que o trabalho em progresso (WIP) seja limitado
 		\caption{Limitação de WIP \cite{parente}}
 \end{figure}
 
-
-É importante sempre valorizar a entrega de produto funcional e não pagar por apenas documentação. Assim, divida a forma de pagamento para a Contratada em percentuais de acordo com a fase, valorizando a fase de execução como ilustrado na tabela 2.
+É importante sempre valorizar a entrega de produto funcional e não pagar por apenas documentação. Assim, o IPHAN dividia a forma de pagamento da contratada em percentuais, de acordo com a fase, valorizando a fase de execução, como ilustrado na tabela 2.
 
 
 \begin{table}[H]
@@ -226,7 +224,7 @@ Vale ressaltar que é importante que o trabalho em progresso (WIP) seja limitado
 \end{table}
 
 
-Outra técnica importante é a parelização das atividades. Enquanto uma ordem de serviço está na etapa de homologação outra ordem de serviço pode ser preparada, evitando que o processo para e haja desperdício de trabalho. 
+Outra técnica importante prevista no MIDAS foi diz respeito a parelização das atividades. Enquanto uma ordem de serviço está na etapa de homologação, outra ordem de serviço pode ser preparada, evitando que o fluxo do processo pare e haja desperdício. 
 
 \begin{figure}[H]
 		\centering
@@ -235,4 +233,4 @@ Outra técnica importante é a parelização das atividades. Enquanto uma ordem 
 		\caption{Parelização de Atividades \cite{parente}}
 \end{figure}
 
-O Kanban e o subprocesso de Sprint do MIDAS mostram claramente a aderência aos métodos ágeis. A paralelização das atividades, que evita desperdícios de trabalho, e a organização em fases com ciclos incrementais do MIDAS, o qual foi baseado no PDCA, mostram claramente a aderência ao Lean no desenvolvimento de software. Assim, conclui-se que as premissas utilizadas como base para o desenvolvimento do Kanban e do MIDAS foram baseadas tanto nos princípios ágeis quanto nos princípios do Lean, ressaltando a importância do envolvimento do Kanban em conjunto com os dois cenários.
+O Kanban e o subprocesso de Sprint do MIDAS evidenciam a aderência de utilização de métodos ágeis. A paralelização das atividades, que evita desperdícios de trabalho, e a organização em fases com ciclos incrementais do MIDAS, evidenciam a aderência ao Lean no desenvolvimento de software. Assim, conclui-se que as premissas utilizadas como base para o desenvolvimento do Kanban e do MIDAS foram baseadas tanto nos princípios ágeis quanto nos princípios do Lean.
