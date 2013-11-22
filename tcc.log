@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  18 NOV 2013 10:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  22 NOV 2013 09:21
 entering extended mode
 **C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
 (C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
@@ -1509,26 +1509,27 @@ l.1 \part
 oncalves/figuras/kanbanIPHAN5.png>] [65
 
 ]
-<figuras/escopoEC.png, id=810, 715.17188pt x 371.13657pt>
+<figuras/escopoEC.png, id=810, 722.7pt x 542.025pt>
 File: figuras/escopoEC.png Graphic file (type png)
+ <use figuras/escopoEC.png>
+Package pdftex.def Info: figuras/escopoEC.png used on input line 22.
+(pdftex.def)             Requested size: 433.62334pt x 325.2175pt.
 
-<use figuras/escopoEC.png>
-Package pdftex.def Info: figuras/escopoEC.png used on input line 26.
-(pdftex.def)             Requested size: 429.10643pt x 222.68365pt.
- [66
+[66
 
 ] [67pdfTeX warning (ext4): destination with the same identifier (name{figure.5
 .17}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.48 
-      <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/escopoEC.pn
-g>] [68] [69] <figuras/cronograma2.png, id=828, 721.19438pt x 427.5975pt>
+l.41 \item A
+            lguns contratos foram encerrados sem haver entrega de software; <C:
+/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/escopoEC.png>]
+[68] [69] <figuras/cronograma2.png, id=829, 721.19438pt x 427.5975pt>
 File: figuras/cronograma2.png Graphic file (type png)
 
 <use figuras/cronograma2.png>
-Package pdftex.def Info: figuras/cronograma2.png used on input line 103.
+Package pdftex.def Info: figuras/cronograma2.png used on input line 102.
 (pdftex.def)             Requested size: 432.71997pt x 256.56047pt.
 ) [70]
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.bbl
@@ -1560,7 +1561,7 @@ bibitemlist
 ] [79
 
 ]
-<figuras/matrizcomportamento.png, id=1021, 469.00218pt x 357.58594pt>
+<figuras/matrizcomportamento.png, id=1022, 469.00218pt x 357.58594pt>
 File: figuras/matrizcomportamento.png Graphic file (type png)
 
 <use figuras/matrizcomportamento.png>
@@ -1575,7 +1576,7 @@ re.anexochapback.1.19}) has been already used, duplicate ignored
 l.52 
       <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/matrizcompo
 rtamento.png>] [82] [83] [84] [85] [86] [87]
-<figuras/kanbanindustria.png, id=1088, 361.35pt x 220.57407pt>
+<figuras/kanbanindustria.png, id=1089, 361.35pt x 220.57407pt>
 File: figuras/kanbanindustria.png Graphic file (type png)
 
 <use figuras/kanbanindustria.png>
@@ -1606,7 +1607,7 @@ Underfull \hbox (badness 2600) in paragraph at lines 182--183
 
 [90
 
-] <figuras/processoMIDAS.png, id=1104, 1318.9275pt x 679.03688pt>
+] <figuras/processoMIDAS.png, id=1105, 1318.9275pt x 679.03688pt>
 File: figuras/processoMIDAS.png Graphic file (type png)
 
 <use figuras/processoMIDAS.png>
@@ -1625,14 +1626,14 @@ anexochapback.2.21}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.207 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/processoMI
-DAS.png>] <figuras/subprocessoAteste.png, id=1113, 641.39626pt x 481.04718pt>
+DAS.png>] <figuras/subprocessoAteste.png, id=1114, 641.39626pt x 481.04718pt>
 File: figuras/subprocessoAteste.png Graphic file (type png)
 
 <use figuras/subprocessoAteste.png>
 Package pdftex.def Info: figuras/subprocessoAteste.png used on input line 211.
 (pdftex.def)             Requested size: 448.97432pt x 336.73073pt.
 
-<figuras/subprocessoSprint.png, id=1118, 1171.37625pt x 663.22781pt>
+<figuras/subprocessoSprint.png, id=1119, 1171.37625pt x 663.22781pt>
 File: figuras/subprocessoSprint.png Graphic file (type png)
 
 <use figuras/subprocessoSprint.png>
@@ -1680,10 +1681,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
- 12871 strings out of 493921
- 191091 string characters out of 3144877
- 310941 words of memory out of 3000000
- 15525 multiletter control sequences out of 15000+200000
+ 12873 strings out of 493921
+ 191123 string characters out of 3144877
+ 310935 words of memory out of 3000000
+ 15527 multiletter control sequences out of 15000+200000
  99431 words of font info for 61 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  41i,13n,38p,1598b,800s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1703,9 +1704,9 @@ mri8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C
 iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.
 9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on tcc.pdf (94 pages, 3584488 bytes).
+Output written on tcc.pdf (94 pages, 3575919 bytes).
 PDF statistics:
- 1533 PDF objects out of 1728 (max. 8388607)
+ 1534 PDF objects out of 1728 (max. 8388607)
  284 named destinations out of 1000 (max. 500000)
  909 words of extra memory for PDF output out of 10000 (max. 10000000)
 
