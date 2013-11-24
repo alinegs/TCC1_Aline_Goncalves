@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  24 NOV 2013 20:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  24 NOV 2013 21:33
 entering extended mode
 **C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
 (C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
@@ -1229,22 +1229,22 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 ] [16]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 48.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 47.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 48.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 47.
  [17]
 <figuras/metodologiapesquisa.png, id=426, 837.8502pt x 542.025pt>
 File: figuras/metodologiapesquisa.png Graphic file (type png)
 
 <use figuras/metodologiapesquisa.png>
-Package pdftex.def Info: figuras/metodologiapesquisa.png used on input line 72.
+Package pdftex.def Info: figuras/metodologiapesquisa.png used on input line 71.
 
 (pdftex.def)             Requested size: 586.49115pt x 379.4149pt.
 
-Overfull \hbox (131.49115pt too wide) in paragraph at lines 72--73
+Overfull \hbox (131.49115pt too wide) in paragraph at lines 71--72
  [][] 
  []
 
@@ -1253,7 +1253,7 @@ Overfull \hbox (131.49115pt too wide) in paragraph at lines 72--73
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.82 N
+l.81 N
       a Coleta de Dados s√£o executados os procedimentos de pesquisa e as t√...
  <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/metodologiapesqu
 isa.png>] [19])
@@ -1806,7 +1806,7 @@ MiKTeX 2.9/fonts/type1/public/lm/lmssbo10.pfb><C:/Program Files (x86)/MiKTeX 2.
 ype1/public/lm/lmsso12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
 c/lm/lmsso17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy1
 0.pfb>
-Output written on tcc.pdf (88 pages, 3654875 bytes).
+Output written on tcc.pdf (88 pages, 3655310 bytes).
 PDF statistics:
  1514 PDF objects out of 1728 (max. 8388607)
  272 named destinations out of 1000 (max. 500000)
