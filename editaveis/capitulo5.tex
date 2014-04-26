@@ -1,17 +1,13 @@
-\chapter[A Proposta de Trabalho]{A Proposta de Trabalho}
+\chapter[Projeto do Estudo de Caso]{Projeto do Estudo de Caso}
 
-\section[Definição da Proposta]{Definição da Proposta}
+Neste capítulo será apresentado o projeto do estudo de caso resultante da fase de Planejamento do Estudo de Caso, o qual contém a definição da unidade de análise,  a identificação do problema, a definição das questões de pesquisa (geral e específicas) e a definição dos objetivos (geral e específicos), assim como considerações sobre as fontes e métodos de coleta de dados e sobre a validade do estudo de caso.
+
+\section[Definição]{Definição}
 
 Neste trabalho foi apresentado um arcabouço teórico relacionado à contratação de serviços de TI em organizações públicas brasileiras. Também foram apresentados os principais conceitos Lean na Manufatura, Lean no Desenvolvimento de \textit{Software}, Metodologias Ágeis.
 
-À luz do levantamento bibliográfico realizado, não foram encontrados estudos que buscassem levantar e analisar os aspectos advindos do uso de metodologias ágeis em contraposição ao uso de metodologias tradicionais no contexto da gestão de contratos de fornecedores de desenvolvimento de \textit{software} para organizações públicas brasileiras.
+À luz do levantamento bibliográfico realizado, não foram encontrados estudos que buscassem levantar e analisar os aspectos advindos do uso de metodologias ágeis no contexto da gestão de contratos de fornecedores de desenvolvimento de \textit{software} para organizações públicas brasileiras.
 
-Assim, a proposta deste trabalho consiste na investigação, coleta, análise e discussão dos resultados, de dados de contratações de fornecedores de desenvolvimento de \textit{software} por uma instituição pública brasileira. A partir da análise  dos dados será realizada uma comparação entre os resultados obtidos com uso de metodologias ágeis e os resultados obtidos sem o uso de metodologias ágeis na gestão de contratos de fornecedores de desenvolvimento de \textit{software}. O foco será a investigação da utilização das ferramentas Kanban e Scrum na fase de Gerenciamento do Contrato.
-
-
-\section[Estudo de Caso]{Estudo de Caso}
-
-O órgão público selecionado foi o Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN).
 
 O escopo do estudo de caso está ilustrado na Fig. (17). 
 \begin{figure}[H]
@@ -21,104 +17,153 @@ O escopo do estudo de caso está ilustrado na Fig. (17).
 		\caption{Escopo do Estudo de Caso}
 \end{figure}
 
-\subsection[A Organização]{A Organização}
+Assim, a proposta deste trabalho consiste na investigação, coleta, análise e discussão dos resultados, de dados de uma contratação de fornecedor de desenvolvimento de \textit{software} pelo Instituto do Patrimônio Histórico e Cultural (IPHAN). A partir da análise  dos dados será realizada uma comparação entre os resultados obtidos com o estudo de caso e os efeitos percebidos pelos principais envolvidos no contrato. O foco será a análise da solução desenvolvida pela organização, a qual é alinhada com os métodos ágeis, com o pensamento lean e com a fase de Gerenciamento do Contrato.
 
-O órgão escolhido, IPHAN, possui uma força de trabalho atuante na área de TI de apenas 8 funcionários, dos quais apenas 3 trabalham diretamente com sistemas. O perfil dessa equipe é apresentado na Tab. (3). Devido ao número reduzido de servidores disponíveis na área de TI do órgão, frequentemente uma mesma pessoa acaba desempenhando diferentes papeis requeridos pela Instrução Normativa MP/SLTI Nº04/2010.
 
-\begin{table}[H]
-\center
-\footnotesize
-\begin{tabular}{|c|c|c|}
-\hline
-\textbf{Área}          & \textbf{Perfil}   & \textbf{Quantidade} \\ \hline
-TI Geral               & Coordenador de Tecnologia da Informação   & 1                   \\ \hline
-Infraestrutura         & Analista de Tecnologia da Informação   & 2                   \\ \hline
-Sistemas               & Analista de Tecnologia da Informação   & 2                   \\ \hline
-\multirow{3}{*}{Apoio} & Analista de Tecnologia da Informação    & 1                   \\ \cline{2-3} 
-\multicolumn{1}{|l|}{} & Servidor do Ministério da Ciência, Tecnologia e Inovação & 1                   \\ \cline{2-3} 
-\multicolumn{1}{|l|}{} & Servidor do IPHAN & 1                   \\ \hline
-\end{tabular}
-\caption{Perfil da Equipe}
-\end{table}
+Este trabalho foi estruturado conforme ilustrado na Fig. (18).
 
-O contexto atual do órgão foi identificado por meio da aplicação da técnica de entrevista semi-estruturada. A estrutura da entrevista pode ser encontrada no Apêndice I -  Roteiro de Entrevista.
-
-Os fatores mais significantes que são gerenciados pela área de TI do órgão, segundo o entrevistado, são:
-\begin{itemize}
-\item Atender as demandas para desenvolvimento de sistemas (sistema novo, manutenção, documentação).
-\item Controlar de qualidade de sistemas.
-\item Possuir medições de sistemas.
-\end{itemize}
-
-Por meio da entrevista foram identificados alguns problemas, dentre eles:
-\begin{itemize}
-\item Alguns contratos foram encerrados sem haver entrega de \textit{software};
-\item Havia faturamento de Ordens de Serviço apenas com entrega de documentação;
-\item Incapacidade de aferir a qualidade interna do produto;
-\item As mudanças de requisitos geravam impacto no tempo de execução do projeto, ocasionando constantes atrasos.
-\end{itemize}
-
-A partir dos problemas identificados, ainda conforme o entrevistado, as principais motivações para o uso de metodologias ágeis na gestão de contratos foram: aumentar o volume de entregas \textit{software}; prover maior visibilidade do processo e do produto para o do gestor de negócio; empoderar o gestor do contrato sobre a gerência dos requisitos, de forma a eliminar  a interferência direta do gestor de contrato e, por fim, perceber de forma mais rápida se o projeto terá sucesso ou não, pois os riscos inerentes à contratação poderiam ser identificados com antecedência.
-
-Conforme apresentado no capítulo 4 o IPHAN possui uma Metodologia de Gestão de Demandas de Desenvolvimento de \textit{Software} (MIDAS), detalhada no Anexo B, além de um Kanban para Gestão destas Demandas. 
-
-De acordo com a Instrução Normativa MP/SLTI Nº04/2010, a fase de Gerenciamento de Contrato deve conter as seguintes etapas: início do contrato; encaminhamento formal de ordem de serviço ou fornecimento de bens  monitoramento da execução; e transição contratual e/ou encerramento do contrato. Todas estas etapas podem estão contempladas no MIDAS, fazendo com que ele seja aderente ao normativo e adequado para o estudo de caso deste trabalho.
-
-De acordo com o entrevistado, as metas norteadoras para a elaboração do MIDAS foram:
-\begin{itemize}
-\item Ser aderente à legislação pertinente;
-\item Entregar \textit{software} mais rapidamente;
-\item Focar na gestão do contrato e na definição de uma metodologia de gestão de demandas;
-\item Não focar em dizer como a empresa deveria desenvolver o \textit{software}, ou seja, não definir metodologia de desenvolvimento de \textit{software};
-\item Satisfazer as necessidades do cliente.
-\end{itemize}
-
-Outros instrumentos contratuais que foram modificados com o uso do MIDAS foram a forma de pagamento e a aplicação de multas. Em relação a esta, diferentemente das outras formas de gestão de contrato utilizadas anteriormente, onde as multas eram progressivamente aplicadas, por exemplo, sobre a não entrega de documentação somente além de deter caráter meramente punitivo. Com o MIDAS, passou-se a considerar o maturidade e crescimento da empresa no contrato e as multas eram somente aplicadas se não houvesse entrega de \textit{software}. O faturamento das ordens de serviço era executado a cada entrega, final de \textit{sprint}, com duração mensal, o que mantinha o fluxo de caixa da empresa contratada sempre ativo.
-
-\subsection[Hipóteses]{Hipóteses}
-
-Para investigar e responder a questão de pesquisa definida na seção 1.3 do Capítulo 1 - Introdução, algumas hipóteses serão analisadas:
-\begin{itemize}
-\item  A utilização de métodos ágeis combinados com o pensamento Lean no Desenvolvimento de \textit{Software}, na gestão de contratos públicos, diminui a quantidade de contratos que são finalizados com sucesso;
-\item  A utilização de métodos ágeis combinados com o pensamento Lean no Desenvolvimento de \textit{Software}, na gestão de contratos públicos, aumenta o tempo para entrega de software;
-\item	A satisfação do cliente com o resultado da contratação é menor com a utilização de métodos ágeis combinados com o pensamento Lean no Desenvolvimento de \textit{Software} na gestão de contratos;
-\item  O custo final do contrato no que diz respeito às horas de trabalho dos servidores que são pagas é maior com a utilização de métodos ágeis combinados com o pensamento Lean no Desenvolvimento de \textit{Software} na gestão de contratos;
-\item  O processo para autorização de uma mudança no software leva mais tempo com a utilização de métodos ágeis combinados com o pensamento Lean no Desenvolvimento de \textit{Software} na gestão de contratos;
-\item	A quantidade de multas aplicadas na gestão de contratos é maior com a utilização de métodos ágeis combinados com o pensamento Lean no Desenvolvimento de \textit{Software};
-\item	A quantidade de documentação desnecessária entregue para o gestor do contrato e para o órgão é maior com a utilização de métodos ágeis combinados com o pensamento Lean no Desenvolvimento de \textit{Software};
-\item  A qualidade do produto gerado com a utilização de métodos ágeis combinados com o pensamento Lean no Desenvolvimento de \textit{Software} na gestão de contratos é menor.
-\end{itemize}
-
-\subsection[Fonte e Método Coleta de Dados]{Fonte e Método de Coleta de Dados}
-
-Os dados serão coletados por meio de entrevistas semiestruturadas e por meio da análise de documentos de cerca de quatro contratos que serão disponibilizados pelo órgão. Os contratos disponibilizados estarão relacionados aos seguintes sistemas:
-\begin{itemize}
-\item  O contrato do Sistema Integrado de Conhecimento e Gestão (SICG) com a empresa EGL - Engenharia, no qual foram utilizadas metodologias ágeis para gestão do contrato;
-\item  O contrato do Fiscalis com a empresa Velp Tecnologia, no qual foi utilizado o MPS-BR como base da gestão do contrato;
-\item  O contrato do SIGIPHAN com a empresa Gestão TI, no qual não foi utilizado qualquer metodologia na gestão do contrato;
-\item  O contrato com a empresa Squadra que desempenhou o papel de "fábrica" de software, desenvolvendo projetos diversos, no qual foi utilizado o Rational Unified Process (RUP) para gestão do contrato.
-\end{itemize}
-
-\section[Resultados Esperados]{Resultados Esperados}
-
-Neste trabalho espera-se evidenciar um caso onde o uso de métodos ágeis combinados com o Lean no Desenvolvimento de \textit{Software} aumenta a eficiência da gestão de contratos públicos de terceirização de software.
-
-\section[Cronograma de Execução]{Cronograma de Execução}
-
-O cronograma de marcos definido para atingir o objetivo desse trabalho com as atividades já realizadas e com as atividades futuras para o trabalho final é apresentado na Fig. (18). 
-
-\begin{figure}[H]
+\begin{figure}[htb]
 		\centering
-		\label{fig02}
-			\includegraphics[scale=1.0]{figuras/cronograma3.png}
-		\caption{Cronograma de Marcos}
-\end{figure}
+		\label{fig01}
+			\includegraphics[scale=1.0]{figuras/estruturaEstudo.png}
+		\caption{Estrutura do Estudo de Caso}
+	\end{figure}
 
-A Figura (19) apresenta uma Estrutura Analítica do Projeto com os pacotes entregáveis desse trabalho.
+O Problema refere-se ao problema de pesquisa identificado. A Questão de Pesquisa refere-se a questão geral de pesquisa que buscará responder o problema. O Objetivo Geral refere-se ao objetivo a ser atingido para que a questão de pesquisa seja respondida. O objetivo geral foi dividido em dois objetivos específicos, relacionados ao processo e ao produto. Para atingir os objetivos específicos e consequentemente responder a questão geral de pesquisa, foram definidas oito questões de pesquisas especificas que serão analisadas no estudo de caso. As questões específicas de pesquisa foram obtidas por meio da técnica GQM.  A definição dessa estrutura está a seguir.
 
-\begin{figure}[H]
-		\centering
-		\label{fig02}
-			\includegraphics[scale=1.0]{figuras/wbs.png}
-		\caption{Estrutura Analítica do Projeto}
-\end{figure}
+\textbf{Problema:} Alguns contratos de desenvolvimento de software da organização não resultaram na entrega do software requisitado ao final do contrato.
+
+\textbf{Questão de Pesquisa:} Como o uso de métodos ágeis e do pensamento lean na gestão de contratos de fornecedores de desenvolvimento de software influenciaram no resultado final do contrato?
+
+\textbf{Objetivo Geral:} Analisar a influência do uso de métodos ágeis e do pensamento lean no contrato do Sistema Integrado de Conhecimento e Gestão (SICG) com a empresa EGL - Engenharia a partir dos dados coletados da documentação, observação e entrevistas.
+
+\textbf{OE1. Objetivo Específico do Processo:} Analisar a influência do uso de métodos ágeis e do pensamento lean no processo de gestão de contrato do contrato do Sistema Integrado de Conhecimento e Gestão (SICG) com a empresa EGL - Engenharia a partir dos dados coletados da documentação, observação e entrevistas.
+
+\textbf{Questões Específicas do Processo:}
+
+
+\textbf{QE1.}  Qual a quantidade total de ordens de serviço?
+
+\textbf{Fonte:} Documentação
+
+\textbf{Métrica:} quantidade total de ordens de serviço.
+ 
+\vspace{\onelineskip} 
+
+\textbf{QE2.} Qual a quantidade de ordens de serviço que tiveram entrega de software funcional?
+
+\textbf{Fonte:} Documentação
+
+\textbf{Métrica:} quantidade de ordens de serviço de software.
+ 
+ \vspace{\onelineskip} 
+
+\textbf{QE3.} Qual a quantidade de ordens de serviço que tiverem entrega apenas de documentação?
+
+\textbf{Fonte:} Documentação
+
+\textbf{Métrica:} quantidade de ordens de serviço de documentação.
+
+ \vspace{\onelineskip} 
+ 
+\textbf{QE4.} Qual a proporção de entrega de software funcional?
+
+\textbf{Fonte:} Documentação
+
+\textbf{Métrica:} quantidade de ordens de serviço de software que tiveram entrega de software funcional /quantidade total de ordens de serviço.
+
+ \vspace{\onelineskip} 
+
+\textbf{QE5.} Qual a duração média de entrega de software funcional?
+
+\textbf{Fonte:}Documentação
+
+\textbf{Métrica:} duração total das sprints/duração total das sprints que tiveram de entrega de software funcional.
+
+ \vspace{\onelineskip} 
+
+\textbf{QE6.} Qual a quantidade de ordens de serviço que não teve entrega de software funcional e de documentação?
+
+\textbf{Fonte:} Documentação
+
+\textbf{Métrica:} quantidade de ordens de serviço sem software e documentação.
+
+ \vspace{\onelineskip} 
+ 
+\textbf{QE7.} Qual a porcentagem de requisitos atendidos em cada ordem de serviço?
+
+\textbf{Fonte:} Documentação
+
+\textbf{Métrica:} (requisitos atendidos/requisitos pedidos) * 100.
+ 
+ \vspace{\onelineskip} 
+
+\textbf{QE8.} Quantas multas foram aplicadas no contrato?
+
+\textbf{Fonte:} Documentação
+
+\textbf{Métrica}: quantidade de multas.
+
+ \vspace{\onelineskip}  
+
+\textbf{QE9.} O quanto de visibilidade do que estava sendo feito o gestor do negócio teve durante o contrato?
+
+\textbf{Fonte:} Gestor do negócio, gestor do contrato, coordenador do projeto.
+
+\textbf{Métrica:} alto, médio ou baixo. 
+ 
+ \vspace{\onelineskip} 
+
+\textbf{QE10.} Qual o nível de satisfação com o software entregue ao final do contrato?
+
+\textbf{Fonte:} Gestor do negócio, gestor do contrato, coordenador do projeto.
+
+\textbf{Métrica:} muito satisfeito, satisfeito, neutro, insatisfeito, muito insatisfeito.
+ 
+ \vspace{\onelineskip} 
+
+\textbf{OE2. Objetivo Específico do Produto:}Analisar a qualidade do código fonte com o uso de métodos ágeis e do pensamento lean na gestão do contrato do contrato do Sistema Integrado 
+de Conhecimento e Gestão (SICG) com a empresa EGL - Engenharia a partir dos dados coletados da documentação, observação e entrevistas.
+
+\textbf{Questão Específicas do Produto:}
+
+\textbf{QE8.} Qual a qualidade interna do produto entregue até o momento ?
+
+\textbf{Fonte:} Código
+
+\textbf{Métrica:} bom, excelente, regular e preocupante.
+
+
+\section[Fonte e Método Coleta de Dados]{Fonte e Método de Coleta de Dados}
+
+Os dados foram coletados por meio de entrevistas informais, observações, questionários e por meio da análise de documentos processuais da organização e da base de código fonte de um contrato disponibilizado pelo órgão: o contrato do Sistema Integrado de Conhecimento e Gestão (SICG) com a empresa EGL - Engenharia, no qual foram utilizadas metodologias ágeis para gestão do contrato.Os questionários tinham o objetivo de coletar dados qualitativos e
+quantitativos a respeito da organização contratante, do gestor de negócio (cliente) e da empresa contratada no que diz respeito a estrutura organizacional, experiência prévia, satisfação, opniões, percepções e etc. O dados de observação e entrevistas
+complementaram os questionários sob o ponto de vista qualitativo.Os dados quantitativos
+sobre a execução do processo (solução) e a qualidade do código fonte foram coletados de 20 Sprints do projeto foram coletados da documentação e do código fonte do contrato SICG .
+
+\textbf{Documentos}
+\begin{itemize}
+\item Processo Pai.
+\item Processo Filho.
+\item Código Fonte.
+\item Backlog do Produto.
+\end{itemize}
+
+\textbf{Questionários}
+\begin{itemize}
+\item Questionário para o IPHAN: tem como objetivo coletar informações dos envolvidos no projeto por parte do IPHAN, tais como o gestor do contrato e o coordenador do projeto.
+\item Questionário para o Gestor do Negócio: tem como objetivo coletar dados informações do gestor do negócio, o qual representa o papel de cliente do projeto. 
+\item Questionário para a Empresa: tem como objetivo coletar informações dos envolvidos no projeto por parte da empresa contratada.
+\end{itemize}
+
+\section[Validade]{Validade}
+
+As principais ameaças aos estudos de caso aplicáveis a este estudo de caso
+são mencionadas por Yin (2009). Dentre elas, destaca-se a confiabilidade dos dados
+coletados e dos resultados obtidos. Para Seaman (1999), o uso de várias fontes de dados
+e métodos de coleta permite a triangulação, uma técnica para confirmar se os resultados
+de diversas fontes e de diversos métodos convergem. Dessa forma é possível aumentar a
+validade interna do estudo e aumentar a força das conclusões. Nesta pesquisa houve
+triangulação de dados  e de metodologia. A triangulação de dados se deu
+pelo uso de base de documentos e código organizacionais, questionários e entrevistas para coletar dados. A triangulação
+de métodos ocorreu pelo uso de métodos de coleta quantitativos e qualitativos.

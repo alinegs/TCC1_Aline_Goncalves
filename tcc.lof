@@ -1,33 +1,35 @@
 \select@language {brazil}
 \addvspace {10pt}
 \contentsline {figure}{\numberline {1}{\ignorespaces Sele\IeC {\c c}\IeC {\~a}o de Metodologia de Pesquisa}}{17}{figure.1.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Fases do Estudo de Caso}}{18}{figure.1.2}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {2}{\ignorespaces Modelo de Contrata\IeC {\c c}\IeC {\~o}es de Solu\IeC {\c c}\IeC {\~o}es de TI \cite {mcti}}}{25}{figure.2.2}
-\contentsline {figure}{\numberline {3}{\ignorespaces Gerenciamento de Contrata\IeC {\c c}\IeC {\~o}es de Solu\IeC {\c c}\IeC {\~o}es de TI \cite {mcti}}}{28}{figure.2.3}
+\contentsline {figure}{\numberline {3}{\ignorespaces Modelo de Contrata\IeC {\c c}\IeC {\~o}es de Solu\IeC {\c c}\IeC {\~o}es de TI \cite {mcti}}}{25}{figure.2.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Gerenciamento de Contrata\IeC {\c c}\IeC {\~o}es de Solu\IeC {\c c}\IeC {\~o}es de TI \cite {mcti}}}{28}{figure.2.4}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {4}{\ignorespaces \textit {Ranking} de Vendas da Ind\IeC {\'u}stria Automobil\IeC {\'\i }stica \cite {ranking}}}{32}{figure.3.4}
-\contentsline {figure}{\numberline {5}{\ignorespaces Pir\IeC {\^a}mide de Princ\IeC {\'\i }pios Lean}}{33}{figure.3.5}
-\contentsline {figure}{\numberline {6}{\ignorespaces Quadro Kanban \cite {kanban}}}{41}{figure.3.6}
-\contentsline {figure}{\numberline {7}{\ignorespaces \textit {Work in Progress} \cite {klipp}}}{42}{figure.3.7}
-\contentsline {figure}{\numberline {8}{\ignorespaces Gr\IeC {\'a}fico de Medi\IeC {\c c}\IeC {\~o}es Kanban \cite {klipp}}}{42}{figure.3.8}
+\contentsline {figure}{\numberline {5}{\ignorespaces \textit {Ranking} de Vendas da Ind\IeC {\'u}stria Automobil\IeC {\'\i }stica \cite {ranking}}}{32}{figure.3.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Pir\IeC {\^a}mide de Princ\IeC {\'\i }pios Lean}}{33}{figure.3.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Quadro Kanban \cite {kanban}}}{41}{figure.3.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces \textit {Work in Progress} \cite {klipp}}}{42}{figure.3.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Gr\IeC {\'a}fico de Medi\IeC {\c c}\IeC {\~o}es Kanban \cite {klipp}}}{42}{figure.3.9}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {9}{\ignorespaces Framework Scrum \cite {scrumprocess}}}{46}{figure.4.9}
-\contentsline {figure}{\numberline {10}{\ignorespaces Compara\IeC {\c c}\IeC {\~a}o entre m\IeC {\'e}todos segundo segundo suas caracter\IeC {\'\i }sticas prescritivas \cite {kniberg2009}}}{48}{figure.4.10}
-\contentsline {figure}{\numberline {11}{\ignorespaces Quadro Scrum x Quadro Kanban \cite {kniberg2009}}}{49}{figure.4.11}
-\contentsline {figure}{\numberline {12}{\ignorespaces Quadro Kanban \cite {parente}}}{55}{figure.4.12}
-\contentsline {figure}{\numberline {13}{\ignorespaces Transi\IeC {\c c}\IeC {\~a}o para a raia Preparado \cite {parente}}}{56}{figure.4.13}
-\contentsline {figure}{\numberline {14}{\ignorespaces Transi\IeC {\c c}\IeC {\~a}o entre raias \cite {parente}}}{56}{figure.4.14}
-\contentsline {figure}{\numberline {15}{\ignorespaces Limita\IeC {\c c}\IeC {\~a}o de WIP \cite {parente}}}{57}{figure.4.15}
-\contentsline {figure}{\numberline {16}{\ignorespaces Pareliza\IeC {\c c}\IeC {\~a}o de Atividades \cite {parente}}}{58}{figure.4.16}
+\contentsline {figure}{\numberline {10}{\ignorespaces Framework Scrum \cite {scrumprocess}}}{46}{figure.4.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Compara\IeC {\c c}\IeC {\~a}o entre m\IeC {\'e}todos segundo segundo suas caracter\IeC {\'\i }sticas prescritivas \cite {kniberg2009}}}{48}{figure.4.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Quadro Scrum x Quadro Kanban \cite {kniberg2009}}}{49}{figure.4.12}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {17}{\ignorespaces Escopo do Estudo de Caso}}{60}{figure.5.17}
-\contentsline {figure}{\numberline {18}{\ignorespaces Cronograma de Marcos}}{64}{figure.5.18}
-\contentsline {figure}{\numberline {19}{\ignorespaces Estrutura Anal\IeC {\'\i }tica do Projeto}}{65}{figure.5.19}
+\contentsline {figure}{\numberline {13}{\ignorespaces Escopo do Estudo de Caso}}{54}{figure.5.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Estrutura do Estudo de Caso}}{55}{figure.5.14}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {15}{\ignorespaces Quadro Kanban \cite {parente}}}{63}{figure.6.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Transi\IeC {\c c}\IeC {\~a}o para a raia Preparado \cite {parente}}}{64}{figure.6.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Transi\IeC {\c c}\IeC {\~a}o entre raias \cite {parente}}}{64}{figure.6.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Limita\IeC {\c c}\IeC {\~a}o de WIP \cite {parente}}}{65}{figure.6.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces Pareliza\IeC {\c c}\IeC {\~a}o de Atividades \cite {parente}}}{66}{figure.6.19}
 \addvspace {10pt}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {20}{\ignorespaces Matriz de Gerenciamento de Tempo \cite {bell2011}}}{75}{figure.anexochapback.1.20}
-\contentsline {figure}{\numberline {21}{\ignorespaces Quadro Andon, com o mesmo objetivo do Kanban, na f\IeC {\'a}brica da Toyota \cite {kanbanindustria}}}{82}{figure.anexochapback.1.21}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {22}{\ignorespaces Processo MIDAS \cite {IPHAN:2013}}}{84}{figure.anexochapback.2.22}
-\contentsline {figure}{\numberline {23}{\ignorespaces Subprocesso Realizar Ateste T\IeC {\'e}cnico \cite {IPHAN:2013}}}{85}{figure.anexochapback.2.23}
-\contentsline {figure}{\numberline {24}{\ignorespaces Subprocesso Sprint \cite {IPHAN:2013}}}{86}{figure.anexochapback.2.24}
+\contentsline {figure}{\numberline {20}{\ignorespaces Matriz de Gerenciamento de Tempo \cite {bell2011}}}{78}{figure.anexochapback.1.20}
+\contentsline {figure}{\numberline {21}{\ignorespaces Quadro Andon, com o mesmo objetivo do Kanban, na f\IeC {\'a}brica da Toyota \cite {kanbanindustria}}}{85}{figure.anexochapback.1.21}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {22}{\ignorespaces Processo MIDAS \cite {IPHAN:2013}}}{87}{figure.anexochapback.2.22}
+\contentsline {figure}{\numberline {23}{\ignorespaces Subprocesso Realizar Ateste T\IeC {\'e}cnico \cite {IPHAN:2013}}}{88}{figure.anexochapback.2.23}
+\contentsline {figure}{\numberline {24}{\ignorespaces Subprocesso Sprint \cite {IPHAN:2013}}}{89}{figure.anexochapback.2.24}
