@@ -151,8 +151,6 @@ Outra técnica importante que foi construída diz respeito a parelização das a
 O Kanban evidencia a aderência de utilização de métodos ágeis. A paralelização das atividades, que evita desperdícios de trabalho, evidencia a aderência ao Lean no Desenvolvimento de \textit{Software}. Assim, conclui-se que as premissas utilizadas como base para o desenvolvimento do Kanban foram baseadas tanto nos princípios ágeis quanto nos princípios do Lean. Após alguns meses de aplicação dessa solução o órgão deu início a construção da Metodologia IPHAN de Gestão de Demandas de Desenvolvimento Ágil de \textit{Software} (MIDAS). Uma parte do MIDAS pode ser visualizada no Anexo B. 
 
 
-\section[Trabalho de Campo]{Trabalho de Campo}
-
 \section[Caracterização do Contrato]{Caracterização do Contrato}
 
 
@@ -163,6 +161,183 @@ O Kanban evidencia a aderência de utilização de métodos ágeis. A paraleliza
 \subsection[Efeitos sobre a satisfação do cliente]{Efeitos sobre a satisfação do cliente}
 
 \subsection[Efeitos sobre a qualidade do código]{Efeitos sobre a qualidade do código}
+
+A qualidade do código fonte do SICG pode ser avaliada por meio de métricas. Neste trabalho foram selecionadas as métricas de código fonte levantadas e categorizadas por MEIRELLES: métricas de tamanho e complexidade e métricas de orientação à objetos. 
+
+As métricas de tamanho e complexidade selecionadas são: 
+
+\textbf{LOC (Lines of Code):} número de Linhas de Código foi uma das primeiras métricas
+utilizadas para medir o tamanho de um software. São contadas apenas as linhas
+executáveis, ou seja, são excluídas linhas em branco e comentários (JONES,
+1991).
+
+ \vspace{\onelineskip} 
+
+\textbf{ACCM (Average Cyclomatic Complexity per Method):} média da Complexidade
+Ciclomática por Método mede a complexidade dos métodos ou funções
+de um programa. Essa métrica pode ser representada através de um grafo de fluxo
+de controle (MCCABE, 1976). O uso de estruturas de controle, tais como, if, else,
+while aumentam a complexidade ciclomática de um método.
+
+ \vspace{\onelineskip} 
+
+As métricas de orientação à objetos selecionadas são:
+
+\textbf{ACC (Afferent Connections per Class):} conexões Aferentes por Classe é o número
+total de classes externas de um pacote que dependem de classes de dentro desse
+pacote. Quando calculada no nível da classe, essa medida também é conhecida como
+Fan-in da classe, medindo o número de classes das quais a classe é derivada e, assim,
+valores elevados indicam uso excessivo de herança múltipla (MCCABE; DREYER;
+WATSON, 1994) (CHIDAMBER; KEMERER, 1994).
+
+ \vspace{\onelineskip} 
+
+\textbf{RFC (Response For a Class):} respostas para uma Classe é número de métodos
+dentre todos os métodos que podem ser invocados em resposta a uma mensagem
+enviada por um objeto de uma classe (SHARBLE; COHEN, 1993).
+
+ \vspace{\onelineskip} 
+
+\textbf{LCOM4 (Lack of Cohesion in Methods):} falta de Coesão entre Métodos. Originalmente
+proposto por Chidamber e Kemerer (1994) como LCOM não teve uma
+grande aceitabilidade. Após críticas e sugestões a métrica foi revisada por Hitz e
+Montazeri (1995), que propôs a LCOM4. Para calcular LCOM4 de um módulo, é
+necessário construir um gráfico não-orientado em que os nós são os métodos e atributos
+de uma classe. Para cada método, deve haver uma aresta entre ele e um outro
+método ou variável que ele usa. O valor da LCOM4 é o número de componentes
+fracamente conectados nesse gráfico.
+
+ \vspace{\onelineskip} 
+
+\textbf{NOM (Number of Methods):} número de Métodos é usado para medir o tamanho
+das classes em termos das suas operações implementadas. Essa métrica é usada para
+ajudar a identificar o potencial de reúso de uma classe. Em geral, as classes com
+um grande número de métodos são mais difíceis de serem reutilizadas, pois elas são
+propensas a serem menos coesas (LORENZ; KIDD, 1994).
+
+ \vspace{\onelineskip} 
+
+\textbf{DIT (Depth of Inheritance Tree):} profundidade da Árvore de Herança é o número
+de superclasses ou classes ancestrais da classe sendo analisada. São contabilizadas
+apenas as superclasses do sistema, ou seja, as classes de bibliotecas não são
+contabilizadas. Nos casos onde herança múltipla é permitida, considera-se o maior
+caminho da classe até uma das raízes da hierarquia. Quanto maior for o valor DIT,
+maior é o número de atributos e métodos herdados, e, portanto,maior é a complexidade
+(SHIH et al., 1997).
+
+ \vspace{\onelineskip} 
+
+\textbf{NOC (Number of Children):} número de Filhos é o número de subclasses ou classes
+filhas que herdam da classe analisada (ROSENBERG; HYATT, 1997). Deve se ter
+cautela ao modificar classes com muitos filhos, pois uma simples modificação de
+assinatura de um método, pode criar uma mudança em muitas classes.
+
+ \vspace{\onelineskip} 
+
+De forma a agregar os valores comuns, Meirelles (2013) classificou as métricas de código-fonte nos
+seguintes intervalos: muito frequente, frequente, pouco frequente e não frequente.
+Para simplificar o entendimento das métricas de código-fonte, renomeou-se os
+intervalos tal como a Tabela 4. 
+
+\begin{table}[!ht]
+	\begin{center}
+	 \begin{tabular}{|l|l|}
+		\hline
+		Intervalo de Frequência & Intervalos Qualitativos \\ \hline
+		Muito Frequente & Excelente \\ \hline
+		Frequente       & Bom       \\ \hline
+		Pouco Frequente & Regular   \\ \hline
+		Não Frequente   & Ruim      \\ \hline
+		\end{tabular}
+		\caption{Nome dos Intervalos de Frequência}
+		\label{nomes}
+		\end{center}
+		\end{table}
+
+
+Posteriormente, apresenta-se a Tabela 3, decorrente do
+estudo de Meirelles (2013), com os intervalos encontrados para C++ e Java. Com isso, os intervalos apresentados na Tabela 5 foram os utilizados como os indicadores
+de qualidade de código fonte na análise deste estudo de caso.
+
+\begin{table}[!ht]
+	\begin{center}
+	\begin{tabular}{ |l|l|l|l| }
+		\hline
+		Métrica & Intervalo Qualitativo & Java & C++ \\ \hline
+		%-------------------------------
+		\multirow{4}{*}{LOC} 
+		 & Excelente & [de 0 a 33] & [de 0 a 31] \\
+		 & Bom & [de 34 a 87] & [de 32 a 84] \\
+		 & Regular & [de 88 a 200] & [de 85 a 207] \\
+		 & Ruim & [acima de 200] & [acima de 207] \\ \hline
+		 %---------------------------------
+
+		 %-------------------------------
+		\multirow{4}{*}{ACCM} 
+		 & Excelente & [de 0 a 2,8] & [de 0 a 2,0] \\
+		 & Bom & [de 2,9 a 4,4] & [de 2,1 a 4,0] \\
+		 & Regular & [de 4,5 a 6,0] & [de 4,1 a 6,0] \\
+		 & Ruim & [acima de 6] & [acima de 6] \\ \hline
+		 %---------------------------------
+
+
+		%-------------------------------
+		\multirow{4}{*}{ACC} 
+		 & Excelente & [de 0 a 1] & [de 0 a 2,0] \\
+		 & Bom & [de 1,1 a 5] & [de 2,1 a 7,0] \\
+		 & Regular & [de 5,1 a 12] & [de 7,1 a 15] \\
+		 & Ruim & [acima de 12] & [acima de 15] \\ \hline
+		 %---------------------------------
+
+
+		%-------------------------------
+		\multirow{4}{*}{RFC} 
+		 & Excelente & [de 0 a 9] & [de 0 a 29] \\
+		 & Bom & [de 10 a 26] & [de 30 a 64] \\
+		 & Regular & [de 27 a 59] & [de 65 a 102] \\
+		 & Ruim & [acima de 59] & [acima de 102] \\ \hline
+		 %---------------------------------
+
+		 %-------------------------------
+		\multirow{4}{*}{LCOM4} 
+		 & Excelente & [de 0 a 3] & [de 0 a 5] \\
+		 & Bom & [de 4 a 7] & [de 6 a 10] \\
+		 & Regular & [de 8 a 12] & [de 11 a 14] \\
+		 & Ruim & [acima de 12] & [acima de 14] \\ \hline
+		 %---------------------------------
+
+		 %-------------------------------
+		\multirow{4}{*}{NOM} 
+		 & Excelente & [de 0 a 8] & [de 0 a 10] \\
+		 & Bom & [de 9 a 17] & [de 11 a 17] \\
+		 & Regular & [de 18 a 27] & [de 18 a 26] \\
+		 & Ruim & [acima de 27] & [acima de 26] \\ \hline
+		 %---------------------------------
+
+		 %-------------------------------
+		\multirow{4}{*}{DIT} 
+		 & Excelente & [de 0 a 2] & [de 0 a 1] \\
+		 & Bom & [de 3 a 4] & [de 2 a 3] \\
+		 & Regular & [de 5 a 6] & [de 3 a 4] \\
+		 &
+		  Ruim & [acima de 6] & [acima de 4] \\ \hline
+		 %---------------------------------
+
+		%-------------------------------
+		\multirow{4}{*}{NOC} 
+		 & Excelente & [de 0 a 1] & [0] \\
+		 & Bom & [de 1 a 2] & [1] \\
+		 & Regular & [de 2 a 3] & [de 1 a 2] \\
+		 & Ruim & [acima de 3] & [acima de 2] \\ \hline
+		 %---------------------------------
+
+	\end{tabular}
+	\caption{Intervalos das Métricas para Java e C++}
+	\label{metrics}
+	\end{center}
+	\end{table}
+
+De forma geral, o processo realizado para a análise do código fonte do SICG foi retirado do trabalho desenvolvido por BAUFAKER, que  consiste em: executar a ferramenta Analizo sobre o código fonte do projeto SICG, o qual resultará em um arquivo .csv com os resultados númericos das métricas selecionadas, transformar o arquivo .csv em json e inserir esse arquivo na arquitetura desenvolvida por BAUFAKER na ferramenta Pentaho. Ao final desse processo, temos como resultado os gráficos para análise. 
 
 
 \section[Resultados]{Resultados}
