@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  25 MAY 2014 18:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  25 MAY 2014 19:05
 entering extended mode
 **C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
 (C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
@@ -1215,8 +1215,12 @@ LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
 (Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 41.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <14.4> on input line 71.
- [13])
-[14])
+ [13]
+Overfull \hbox (1.5877pt too wide) detected at line 97
+ \T1/lmss/bx/n/12 103
+ []
+
+) [14])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/introducao.tex
 [15
 
@@ -1814,42 +1818,126 @@ bibitemlist
 [82] [83
 
 
-] [84
+] <figuras/quest1.png, id=1089, 462.22687pt x 710.655pt>
+File: figuras/quest1.png Graphic file (type png)
 
-])
-(C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/anexos.tex
-[85] [86
-
-
-] [87
+<use figuras/quest1.png>
+Package pdftex.def Info: figuras/quest1.png used on input line 9.
+(pdftex.def)             Requested size: 416.00034pt x 639.58359pt.
+ [84
 
 ]
-<figuras/matrizcomportamento.png, id=1136, 469.00218pt x 357.58594pt>
+Overfull \vbox (41.17314pt too high) has occurred while \output is active []
+
+
+[85 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quest1.png>]
+<figuras/quest2.png, id=1099, 462.22687pt x 673.01437pt>
+File: figuras/quest2.png Graphic file (type png)
+
+<use figuras/quest2.png>
+Package pdftex.def Info: figuras/quest2.png used on input line 16.
+(pdftex.def)             Requested size: 462.22574pt x 673.01273pt.
+
+Overfull \hbox (7.22574pt too wide) in paragraph at lines 16--17
+ [][] 
+ []
+
+<figuras/quest3.png, id=1100, 460.72125pt x 653.44125pt>
+File: figuras/quest3.png Graphic file (type png)
+
+<use figuras/quest3.png>
+Package pdftex.def Info: figuras/quest3.png used on input line 23.
+(pdftex.def)             Requested size: 460.72012pt x 653.43965pt.
+
+Overfull \hbox (5.72012pt too wide) in paragraph at lines 23--24
+ [][] 
+ []
+
+[86 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quest2.png>]
+<figuras/quest4.png, id=1105, 460.72125pt x 608.2725pt>
+File: figuras/quest4.png Graphic file (type png)
+
+<use figuras/quest4.png>
+Package pdftex.def Info: figuras/quest4.png used on input line 30.
+(pdftex.def)             Requested size: 460.72012pt x 608.27103pt.
+
+Overfull \hbox (5.72012pt too wide) in paragraph at lines 30--31
+ [][] 
+ []
+
+[87 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quest3.png>]
+<figuras/quest5.png, id=1110, 462.22687pt x 642.90187pt>
+File: figuras/quest5.png Graphic file (type png)
+
+<use figuras/quest5.png>
+Package pdftex.def Info: figuras/quest5.png used on input line 37.
+(pdftex.def)             Requested size: 462.22574pt x 642.9003pt.
+
+Overfull \hbox (7.22574pt too wide) in paragraph at lines 37--38
+ [][] 
+ []
+
+[88 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quest4.png>]
+<figuras/quest6.png, id=1115, 460.72125pt x 626.34pt>
+File: figuras/quest6.png Graphic file (type png)
+ <use figuras/quest6.png>
+Package pdftex.def Info: figuras/quest6.png used on input line 44.
+(pdftex.def)             Requested size: 460.72012pt x 626.33846pt.
+
+Overfull \hbox (5.72012pt too wide) in paragraph at lines 44--45
+ [][] 
+ []
+
+[89 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quest5.png>]
+<figuras/quest7.png, id=1120, 460.72125pt x 734.745pt>
+File: figuras/quest7.png Graphic file (type png)
+
+<use figuras/quest7.png>
+Package pdftex.def Info: figuras/quest7.png used on input line 51.
+(pdftex.def)             Requested size: 460.72012pt x 734.7432pt.
+
+Overfull \hbox (5.72012pt too wide) in paragraph at lines 51--52
+ [][] 
+ []
+
+[90 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quest6.png>]
+Overfull \vbox (26.7432pt too high) has occurred while \output is active []
+
+
+[91 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quest7.png>])
+(C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/anexos.tex
+[92
+
+
+] [93
+
+]
+<figuras/matrizcomportamento.png, id=1149, 469.00218pt x 357.58594pt>
 File: figuras/matrizcomportamento.png Graphic file (type png)
 
 <use figuras/matrizcomportamento.png>
 Package pdftex.def Info: figuras/matrizcomportamento.png used on input line 39.
 
 (pdftex.def)             Requested size: 422.09807pt x 321.82436pt.
- [88] [89pdfTeX warning (ext4): destination with the same identifier (name{figu
+ [94] [95pdfTeX warning (ext4): destination with the same identifier (name{figu
 re.anexochapback.1.33}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.52 
       <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/matrizcompo
-rtamento.png>] [90]
+rtamento.png>] [96]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 71.
- [91] [92] [93] [94] [95]
-<figuras/kanbanindustria.png, id=1204, 361.35pt x 220.57407pt>
+ [97] [98] [99] [100] [101]
+<figuras/kanbanindustria.png, id=1217, 361.35pt x 220.57407pt>
 File: figuras/kanbanindustria.png Graphic file (type png)
 
 <use figuras/kanbanindustria.png>
 Package pdftex.def Info: figuras/kanbanindustria.png used on input line 156.
 (pdftex.def)             Requested size: 361.34912pt x 220.57352pt.
- [96pdfTeX warning (ext4): destination with the same identifier (name{figure.an
-exochapback.1.34}) has been already used, duplicate ignored
+ [102pdfTeX warning (ext4): destination with the same identifier (name{figure.a
+nexochapback.1.34}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1871,16 +1959,16 @@ Underfull \hbox (badness 2600) in paragraph at lines 180--181
 \T1/lmr/m/n/10 grante Re-qui-si-tante, Fis-cal Re-qui-si-
  []
 
-[97
+[103
 
-] <figuras/processoMIDAS.png, id=1217, 1318.9275pt x 679.03688pt>
+] <figuras/processoMIDAS.png, id=1230, 1318.9275pt x 679.03688pt>
 File: figuras/processoMIDAS.png Graphic file (type png)
 
 <use figuras/processoMIDAS.png>
 Package pdftex.def Info: figuras/processoMIDAS.png used on input line 199.
 (pdftex.def)             Requested size: 395.6813pt x 203.71263pt.
- [98pdfTeX warning (ext4): destination with the same identifier (name{table.ane
-xochapback.2.6}) has been already used, duplicate ignored
+ [104pdfTeX warning (ext4): destination with the same identifier (name{table.an
+exochapback.2.6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1892,14 +1980,14 @@ anexochapback.2.35}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.204 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/processoMI
-DAS.png>] <figuras/subprocessoAteste.png, id=1226, 641.39626pt x 481.04718pt>
+DAS.png>] <figuras/subprocessoAteste.png, id=1239, 641.39626pt x 481.04718pt>
 File: figuras/subprocessoAteste.png Graphic file (type png)
 
 <use figuras/subprocessoAteste.png>
 Package pdftex.def Info: figuras/subprocessoAteste.png used on input line 208.
 (pdftex.def)             Requested size: 448.97432pt x 336.73073pt.
 
-<figuras/subprocessoSprint.png, id=1231, 1171.37625pt x 663.22781pt>
+<figuras/subprocessoSprint.png, id=1244, 1171.37625pt x 663.22781pt>
 File: figuras/subprocessoSprint.png Graphic file (type png)
 
 <use figuras/subprocessoSprint.png>
@@ -1910,8 +1998,8 @@ Overfull \hbox (13.5422pt too wide) in paragraph at lines 218--219
  [][] 
  []
 
-[99pdfTeX warning (ext4): destination with the same identifier (name{figure.ane
-xochapback.2.36}) has been already used, duplicate ignored
+[105pdfTeX warning (ext4): destination with the same identifier (name{figure.an
+exochapback.2.36}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1927,7 +2015,7 @@ either increase the head height or redesign the header
 
 
 AED: lastpage setting LastPage
-[100pdfTeX warning (ext4): destination with the same identifier (name{figure.an
+[106pdfTeX warning (ext4): destination with the same identifier (name{figure.an
 exochapback.2.37}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1945,7 +2033,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 50.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 50.
 Package rerunfilecheck Info: File `tcc.brf' has not changed.
-(rerunfilecheck)             Checksum: E406DEEA01C3862E1956F2F92F8F0F48;6432.
+(rerunfilecheck)             Checksum: 1A4EA38E331811F4394FB0DFECBF6562;6441.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1953,13 +2041,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 50.
  ) 
 Here is how much of TeX's memory you used:
- 13066 strings out of 493921
- 194425 string characters out of 3144877
- 316846 words of memory out of 3000000
- 15663 multiletter control sequences out of 15000+200000
+ 13087 strings out of 493921
+ 194995 string characters out of 3144877
+ 317752 words of memory out of 3000000
+ 15690 multiletter control sequences out of 15000+200000
  123358 words of font info for 69 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,13n,38p,1552b,800s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,13n,38p,1552b,634s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files (x86)/
 MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files (x86)/MiKTeX 2.9/
@@ -1979,9 +2067,9 @@ MiKTeX 2.9/fonts/type1/public/lm/lmssbo10.pfb><C:/Program Files (x86)/MiKTeX 2.
 ype1/public/lm/lmsso12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
 c/lm/lmsso17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy1
 0.pfb>
-Output written on tcc.pdf (101 pages, 3828235 bytes).
+Output written on tcc.pdf (107 pages, 4029901 bytes).
 PDF statistics:
- 1675 PDF objects out of 1728 (max. 8388607)
- 309 named destinations out of 1000 (max. 500000)
- 1019 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1686 PDF objects out of 1728 (max. 8388607)
+ 296 named destinations out of 1000 (max. 500000)
+ 1054 words of extra memory for PDF output out of 10000 (max. 10000000)
 
