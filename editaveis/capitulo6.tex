@@ -339,6 +339,113 @@ de qualidade de código fonte na análise deste estudo de caso. É importante re
 
 De forma geral, o processo realizado para a análise do código fonte do SICG foi retirado do trabalho desenvolvido por BAUFAKER, que  consiste em: executar a ferramenta Analizo sobre o código fonte do projeto SICG, o qual resultará em um arquivo .csv com os resultados númericos das métricas selecionadas, transformar o arquivo .csv em json e inserir esse arquivo na arquitetura desenvolvida por BAUFAKER na ferramenta Pentaho. Ao final desse processo, temos como resultado os gráficos para análise. 
 
+As figuras a seguir mostram os resultados do processamento do código fonte do projeto SICG no que diz respeito a qualidade do código ao longo das sprints do projeto de acordo com as oito métricas selecionadas. Os rótulos de intervalos de qualidade mostrados são resultantes dos valores médios de cada métrica para todas as classes do projeto. 
 
+A Figura \ref{metricasprint} mostra os valores de todas as métricas ao longo das sprints do projeto. A seguir, serão apresentados os gráficos, primeiramente, dos resultados de cada métrica de forma individual ao longo das sprints do projeto e, posteriormente, o resultado geral da qualidade do código ao longo das sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.8]{figuras/metricasprint.png}
+		\caption{Valores das Métricas do Projeto SICG}
+		\label{metricasprint}
+\end{figure}
+
+
+\textbf{LOC (Lines of Code)}
+
+A Figura \ref{loc} mostra a qualidade da métrica LOC. Esta métrica permanece com o intervalo de qualidade "Bom" constante ao longo das sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.4]{figuras/loc.png}
+		\caption{Qualidade da Métrica LOC nas Sprints do Projeto SICG}
+		\label{loc}
+\end{figure}
+
+\textbf{ACCM (Average Cyclomatic Complexity per Method)}
+
+A Figura \ref{accm} mostra a qualidade da métrica ACCM. Esta métrica permanece com o intervalo de qualidade "Excelente" constante ao longo das sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.4]{figuras/accm.png}
+		\caption{Qualidade da Métrica ACCM nas Sprints do Projeto SICG}
+		\label{accm}
+\end{figure}
+
+\textbf{ACC (Afferent Connections per Class)}
+
+A Figura \ref{acc} mostra a qualidade da métrica ACC. Esta métrica permanece com o intervalo de qualidade "Bom" constante ao longo das sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.4]{figuras/acc.png}
+		\caption{Qualidade da Métrica ACC nas Sprints do Projeto SICG}
+		\label{acc}
+\end{figure}
+
+\textbf{RFC (Response For a Class)} 
+
+A Figura \ref{rfc} mostra a qualidade da métrica RFC. Esta métrica permanece com o intervalo de qualidade "Bom" constante ao longo das sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.4]{figuras/rfc.png}
+		\caption{Qualidade da Métrica RFC nas Sprints do Projeto SICG}
+		\label{rfc}
+\end{figure}
+
+\textbf{LCOM4 (Lack of Cohesion in Methods)} 
+
+A Figura \ref{lcom4} mostra a qualidade da métrica LCOM4. Esta métrica inicia com o intervalo de qualidade "Bom" na primeira sprint e, posteriormente, permanece com o intervalo de qualidade "Regular" constante ao longo das demais sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.4]{figuras/lcom4.png}
+		\caption{Qualidade da Métrica LCOM4  nas Sprints do Projeto SICG}
+		\label{lcom4}
+\end{figure}
+
+\textbf{NOM (Number of Methods)} 
+
+A Figura \ref{nom} mostra a qualidade da métrica NOM. Esta métrica permanece com o intervalo de qualidade "Bom" até a Sprint 11 do projeto, a partir da Sprint 12 o código fonte obtém uma melhoria e a métrica NOM passa a ter o intervalo de qualidade "Excelente" até a última sprint analisada do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.4]{figuras/nom.png}
+		\caption{Qualidade da Métrica NOM nas Sprints do Projeto SICG}
+		\label{nom}
+\end{figure}
+
+\textbf{DIT (Depth of Inheritance Tree)}
+
+A Figura \ref{dit} mostra a qualidade da métrica DIT. Esta métrica permanece com o intervalo de qualidade "Excelente" constante ao longo das sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.4]{figuras/dit.png}
+		\caption{Qualidade da Métrica DIT nas Sprints do Projeto SICG}
+		\label{dit}
+\end{figure}
+
+\textbf{NOC (Number of Children)}
+
+A Figura \ref{noc} mostra a qualidade da métrica NOC. Esta métrica permanece com o intervalo de qualidade "Excelente" constante ao longo das sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.4]{figuras/noc.png}
+		\caption{Qualidade da Métrica NOC nas Sprints do Projeto SICG}
+		\label{noc}
+\end{figure}
+
+A Figura \ref{qualidadesprint} mostra a qualidade de todas as métricas analisadas ao longo das sprints do projeto. Considerando que a Sprint 24 é a última sprint do projeto e, portanto, seria o código final, observamos uma predominância do intervalo de qualidade "Excelente", seguido do intervalo "Bom" e "Regular", respectivamente. Assim, a qualidade do código fonte do projeto é satisfatória ao compararmos com o melhor software livre encontrado na linguagem de programação Java, o Eclipse. 
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.4]{figuras/qualidadesprint.png}
+		\caption{Qualidade Geral das Métricas do Projeto SICG}
+		\label{qualidadesprint}
+\end{figure}
 \section[Resultados]{Resultados}
 
