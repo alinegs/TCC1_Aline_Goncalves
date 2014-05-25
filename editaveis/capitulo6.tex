@@ -21,28 +21,20 @@ Sistemas               & Analista de Tecnologia da Informação   & 2           
 \caption{Perfil da Equipe}
 \end{table}
 
-O contexto atual do órgão foi identificado por meio da aplicação da técnica de entrevista semi-estruturada. A estrutura da entrevista pode ser encontrada no Apêndice I -  Roteiro de Entrevista.
-
-Os fatores mais significantes que são gerenciados pela área de TI do órgão, segundo o entrevistado, são:
+O contexto atual do órgão foi identificado por meio da aplicação da técnica de entrevista informal, de questionário e da documentação disponível do órgão. O questionário aplicado pode ser encontrado no Apêndice I - Questionário Gestão do Contrado. Vale ressaltar que esse questionário foi aplicado não só para caracterização da organização como também para coleta de dados necessários para o estudo de caso desse trabalho e ele foi projetado de forma generalizada para que tanto o IPHAN quanto a empresa contratada, EGL - Engenharia, pudessem respondê-lo.
+ 
+Os fatores mais significantes que são gerenciados pela área de TI do órgão são:
 \begin{itemize}
 \item Atender as demandas para desenvolvimento de sistemas (sistema novo, manutenção, documentação).
 \item Controlar de qualidade de sistemas.
 \item Possuir medições de sistemas.
 \end{itemize}
 
-Por meio da entrevista foram identificados alguns problemas, dentre eles:
-\begin{itemize}
-\item Alguns contratos foram encerrados sem haver entrega de \textit{software};
-\item Havia faturamento de Ordens de Serviço apenas com entrega de documentação;
-\item Incapacidade de aferir a qualidade interna do produto;
-\item As mudanças de requisitos geravam impacto no tempo de execução do projeto, ocasionando constantes atrasos.
-\end{itemize}
+Por meio do questionário foram identificados fatores que motivaram o uso de métodos ágeis na gestão do contrato do órgão. Todos os envolvidos com a área de sistema do IPHAN citaram que o fator motivador foi que "Documentação desnecessária estava sendo produzida e entregue"  e cerca de 66\%  citaram como outros fatores motivacionais: "Entrega de software funcional era pouco frequente nos contratos anteriores", "Visibilidade do processo era baixa", "O fiscal técnico do contrato e o gestor do contrato não estavam exercendo os seus papéis como deveriam", "A satisfação do cliente era baixa", "A qualidade do produto era preocupante" e "Os requisitos de software não eram atendidos".
 
-A partir dos problemas identificados, ainda conforme o entrevistado, as principais motivações para o uso de metodologias ágeis na gestão de contratos foram: aumentar o volume de entregas \textit{software}; prover maior visibilidade do processo e do produto para o do gestor de negócio; empoderar o gestor do contrato sobre a gerência dos requisitos, de forma a eliminar  a interferência direta do gestor de contrato e, por fim, perceber de forma mais rápida se o projeto terá sucesso ou não, pois os riscos inerentes à contratação poderiam ser identificados com antecedência.
+No que diz respeito a aplicação de métodos ágeis na gestão do contrato, de acordo com a Instrução Normativa MP/SLTI Nº04/2010, a fase de Gerenciamento de Contrato deve conter as seguintes etapas: início do contrato; encaminhamento formal de ordem de serviço ou fornecimento de bens  monitoramento da execução; e transição contratual e/ou encerramento do contrato. Todas estas etapas foram contempladas no processo definido pelo órgão, fazendo com que ele seja aderente ao normativo e adequado para o estudo de caso deste trabalho.
 
-De acordo com a Instrução Normativa MP/SLTI Nº04/2010, a fase de Gerenciamento de Contrato deve conter as seguintes etapas: início do contrato; encaminhamento formal de ordem de serviço ou fornecimento de bens  monitoramento da execução; e transição contratual e/ou encerramento do contrato. Todas estas etapas podem estão contempladas no MIDAS, fazendo com que ele seja aderente ao normativo e adequado para o estudo de caso deste trabalho.
-
-De acordo com o entrevistado, as metas norteadoras para a elaboração do MIDAS foram:
+As metas norteadoras para a elaboração do processo de gestão de contrato com métodos ágeis foram:
 \begin{itemize}
 \item Ser aderente à legislação pertinente;
 \item Entregar \textit{software} mais rapidamente;
@@ -51,7 +43,46 @@ De acordo com o entrevistado, as metas norteadoras para a elaboração do MIDAS 
 \item Satisfazer as necessidades do cliente.
 \end{itemize}
 
-Outros instrumentos contratuais que foram modificados com o uso do MIDAS foram a forma de pagamento e a aplicação de multas. Em relação a esta, diferentemente das outras formas de gestão de contrato utilizadas anteriormente, onde as multas eram progressivamente aplicadas, por exemplo, sobre a não entrega de documentação somente além de deter caráter meramente punitivo. Com o MIDAS, passou-se a considerar o maturidade e crescimento da empresa no contrato e as multas eram somente aplicadas se não houvesse entrega de \textit{software}. O faturamento das ordens de serviço era executado a cada entrega, final de \textit{sprint}, com duração mensal, o que mantinha o fluxo de caixa da empresa contratada sempre ativo.
+Outros instrumentos contratuais que foram modificados com a adoção do processo de gestão de contrato com métodos ágeis foram a forma de pagamento e a aplicação de multas. Em relação a esta, diferentemente das outras formas de gestão de contrato utilizadas anteriormente, onde as multas eram progressivamente aplicadas, por exemplo, sobre a não entrega de documentação somente além de deter caráter meramente punitivo. Com o novo processo, passou-se a considerar o maturidade e crescimento da empresa no contrato e as multas eram somente aplicadas se não houvesse entrega de \textit{software}. O faturamento das ordens de serviço era executado a cada entrega, final de \textit{sprint}, o que mantinha o fluxo de caixa da empresa contratada sempre ativo. 
+
+
+\section[O Objeto do Contrato]{O Objeto do Contrato}
+
+\section[A Empresa Contratada]{A Empresa Contratada}
+
+A empresa contratada para desenvolvido do projeto SICG foi a empresa EGL - Engenharia. A EGL - Engenharia possui entre 7 e 9 envolvidos no desenvolvido do projeto. O perfil dos envolvidos inclui desenvolvedor, analista de requisitos, designer, testador, scrum master e analista de geo (especialista em sistemas com georeferenciamento).
+
+No desenvolvimento do projeto SICG a empresa utilizou a metodologia Scrum. No que diz respeito a experiência da equipe com essa metodologia, existia uma grande variação: o scrum master possuia pouca experiência enquanto alguns desenvolvedores possui alta experiência e outros desenvolvedores uma experiência regular.
+
+A lista de práticas ágeis utilizadas no projeto SICG para o desenvolvimento estão a seguir:
+\begin{itemize}
+\item Padrões de Codificação.
+\item Programação em Par.
+\item Refatoração de Código.
+\item Integração Contínua.
+\item Controle de Versão.
+\item Entregas Frequentes.
+\item Código Limpo.
+\item Revisão de Código.
+\item Testes de Fumaça (Smoke Testing).
+\item Testes de Integração.
+\item Testes de Aceitação.
+\item Histórias de Usuário
+\item Planning Poker.
+\item Planejamento das Iterações.
+\item Backlog do Produto.
+\item Backlog da Sprint.
+\item Quadro Kanban.
+\item Burndown Charts.
+\item Retrospectivas.
+\item Reunião Diária.
+\item Equipes Auto-organizadas.
+\item Times Pequenos.
+\end{itemize}
+
+
+\section[Caracterização do Contrato]{Caracterização do Contrato}
+
 
 \section[Caracterização da Solução]{Caracterização da Solução}
 
@@ -62,6 +93,19 @@ As metodologias ágeis foram utilizadas como o meio para atingir o sucesso ou pa
 \item Definir premissas nos artefatos desde o planejamento da contratação;
 \item Alinhar diretrizes e condições com a Direção de TI;
 \item Convalidar com a Alta Administração, ou seja, validar e sustentar essas diretrizes durante o contrato.
+\end{itemize}
+
+A lista de práticas ágeis utilizadas no projeto SICG para a gestão do contrato estão a seguir:
+\begin{itemize}
+\item Definição de Pronto.
+\item Histórias de Usuário
+\item Planejamento das Iterações.
+\item Backlog do Produto.
+\item Backlog da Sprint.
+\item Quadro Kanban.
+\item Burndown Charts.
+\item Retrospectivas.
+\item Tempo de Ciclo (Lead time).
 \end{itemize}
 
 Com isso, foram definidas algumas premissas que devem orientar o planejamento e execução do contrato. A saber:  \cite{parente}:
@@ -151,14 +195,32 @@ Outra técnica importante que foi construída diz respeito a parelização das a
 O Kanban evidencia a aderência de utilização de métodos ágeis. A paralelização das atividades, que evita desperdícios de trabalho, evidencia a aderência ao Lean no Desenvolvimento de \textit{Software}. Assim, conclui-se que as premissas utilizadas como base para o desenvolvimento do Kanban foram baseadas tanto nos princípios ágeis quanto nos princípios do Lean. Após alguns meses de aplicação dessa solução o órgão deu início a construção da Metodologia IPHAN de Gestão de Demandas de Desenvolvimento Ágil de \textit{Software} (MIDAS). Uma parte do MIDAS pode ser visualizada no Anexo B. 
 
 
-\section[Caracterização do Contrato]{Caracterização do Contrato}
-
 
 \section[Análise dos Dados]{Análise dos Dados}
 
 \subsection[Efeitos sobre a entrega de ordens de serviço]{Efeitos sobre a entrega de ordens de serviço}
 
 \subsection[Efeitos sobre a satisfação do cliente]{Efeitos sobre a satisfação do cliente}
+
+O cliente do projeto SICG é representado pelo papel de dono do produto, que também atuou como gestor do contrato, e por todos os envolvidos no projeto por parte do IPHAN. Os IPHAN nunca havia participado anteriormente de um projeto onde a gestão do contrato era realizada com o uso de métodos ágeis, portanto, a experiência dos envolvidos no projeto com métodos ágeis era pouca. Para coletar a opinião do cliente acerca das questões de pesquisa QE10  e QE11 foi aplicado um questionário.
+
+A Figura \ref{visibilidade} apresenta a visibilidade do processo de todos os envolvidos no projeto por parte do IPHAN. Cerca de 80\% dos envolvidos no projeto considerou a visibilidade do processo como "Alta", dentre eles o gestor do contrato.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=1.0]{figuras/visibilidade.png}
+		\caption{Nível de Visibilidade do Processo do Projeto SICG}
+		\label{visibilidade}
+\end{figure}
+
+A Figura \ref{satisfacao} apresenta o resultado de satisfação do IPHAN com relação ao produto entregue. De forma unânime foi considerado como "Satisfeito" o produto entregue pela empresa contratada. 
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=1.0]{figuras/satisfacao.png}
+		\caption{Nível de Satisfação do Produto Entregue do Projeto SICG}
+		\label{satisfacao}
+\end{figure}
 
 \subsection[Efeitos sobre a qualidade do código]{Efeitos sobre a qualidade do código}
 
@@ -439,7 +501,7 @@ A Figura \ref{noc} mostra a qualidade da métrica NOC. Esta métrica permanece c
 		\label{noc}
 \end{figure}
 
-A Figura \ref{qualidadesprint} mostra a qualidade de todas as métricas analisadas ao longo das sprints do projeto. Considerando que a Sprint 24 é a última sprint do projeto e, portanto, seria o código final, observamos uma predominância do intervalo de qualidade "Excelente", seguido do intervalo "Bom" e "Regular", respectivamente. Assim, a qualidade do código fonte do projeto é satisfatória ao compararmos com o melhor software livre encontrado na linguagem de programação Java, o Eclipse. 
+A Figura \ref{qualidadesprint} mostra a qualidade de todas as métricas analisadas ao longo das sprints do projeto. Considerando que a Sprint 24 é a última sprint do projeto e, portanto, seria o código final, observamos uma predominância do intervalo de qualidade "Excelente", seguido do intervalo "Bom" e "Regular", respectivamente. 
 
 \begin{figure}[H]
 		\centering
@@ -447,5 +509,19 @@ A Figura \ref{qualidadesprint} mostra a qualidade de todas as métricas analisad
 		\caption{Qualidade Geral das Métricas do Projeto SICG}
 		\label{qualidadesprint}
 \end{figure}
+
+
+A Figura \ref{percepcaoqualidade} mostra a percepção da qualidade do código fonte do SICG segundo os envolvidos no projeto (Scrum Master, Product Owner, Gestor do Contrato, Coordenador do Projeto, Fiscal Técnico e Desenvolvedores). Cerca de 66\% dos envolvidos consideraram  o intervalo de qualidade do código como "Excelente" e os demais consideraram
+o intervalo de qualidade como "Bom".
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=1.0]{figuras/percepcaoqualidade.png}
+		\caption{Nível de Percepção da Qualidade do Código Fonte}
+		\label{percepcaoqualidade}
+\end{figure}
+
+Assim, no que diz respeito a análise estática do código realizada, a qualidade do código fonte do projeto é satisfatória ao compararmos com o melhor software livre encontrado na linguagem de programação Java, o Eclipse, e também é satisfatória na percepção dos envolvidos no projeto SICG. 
+
 \section[Resultados]{Resultados}
 
