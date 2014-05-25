@@ -54,17 +54,17 @@
 \contentsline {section}{\numberline {5.2}Fonte e M\IeC {\'e}todo Coleta de Dados}{58}{section.5.2}
 \contentsline {section}{\numberline {5.3}Validade}{59}{section.5.3}
 \contentsline {section}{\numberline {5.4}Trabalho de Campo}{59}{section.5.4}
+\contentsline {section}{\numberline {5.5}Considera\IeC {\c c}\IeC {\~o}es Finais do Cap\IeC {\'\i }tulo}{59}{section.5.5}
 \contentsline {chapter}{\chapternumberline {6}O Estudo de Caso}{60}{chapter.6}
 \contentsline {section}{\numberline {6.1}A Organiza\IeC {\c c}\IeC {\~a}o}{60}{section.6.1}
-\contentsline {section}{\numberline {6.2}O Objeto do Contrato}{62}{section.6.2}
-\contentsline {section}{\numberline {6.3}A Empresa Contratada}{62}{section.6.3}
-\contentsline {section}{\numberline {6.4}Caracteriza\IeC {\c c}\IeC {\~a}o do Contrato}{63}{section.6.4}
-\contentsline {section}{\numberline {6.5}Caracteriza\IeC {\c c}\IeC {\~a}o da Solu\IeC {\c c}\IeC {\~a}o}{63}{section.6.5}
-\contentsline {section}{\numberline {6.6}An\IeC {\'a}lise dos Dados}{68}{section.6.6}
-\contentsline {subsection}{\numberline {6.6.1}Efeitos sobre a entrega de ordens de servi\IeC {\c c}o}{68}{subsection.6.6.1}
-\contentsline {subsection}{\numberline {6.6.2}Efeitos sobre a satisfa\IeC {\c c}\IeC {\~a}o do cliente}{68}{subsection.6.6.2}
-\contentsline {subsection}{\numberline {6.6.3}Efeitos sobre a qualidade do c\IeC {\'o}digo}{70}{subsection.6.6.3}
-\contentsline {section}{\numberline {6.7}Resultados}{78}{section.6.7}
+\contentsline {section}{\numberline {6.2}A Empresa Contratada}{62}{section.6.2}
+\contentsline {section}{\numberline {6.3}Caracteriza\IeC {\c c}\IeC {\~a}o do Contrato e Objeto do Contrato}{63}{section.6.3}
+\contentsline {section}{\numberline {6.4}Caracteriza\IeC {\c c}\IeC {\~a}o da Solu\IeC {\c c}\IeC {\~a}o}{63}{section.6.4}
+\contentsline {section}{\numberline {6.5}An\IeC {\'a}lise dos Dados}{68}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Efeitos sobre a entrega de ordens de servi\IeC {\c c}o}{68}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Efeitos sobre a satisfa\IeC {\c c}\IeC {\~a}o do cliente}{68}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.3}Efeitos sobre a qualidade do c\IeC {\'o}digo}{70}{subsection.6.5.3}
+\contentsline {section}{\numberline {6.6}Resultados}{78}{section.6.6}
 \contentsline {chapter}{\chapternumberline {7}Conclus\IeC {\~a}o}{79}{chapter.7}
 \contentsline {chapter}{Refer\^encias}{80}{section*.10}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
