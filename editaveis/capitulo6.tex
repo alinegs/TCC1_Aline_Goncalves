@@ -49,7 +49,9 @@ Outros instrumentos contratuais que foram modificados com a adoção do processo
 
 \section[A Empresa Contratada]{A Empresa Contratada}
 
-A empresa contratada para desenvolvido do projeto foi a empresa EGL - Engenharia. A EGL - Engenharia possui entre 7 e 9 envolvidos no desenvolvimento do projeto. O perfil dos envolvidos inclui desenvolvedor, analista de requisitos, designer, testador, scrum master e analista de geo (especialista em sistemas com georeferenciamento).
+A empresa contratada para desenvolvido do projeto foi a empresa EGL - Engenharia. Formada por uma equipe multidisciplinar, a EGL Engenharia, desenvolve sistemas de informação geográfica e de apoio a gestão administrativa jurídica, privada ou pública. É capacitada a criar sistemas customizados para atender as necessidades especificas, além de fornecer manutenção corretiva e evolutiva destes.
+
+A EGL - Engenharia possui entre 7 e 9 envolvidos no desenvolvimento do projeto. O perfil dos envolvidos inclui desenvolvedor, analista de requisitos, designer, testador, scrum master e analista de geo (especialista em sistemas com georeferenciamento).
 
 No desenvolvimento do projeto a empresa utilizou a metodologia Scrum. No que diz respeito a experiência da equipe com essa metodologia, existia uma grande variação: o scrum master possuia pouca experiência enquanto alguns desenvolvedores possui alta experiência e outros desenvolvedores uma experiência regular.
 
@@ -80,8 +82,107 @@ A lista de práticas ágeis utilizadas para o desenvolvimento do projeto estão 
 \end{itemize}
 
 
-\section[Caracterização do Contrato e Objeto do Contrato]{Caracterização do Contrato e Objeto do Contrato}
+\section[Caracterização do Projeto Contrato]{Caracterização do Projeto do Contrato}
 
+\subsection[Visão Geral]{Visão Geral}
+
+O IPHAN é responsável pela gestão de diversos processos de preservação do patrimônio cultural, como por exemplo, ações para sua identificação, proteção, gestão e fomento. Decorrente
+de suas atribuições, o órgão produz uma grande quantidade de informações fragmentadas em termos territoriais e temáticos. Nos últimos quatro anos, o IPHAN elaborou uma metodologia
+para definir os processos de cadastro, inventário e gestão do patrimônio cultural material. Essa metodologia tem por objetivo geral abordar o Patrimônio Cultural de forma integrada, sistêmica
+e estratégica, conforme detalhado a seguir:
+
+\begin{itemize}
+\item Integrada: cobrindo todas as categoriais do patrimônio material;
+\item Sistêmica: estabelecendo moldes a serem utlizados nas diversas etapas de ações de preservação, possibilitando o "diálogo" e troca de informações entre áreas e etapas de trabalho;
+\item Estratégica: considerando o mapeamento, a organização e a disponibilização de informações sobre o patrimônio como base para a construção de políticas públicas integradas - com outros parceiros - e de planos de preservação e desenvolvimento das regiões onde se inserem os bens.
+\end{itemize}
+
+Em termos especíificos, a metodologia buscou, em primeiro lugar, mapear os procedimentos necessários para a execução das ações de cadastramento, proteção, normatização e fiscalização de bens culturais de natureza material, indicando adicionalmente os dados a serem coletados. Este mapeamento contou com a participação de representantes das Superintendências e Escritórios Técnicos, que, por meio de Grupos de Trabalho, analisaram, de forma crítica, as metodologias até então existentes.
+
+A revisão dos processos levou à formulação da nova metodologia que, por sua vez, permitiu a otimização das atividades de cadastramento de sítios históricos e de bens tombados isoladamente e gerou a normalização das ações de fiscalização. O resultado desse trabalho produziu um conjunto de fichas e procedimentos específicos com demandas para cadastramento de dados textuais, geográficos e imagens.
+
+Há um entendimento no IPHAN de que é necessária a formação de uma rede de proteção fomentada pelo SNPC que consolide o grande volume de informações atualmente produzido por suas unidades administrativas, composto de 27 Superintendências, 30 escritórios técnicos, 4 Unidades Especiais e 2 Parques Históricos Nacionais. Entretanto, na conjuntura atual, a natureza das informações, em grande maioria armazenadas em planilhas e em banco de dados isolados, difculta o processo de consolidação das informações, fato que frusta os esforços para a construção da rede de proteção baseada nos recursos e tecnologias atualmente adotados, pois demandaria o aporte considerável de recursos financeiros e humanos sem ganhos no processo. O órgão se manteria refém da demora na produção de informações decorrentedo intervalo entre ação e recepção das respostas, ou seja, entre a percepção do problema e sua solução.
+
+Apesar do fato de os processos de cadastramento, normatização de sítios urbanos tombados e fiscalização de bens imóveis de metodologia já fazerem parte da realidade das Superintendências e Escrritóricos Técnicos, o processo manual de suporte e gestão dos dados torna a execução precária e morosa.
+
+A Figura \ref{problemas}  apresenta a visão geral da situação vivida pela IPHAN a qual subsidiava a contratação da solução informatizada.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=1.0]{figuras/problemas.png}
+		\caption{Visão Geral da Situação do IPHAN}
+		\label{problemas}
+\end{figure}
+
+Portanto, a solução informatizada é apontada como um caminho adequado para endereçar as dificuldades citadas, pois possibilitaria a execução de vários processos do IPHAN (cadastramento, normatização, fiscalização e planejamento) de maneira integrada, garantindo agilidade na produção da informação. 
+
+O sistema proposto é formado por 7 módulos:
+
+\begin{itemize}
+\item Módulo 1 - Conhecimento;
+\item Módulo 2 - Análise e Gestão;
+\item Módulo 3 - Cadastro;
+\item Módulo de Administração de Usuários;
+\item Módulo de Fiscalização;
+\item Módulo de Cadastro Auxiliares;
+\item Módulo de Relatórios Adicionais.
+\end{itemize}
+
+\subsection[Objetivos da Contratação]{Objetivos da Contratação}
+
+Os objetivos da contratação são:
+
+\begin{itemize}
+\item Automatizar o processo de trabalho decorrente da metodologia de inventário, cadastramento, análise e gestão do patrimônio material, denominado Sistema Integrado de Conhecimento e Gestão (SICG);
+\item Centralizar as diversas bases de informações utilizadas pelo Departamento de Patrimônio Material e Fiscalização (DEPAM) em uma base de dados única, possibilitando integração futura com bases de dados de outros departamentos do IPHAN,   o problema atual de falta de integração, da dispersão e da redundância dos dados;
+\item Possibilitar a descontinuidade gradativa de 100\% das bases de dados isolados, de caráter local ou descentralizado existentes no DEPAM;
+\item Mapear as informações produzidas pelas diversas coordenações do DEPAM, pelas Superintendências e Escritórios Técnicos, pelos parceiros do Sistema Nacional de Patrimônio Cultural (SNPC), e as informações presentes no Arquivo Central do IPHAN, por meio de dados geográficos convergentes;
+\item Possibilitar a realização de análises territoriais e de uma visão territorial das ações do DEPAM, provendo atributos de tamanho, proximidade, área, localização, topologia e outros, por meio de dados georreferenciados;
+\item Consolidar informações originidas nas diversas coordenações do DEPAM, pelas Superintendências e Escritórios Técnicos, pelos parceiros do SNPC e uma base de dados geográfica de alta escalabilidade e que contenha 100\% das informações georreferenciadas;
+\item Garantir celeridade no processo decisório, por meio da entrega de informações consistentes, precisos e que sejam entregues em tempo hábil, evitando ônus para a administração pública;
+\item Possibilitar a redução do tempo e esforço necessário para a compilação das informações do DEPAM, advindas da recuperação e do cruzamento de produção das unidades do IPHAN de todo o pais. Espera-se que o tempo médio de resposta para compilação das informações seja reduzido de 30 dias para resposta em tempo real.
+\end{itemize}
+
+\subsection[Papéis e Responsabilidades]{Papéis e Responsabilidades}
+
+Os papéis e responsabilidades são definidos na figura \ref{papeis} conforme a Instrução Normativa nº 04.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=1.0]{figuras/papeis.png}
+		\caption{Papéis e Responsabilidades do Contrato}
+		\label{papeis}
+\end{figure}
+
+
+\subsection[Metodologia de Trabalho]{Metodologia de Trabalho}
+
+\textbf{Forma de Encaminhamento das Ordens de Serviço}
+
+Toda ordem de serviço será repassada pessoalmente ao preposto da contratada.
+
+
+\textbf{Ciclos}
+
+Todo o sistema será desenvolvido de forma iterativa e incremental, por meio de ciclos, ao longo de toda a vigência contratual, até sua conclusão total. O desenvolvimento e, por consequência, o repasse de conhecimento à contratada será feito por ciclos de planejamento e reuniões de levantamento de requisitos e aprendizado. Cada ciclo tem duração de 2 a 4 semanas.
+
+O Ciclo de Planejamento (Sprint 0) tem como objetivo o planejamento de todo o projeto.
+
+Os Ciclo de Desenvolvimento (Sprints de 1 a 24) tem como objetivo o desenvolvimento do sistema.
+
+O Ciclo de Implantação (Penúltima Sprint) tem como objetivo a implantação do sistema.
+
+O Ciclo de Encerramento (Última Sprint) tem como objetivo o treinamento dos seus usuários e o encerramento do projeto.
+
+\textbf{Reuniões}
+
+Cada ciclo teve uma Reunião de Planejamento no início do mesmo e uma Reunião de Encerramento ao final do mesmo.
+
+Na Reunião de Planejamento, a Contratada apresentou à Contratante uma proposta de Ordem de Serviço para o ciclo em planejamento. A Contratante emitiu parecer sobre a proposta. Aprovada a proposta, a Contratante, por meio de Ordem de Serviço, autorizou a Contratada a executar o ciclo planejado.
+
+Na Reunião de Encerramento, a Contratada entregou e apresentou à Contratante o conjunto de produtos resultantes da execução do respectivo ciclo.
+
+Os produtos entregues pela Contratada tinha um prazo de no máximo um ciclo para serem homologados pela Contratante.
 
 \section[Caracterização da Solução]{Caracterização da Solução}
 
