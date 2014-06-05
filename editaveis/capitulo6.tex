@@ -4,7 +4,7 @@ Neste capítulo será apresentado o estudo de caso desse trabalho. Na primeira s
 
 \section[A Organização]{A Organização}
 
-O órgão escolhido, IPHAN, possui uma força de trabalho atuante na área de TI de apenas 8 funcionários, dos quais apenas 3 trabalham diretamente com sistemas. O perfil dessa equipe é apresentado na Tab. (3). Devido ao número reduzido de servidores disponíveis na área de TI do órgão, frequentemente uma mesma pessoa acaba desempenhando diferentes papeis requeridos pela Instrução Normativa MP/SLTI Nº04/2010.
+O órgão escolhido, IPHAN, possui uma força de trabalho atuante na área de TI de apenas 8 funcionários, dos quais apenas 4 trabalham diretamente com sistemas. O perfil dessa equipe é apresentado na Tab. (2). Devido ao número reduzido de servidores disponíveis na área de TI do órgão, frequentemente uma mesma pessoa acaba desempenhando diferentes papeis requeridos pela Instrução Normativa MP/SLTI Nº04/2010.
 
 \begin{table}[H]
 \center
@@ -13,16 +13,16 @@ O órgão escolhido, IPHAN, possui uma força de trabalho atuante na área de TI
 \hline
 \textbf{Área}          & \textbf{Perfil}   & \textbf{Quantidade} \\ \hline
 TI Geral               & Coordenador de Tecnologia da Informação   & 1                   \\ \hline
-Infraestrutura         & Analista de Tecnologia da Informação   & 2                   \\ \hline
-Sistemas               & Analista de Tecnologia da Informação   & 2                   \\ \hline
-\multirow{3}{*}{Apoio} & Analista de Tecnologia da Informação    & 1                   \\ \cline{2-3} 
+Infraestrutura         & Analista de Tecnologia da Informação do MP   & 2                   \\ \hline
+Sistemas               & Analista de Tecnologia da Informação do MP   & 2                   \\ \hline
+\multirow{3}{*}{Apoio} & Analista de Tecnologia da Informação do MP   & 1                   \\ \cline{2-3} 
 \multicolumn{1}{|l|}{} & Servidor do Ministério da Ciência, Tecnologia e Inovação & 1                   \\ \cline{2-3} 
 \multicolumn{1}{|l|}{} & Servidor do IPHAN & 1                   \\ \hline
 \end{tabular}
-\caption{Perfil da Equipe}
+\caption{Perfil da Equipe do IPHAN}
 \end{table}
 
-O contexto atual do órgão foi identificado por meio da aplicação da técnica de entrevista informal, de questionário e da documentação disponível do órgão. O questionário aplicado pode ser encontrado no Apêndice I - Questionário Gestão do Contrado. Vale ressaltar que esse questionário foi aplicado não só para caracterização da organização como também para coleta de dados necessários para o estudo de caso desse trabalho e ele foi projetado de forma generalizada para que tanto o IPHAN quanto a empresa contratada, EGL - Engenharia, pudessem respondê-lo.
+O contexto atual do órgão foi identificado por meio da aplicação da técnica de entrevista informal, de questionário e da documentação disponível do órgão. O questionário aplicado pode ser encontrado no Apêndice I - Questionário Gestão do Contrado. Vale ressaltar que esse questionário foi aplicado não só para caracterização da organização como também para coleta de dados quantitativos necessários para o estudo de caso deste trabalho e ele foi projetado de forma generalizada para que tanto o IPHAN quanto a empresa contratada, EGL - Engenharia, pudessem respondê-lo.
  
 Os fatores mais significantes que são gerenciados pela área de TI do órgão são:
 \begin{itemize}
@@ -31,7 +31,26 @@ Os fatores mais significantes que são gerenciados pela área de TI do órgão s
 \item Possuir medições de sistemas.
 \end{itemize}
 
-Por meio do questionário foram identificados fatores que motivaram o uso de métodos ágeis na gestão do contrato do órgão. Todos os envolvidos com a área de sistema do IPHAN citaram que o fator motivador foi que "Documentação desnecessária estava sendo produzida e entregue"  e cerca de 66\%  citaram como outros fatores motivacionais: "Entrega de software funcional era pouco frequente nos contratos anteriores", "Visibilidade do processo era baixa", "O fiscal técnico do contrato e o gestor do contrato não estavam exercendo os seus papéis como deveriam", "A satisfação do cliente era baixa", "A qualidade do produto era preocupante" e "Os requisitos de software não eram atendidos".
+Por meio do questionário foram identificados fatores que motivaram o uso de métodos ágeis na gestão do contrato do órgão.A Tab. (3) mostra a porcentagem dos fatores motivacionais citados pelos servidores da área de sistemas do órgão. 
+
+\begin{table}[H]
+\center
+\footnotesize
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Fator Motivacional}          & \textbf{Porcentagem}  \\ \hline
+Documentação desnecessária estava \\ sendo produzida e entregue               &  100\%                 \\ \hline
+Entrega de software funcional era pouco \\ frequente nos contratos anteriores        &  66\%                  \\ \hline
+Visibilidade do processo era baixa              &  66\%                \\ \hline
+O fiscal técnico do contrato e o gestor do \\ contrato não estavam exercendo os seus papéis como deveriam              &  66\%                \\ \hline
+A satisfação do cliente era baixa              &  66\%                \\ \hline
+Visibilidade do processo era baixa              &  66\%                \\ \hline
+A qualidade do produto era preocupante   &  66\%                \\ \hline
+Os requisitos de software não eram atendidos &  66\%                \\ \hline
+\end{tabular}
+\caption{Fatores motivacionais}
+\end{table}
+
 
 No que diz respeito a aplicação de métodos ágeis na gestão do contrato, de acordo com a Instrução Normativa MP/SLTI Nº04/2010, a fase de Gerenciamento de Contrato deve conter as seguintes etapas: início do contrato; encaminhamento formal de ordem de serviço ou fornecimento de bens  monitoramento da execução; e transição contratual e/ou encerramento do contrato. Todas estas etapas foram contempladas no processo definido pelo órgão, fazendo com que ele seja aderente ao normativo e adequado para o estudo de caso deste trabalho.
 
@@ -44,42 +63,54 @@ As metas norteadoras para a elaboração do processo de gestão de contrato com 
 \item Satisfazer as necessidades do cliente.
 \end{itemize}
 
-Outros instrumentos contratuais que foram modificados com a adoção do processo de gestão de contrato com métodos ágeis foram a forma de pagamento e a aplicação de multas. Em relação a esta, diferentemente das outras formas de gestão de contrato utilizadas anteriormente, onde as multas eram progressivamente aplicadas, por exemplo, sobre a não entrega de documentação somente além de deter caráter meramente punitivo. Com o novo processo, passou-se a considerar o maturidade e crescimento da empresa no contrato e as multas eram somente aplicadas se não houvesse entrega de \textit{software}. O faturamento das ordens de serviço era executado a cada entrega, final de \textit{sprint}, o que mantinha o fluxo de caixa da empresa contratada sempre ativo. 
+Outros instrumentos contratuais que foram modificados com a adoção do processo de gestão de contrato com métodos ágeis foram a forma de pagamento e a aplicação de multas. Em relação a esta, diferentemente das outras formas de gestão de contrato utilizadas anteriormente, onde as multas eram progressivamente aplicadas, por exemplo, sobre a não entrega de documentação somente além de deter caráter meramente punitivo. Com o novo processo, passou-se a considerar o maturidade e crescimento da empresa no contrato e  se não houvesse entrega de \textit{software} a empresa contratada não receberia o pagamento estimado para aquela ordem de serviço. O faturamento das ordens de serviço era executado a cada entrega, final de \textit{sprint}, o que mantinha o fluxo de caixa da empresa contratada sempre ativo. 
 
 
 \section[A Empresa Contratada]{A Empresa Contratada}
 
 A empresa contratada para desenvolvido do projeto foi a empresa EGL - Engenharia. Formada por uma equipe multidisciplinar, a EGL Engenharia, desenvolve sistemas de informação geográfica e de apoio a gestão administrativa jurídica, privada ou pública. É capacitada a criar sistemas customizados para atender as necessidades especificas, além de fornecer manutenção corretiva e evolutiva destes.
 
-A EGL - Engenharia possui entre 7 e 9 envolvidos no desenvolvimento do projeto. O perfil dos envolvidos inclui desenvolvedor, analista de requisitos, designer, testador, scrum master e analista de geo (especialista em sistemas com georeferenciamento).
+A EGL - Engenharia possui entre 7 e 9 envolvidos no desenvolvimento do projeto.  O perfil dessa equipe é apresentado na Tab. (4).
 
-No desenvolvimento do projeto a empresa utilizou a metodologia Scrum. No que diz respeito a experiência da equipe com essa metodologia, existia uma grande variação: o scrum master possuia pouca experiência enquanto alguns desenvolvedores possui alta experiência e outros desenvolvedores uma experiência regular.
+\begin{table}[H]
+\center
+\footnotesize
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Perfill}          & \textbf{Quantidade}  \\ \hline
+Scrum Master               &  1                  \\ \hline
+Desenvolvedor       &  2               \\ \hline
+Analista de Requisitos              &   1                \\ \hline
+Designer            &   1              \\ \hline
+Testador            &  1               \\ \hline
+Analista de GEO              &  1               \\ \hline
+Preposto   &  1               \\ \hline
+\end{tabular}
+\caption{Perfil da Equipe da EGL - Engenharia}
+\end{table}
 
-A lista de práticas ágeis utilizadas para o desenvolvimento do projeto estão a seguir:
-\begin{itemize}
-\item Padrões de Codificação.
-\item Programação em Par.
-\item Refatoração de Código.
-\item Integração Contínua.
-\item Controle de Versão.
-\item Entregas Frequentes.
-\item Código Limpo.
-\item Revisão de Código.
-\item Testes de Fumaça (Smoke Testing).
-\item Testes de Integração.
-\item Testes de Aceitação.
-\item Histórias de Usuário
-\item Planning Poker.
-\item Planejamento das Iterações.
-\item Backlog do Produto.
-\item Backlog da Sprint.
-\item Quadro Kanban.
-\item Burndown Charts.
-\item Retrospectivas.
-\item Reunião Diária.
-\item Equipes Auto-organizadas.
-\item Times Pequenos.
-\end{itemize}
+
+No desenvolvimento do projeto a empresa utilizou a metodologia Scrum e a linguagem de programação Java. No que diz respeito a experiência da equipe com essa metodologia, houve uma grande variação nas respostas do questionário, existindo integrantes com pouca experiência e integrantes com alta experiência. No que diz respeito a experiência da equipe com a liguagem de programação, os desenvolvedores tinham uma alta experiência.
+
+A lista de práticas ágeis utilizadas para o desenvolvimento do projeto estão na Tab. (5).
+
+\begin{table}[H]
+\center
+\footnotesize
+\begin{tabular}{|c|c|c|}
+\hline
+Padrões de Codificação.              &   Revisão de Código.                \\ \hline
+Refatoração de Código.     &  Testes de Fumaça (Smoke Testing), de Integração e de Aceitação.            \\ \hline
+ Programação em Par.              &   Histórias de Usuário.               \\ \hline
+Integração Contínua.         &   Planning Poker.             \\ \hline
+Controle de Versão.          &   Planejamento das Iterações.               \\ \hline
+Entregas Frequentes.            &   Backlog do Produto e da Sprint.             \\ \hline
+ Código Limpo.   &  Quadro Kanban.            \\ \hline
+Burndown Charts.   &  Retrospectivas e Reunião Diária.        \\ \hline
+Equipes Auto-organizadas.   &  Times Pequenos.           \\ \hline
+\end{tabular}
+\caption{Práticas Ágeis adotadas pela EGL - Engenharia}
+\end{table}
 
 
 \section[Caracterização do Projeto Contrato]{Caracterização do Projeto do Contrato}
@@ -188,27 +219,31 @@ Os produtos entregues pela Contratada tinha um prazo de no máximo um ciclo para
 
 Para desenvolver um modelo de contratação de fornecedores de \textit{software} baseado em Scrum e Kanban, o IPHAN definiu alguns procedimentos que deveriam ser feitos com o foco na minimização dos riscos da execução contratual e na obtenção do sucesso no contrato de terceirização. O \textit{framework} utilizado não é considerado o mais relevante, mas sim os valores e princípios do Manifesto Ágil, além do atendimento à legislação vigente. 
 
-As metodologias ágeis foram utilizadas como o meio para atingir o sucesso ou para identificar de forma rápida os riscos iminentes. O sucesso contratual pode ser entendido como aquele contrato que atende às necessidades do órgão, com sistemas, sem comprometer o erário (tesouro público). Assim, para atingir sucesso em um contrato é preciso que pelos menos esses três procedimentos sejam realizados: \cite{parente}:
+As metodologias ágeis foram utilizadas como o meio para atingir o sucesso ou para identificar de forma rápida os riscos iminentes. O sucesso contratual pode ser entendido como aquele contrato que atende às necessidades do órgão, com sistemas, sem comprometer o erário (tesouro público). Assim, para atingir sucesso em um contrato é preciso que pelos menos esses três procedimentos sejam realizados: 
 \begin{itemize}
 \item Definir premissas nos artefatos desde o planejamento da contratação;
 \item Alinhar diretrizes e condições com a Direção de TI;
 \item Convalidar com a Alta Administração, ou seja, validar e sustentar essas diretrizes durante o contrato.
 \end{itemize}
 
-A lista de práticas ágeis utilizadas no projeto SICG para a gestão do contrato estão a seguir:
-\begin{itemize}
-\item Definição de Pronto.
-\item Histórias de Usuário
-\item Planejamento das Iterações.
-\item Backlog do Produto.
-\item Backlog da Sprint.
-\item Quadro Kanban.
-\item Burndown Charts.
-\item Retrospectivas.
-\item Tempo de Ciclo (Lead time).
-\end{itemize}
+A lista de práticas ágeis utilizadas no projeto SICG para a gestão do contrato estão na Tab. (6).
 
-Com isso, foram definidas algumas premissas que devem orientar o planejamento e execução do contrato. A saber:  \cite{parente}:
+\begin{table}[H]
+\center
+\footnotesize
+\begin{tabular}{|c|c|c|}
+\hline
+ Definição de Pronto              &   Histórias de Usuário.              \\ \hline
+Planejamento das Iterações.  &  Backlog do Produto.           \\ \hline
+  Backlog da Sprint.             &   Quadro Kanban.              \\ \hline
+Burndown Charts.         &  Retrospectivas.            \\ \hline
+Tempo de Ciclo (Lead time).         &  Revisão de Código.               \\ \hline
+\end{tabular}
+\caption{Práticas Ágeis adotadas pelo IPHAN}
+\end{table}
+
+
+Com isso, foram definidas algumas premissas que devem orientar o planejamento e execução do contrato. A saber: 
 \begin{itemize}
 \item O órgão não deve definir, ou exigir, o uso de Metodologia Ágil da entidade contratada. Não defina Metodologia de Desenvolvimento de Software (MDS), mas sim a
 forma de gerenciar as demandas (ordens de serviço), os produtos que devem ser entregues e seus critérios de aceitação. 
@@ -228,7 +263,7 @@ O Kanban definido pelo IPHAN possui quatro colunas ou raias e está ilustrado na
 		\centering
 		
 			\includegraphics[scale=0.5]{figuras/kanbanIPHAN1.png}
-		\caption{Quadro Kanban  \cite{parente}}
+		\caption{Quadro Kanban (imagem disponível em http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil) }
 	\label{kanban1}
 \end{figure}
 
@@ -238,7 +273,7 @@ A primeira raia do Kanban diz respeito aos itens que estão no estado “Prepara
 		\centering
 		
 			\includegraphics[scale=0.5]{figuras/kanbanIPHAN2.png}
-		\caption{Transição para a raia Preparado \cite{parente}}
+		\caption{Transição para a raia Preparado (imagem disponível em http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil)}
 		\label{kanban2}
 \end{figure}
 
@@ -248,7 +283,7 @@ A transição de um item da raia “Preparado” para a raia “OS Aberta” oco
 		\centering
 		
 			\includegraphics[scale=0.5]{figuras/kanbanIPHAN3.png}
-		\caption{Transição entre raias \cite{parente}}
+		\caption{Transição entre raias (imagem disponível em http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil)}
 		\label{kanban3}
 \end{figure}
 
@@ -262,11 +297,11 @@ Vale ressaltar que é importante que o trabalho em progresso (WIP) seja limitado
 		\centering
 		
 			\includegraphics[scale=0.5]{figuras/kanbanIPHAN4.png}
-		\caption{Limitação de WIP \cite{parente}}
+		\caption{Limitação de WIP (imagem disponível em http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil)}
 		\label{kanban4}
 \end{figure}
 
-É importante sempre valorizar a entrega de produto funcional e não pagar por apenas documentação. Assim, o IPHAN dividia a forma de pagamento da contratada em percentuais, de acordo com a fase, valorizando a fase de execução, como ilustrado na Tab. (2).
+É importante sempre valorizar a entrega de produto funcional e não pagar por apenas documentação. Assim, o IPHAN dividiu a forma de pagamento da contratada em percentuais, de acordo com a fase, valorizando a fase de execução, como ilustrado na Tab. (7). Na Sprint 18 do projeto SICG, ocorreu uma mudança acordada com a empresa contratada de modificar o pagamento da fase de execução para 100\%, pois o fluxo de caixa da empresa estava curto. Valorizando - se ainda mais a fase de execução.
 
 
 \begin{table}[H]
@@ -278,12 +313,14 @@ Vale ressaltar que é importante que o trabalho em progresso (WIP) seja limitado
     \hline
    Planejamento (1 vez) & 5\%\\
    \hline    
-   Execução (n vezes) & 80\%\\
+   Execução (n vezes) & 75\%\\
     \hline
-   Encerramento (1 vez) & 15\%\\
+   Implantação (1 vez) & 10\%\\
+   \hline
+   Encerramento (1 vez) & 10\%\\
    \hline
 \end{tabular}
-\caption{Formas de Pagamento}
+\caption{Modelo de Remuneração do projeto SICG}
 \end{table}
 
 
@@ -293,15 +330,16 @@ Outra técnica importante que foi construída diz respeito a parelização das a
 		\centering
 		
 			\includegraphics[scale=0.5]{figuras/kanbanIPHAN5.png}
-		\caption{Parelização de Atividades \cite{parente}}
+		\caption{Parelização de Atividades (imagem disponível em http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil)}
 		\label{kanban5}
 \end{figure}
 
 O Kanban evidencia a aderência de utilização de métodos ágeis. A paralelização das atividades, que evita desperdícios de trabalho, evidencia a aderência ao Lean no Desenvolvimento de \textit{Software}. Assim, conclui-se que as premissas utilizadas como base para o desenvolvimento do Kanban foram baseadas tanto nos princípios ágeis quanto nos princípios do Lean. Após alguns meses de aplicação dessa solução o órgão deu início a construção da Metodologia IPHAN de Gestão de Demandas de Desenvolvimento Ágil de \textit{Software} (MIDAS). Uma parte do MIDAS pode ser visualizada no Anexo B. 
 
 
-
 \section[Análise dos Dados]{Análise dos Dados}
+
+Nesta seção serão apresentados os resultados dos dados coletados categorizados em três efeitos: entrega de ordens de serviço, satisfação do cliente e qualidade interna do código fonte. As subseções a seguir têm o objetivo de responder diretamente às questões específicas de pesquisa definidas no Capítulo 5.
 
 \subsection[Efeitos sobre a entrega de ordens de serviço]{Efeitos sobre a entrega de ordens de serviço}
 
@@ -327,7 +365,7 @@ A Figura \ref{porcentagemrequisitos} apresenta a porcentagem de requisitos atend
 
  A média geral de requisitos atendidos ao longo do projeto de acordo com os dados levantados da documentação foi de 78\%, o que coincide com a percepção dos envolvidos no projeto: 75\% dos envolvidos responderam ao questionário que a percepção geral de requisitos atendidos durante o projeto estava entre 70\% e 90\%.
 
-A Figura \ref{custo} apresenta o custo de cada ordem de serviço ou sprint, respondendo assim a questão de pesquisa QE9. Como pode ser observado, nas ordens de serviço que tiverem a porcentagem de requisitos atendidos como 0\% não houver remuneração para a Contratada. O custo estimado do contrato antes da contratação era de R\$ 990,000. Portanto, o custo final foi próximo do custo estimado.
+A Figura \ref{custo} apresenta o custo de cada ordem de serviço ou sprint, respondendo assim a questão de pesquisa QE9. Como pode ser observado, nas ordens de serviço que tiverem a porcentagem de requisitos atendidos como 0\% não houve remuneração para a contratada. O custo estimado do contrato antes da contratação era de R\$ 990,000. Portanto, o custo final foi próximo do custo estimado, ultrapassando apenas 1,8\%.
 
 \begin{figure}[H]
 		\centering
@@ -335,6 +373,8 @@ A Figura \ref{custo} apresenta o custo de cada ordem de serviço ou sprint, resp
 		\caption{Custo por Ordem de Serviço}
 		\label{custo}
 \end{figure}
+
+É importante destacar que apesar das sprints 1, 3, 6 e 18 não tiverem sido faturadas, não houve aplicação de multa para a contratada. Pois, conforme a solução caracterizada anteriormente, o órgão optou por modificar o modelo de remuneração e considera o aprendizado e a adaptação da empresa ao tipo de metodologia de gestão de contrato que está sendo aplicado. Além disso, o fato de a empresa não ter um pagamento em seu fluxo de caixa já é penalização suficiente para que a empresa faça a adequação do seu processo de trabalho.
 
 \subsection[Efeitos sobre a satisfação do cliente]{Efeitos sobre a satisfação do cliente}
 
@@ -377,6 +417,12 @@ de um programa. Essa métrica pode ser representada através de um grafo de flux
 de controle (MCCABE, 1976). O uso de estruturas de controle, tais como, if, else,
 while aumentam a complexidade ciclomática de um método.
 
+ \vspace{\onelineskip}
+
+\textbf{AMLOC (Average Method Lines of Code)} - essa medida indica se o código está bem distribuído entre os métodos. Quanto maior, mais pesados são os métodos. É preferível ter muitas operações pequenas e de fácil entendimento que poucas operações grandes e complexas \cite{Meirelles2013}.
+
+
+
  \vspace{\onelineskip} 
 
 As métricas de orientação à objetos selecionadas são:
@@ -390,28 +436,12 @@ WATSON, 1994) (CHIDAMBER; KEMERER, 1994).
 
  \vspace{\onelineskip} 
 
-\textbf{RFC (Response For a Class):} respostas para uma Classe é número de métodos
-dentre todos os métodos que podem ser invocados em resposta a uma mensagem
-enviada por um objeto de uma classe (SHARBLE; COHEN, 1993).
+ \textbf{ANPM (Average Number of Parameters per Method)} - calcula a média de parâmetros dos métodos da classe. Seu valor mínimo é zero e não existe um limite máximo para o seu resultado, mas um número alto de parâmetros pode indicar que um método pode ter mais uma responsabilidade \cite{Basili1987}
+
 
  \vspace{\onelineskip} 
 
-\textbf{LCOM4 (Lack of Cohesion in Methods):} falta de Coesão entre Métodos. Originalmente
-proposto por Chidamber e Kemerer (1994) como LCOM não teve uma
-grande aceitabilidade. Após críticas e sugestões a métrica foi revisada por Hitz e
-Montazeri (1995), que propôs a LCOM4. Para calcular LCOM4 de um módulo, é
-necessário construir um gráfico não-orientado em que os nós são os métodos e atributos
-de uma classe. Para cada método, deve haver uma aresta entre ele e um outro
-método ou variável que ele usa. O valor da LCOM4 é o número de componentes
-fracamente conectados nesse gráfico.
-
- \vspace{\onelineskip} 
-
-\textbf{NOM (Number of Methods):} número de Métodos é usado para medir o tamanho
-das classes em termos das suas operações implementadas. Essa métrica é usada para
-ajudar a identificar o potencial de reúso de uma classe. Em geral, as classes com
-um grande número de métodos são mais difíceis de serem reutilizadas, pois elas são
-propensas a serem menos coesas (LORENZ; KIDD, 1994).
+\textbf{CBO (Coupling Between Objects)} -  é o número total de classes dentro de um pacote que dependem de classes externas ao pacote. Quando calculada no nível da classe, essa medida também é conhecida como Fan-out da classe \cite{Chidamber94}
 
  \vspace{\onelineskip} 
 
@@ -425,23 +455,59 @@ maior é o número de atributos e métodos herdados, e, portanto,maior é a comp
 
  \vspace{\onelineskip} 
 
+\textbf{LCOM4 (Lack of Cohesion in Methods):} falta de Coesão entre Métodos. Originalmente
+proposto por Chidamber e Kemerer (1994) como LCOM não teve uma
+grande aceitabilidade. Após críticas e sugestões a métrica foi revisada por Hitz e
+Montazeri (1995), que propôs a LCOM4. Para calcular LCOM4 de um módulo, é
+necessário construir um gráfico não-orientado em que os nós são os métodos e atributos
+de uma classe. Para cada método, deve haver uma aresta entre ele e um outro
+método ou variável que ele usa. O valor da LCOM4 é o número de componentes
+fracamente conectados nesse gráfico.
+
+
+ \vspace{\onelineskip} 
+
 \textbf{NOC (Number of Children):} número de Filhos é o número de subclasses ou classes
 filhas que herdam da classe analisada (ROSENBERG; HYATT, 1997). Deve se ter
 cautela ao modificar classes com muitos filhos, pois uma simples modificação de
 assinatura de um método, pode criar uma mudança em muitas classes.
+
+
+ \vspace{\onelineskip} 
+
+\textbf{NOM (Number of Methods):} número de Métodos é usado para medir o tamanho
+das classes em termos das suas operações implementadas. Essa métrica é usada para
+ajudar a identificar o potencial de reúso de uma classe. Em geral, as classes com
+um grande número de métodos são mais difíceis de serem reutilizadas, pois elas são
+propensas a serem menos coesas (LORENZ; KIDD, 1994).
+
+
+ \vspace{\onelineskip} 
+
+\textbf{NPA (Number of Public Attributes)} - mede o encapsulamento. Os atributos de uma classe devem servir apenas às funcionalidades da própria classe. Portanto, boas práticas de programação recomendam que os atributos de uma classe devem ser manipulados através dos métodos de acesso \cite{beck1997smalltalk}
+
+
+
+ \vspace{\onelineskip} 
+
+\textbf{RFC (Response For a Class):} respostas para uma Classe é número de métodos
+dentre todos os métodos que podem ser invocados em resposta a uma mensagem
+enviada por um objeto de uma classe (SHARBLE; COHEN, 1993).
+
+
 
  \vspace{\onelineskip} 
 
 Um dos objetivos científicos do estudo de Meirelles foi a identificação das distribuições estatísticas do valores das métricas apresentadas anteriormente em 38 projetos
 de software livre. A partir de cada uma das distribuições estatísticas Meirelles classificou as métricas de código fonte de acordo com a frequência dos valores apresentados,
 com os intervalos: muito frequente, frequente, pouco frequente e não frequente. Para simplificar o entendimento das métricas de código fonte, Morais interpretou os rótulos dos
-intervalos de frequência definidos por Meirelles em em rótulos qualitativos, tal como a Tabela 4. 
+intervalos de frequência definidos por Meirelles em em rótulos qualitativos, tal como a Tab. (8). 
 
 \begin{table}[!ht]
 	\begin{center}
 	 \begin{tabular}{|l|l|}
 		\hline
-		Intervalo de Frequência & Intervalos Qualitativos \\ \hline
+		Intervalo de Frequência & Rótulo Qualitativos \\ \hline
 		Muito Frequente & Excelente \\ \hline
 		Frequente       & Bom       \\ \hline
 		Pouco Frequente & Regular   \\ \hline
@@ -454,115 +520,170 @@ intervalos de frequência definidos por Meirelles em em rótulos qualitativos, t
 
 
 Posteriormente, apresenta-se a Tabela 3, retirada do
-estudo de Meirelles (2013), com os intervalos encontrados para C++ e Java. Com isso, os intervalos apresentados na Tabela 5 foram os utilizados como os indicadores
-de qualidade de código fonte na análise deste estudo de caso. É importante ressaltar que quando apresentarmos o resultado da análise sobre o código fonte desse estudo de caso e dissermos que o código fonte tem um rótulo "excelente" ou "ruim" para determinada métrica siginifica que esse código fonte é "excelente" ou "ruim" em comparação ao melhor projeto de software livre selecionado por Meirelles na Linguagem Java, que foi o Eclipse.
+estudo de Meirelles (2013), com os intervalos encontrados para C++ e Java. Com isso, os intervalos apresentados na Tab. (9) foram os utilizados como os indicadores
+de qualidade de código fonte na análise deste estudo de caso. É importante ressaltar que quando apresentarmos o resultado da análise sobre o código fonte desse estudo de caso e dissermos que o código fonte tem um rótulo "excelente" ou "ruim" para determinada métrica siginifica que esse código fonte é "excelente" ou "ruim" em comparação ao melhor projeto de software livre selecionado por Meirelles na Linguagem Java, que foi o Open JDK8.
 
-\begin{table}[!ht]
-	\begin{center}
-	\begin{tabular}{ |l|l|l|l| }
+ \vspace{\onelineskip} 
+ \vspace{\onelineskip} 
+ \vspace{\onelineskip} 
+ \vspace{\onelineskip} 
+ \vspace{\onelineskip} 
+
+	
+\begin{longtable}{|l|l|l|}
 		\hline
-		Métrica & Intervalo Qualitativo & Java & C++ \\ \hline
-		%-------------------------------
-		\multirow{4}{*}{LOC} 
-		 & Excelente & [de 0 a 33] & [de 0 a 31] \\
-		 & Bom & [de 34 a 87] & [de 32 a 84] \\
-		 & Regular & [de 88 a 200] & [de 85 a 207] \\
-		 & Ruim & [acima de 200] & [acima de 207] \\ \hline
+		
+		\textbf{Métrica} & \textbf{Rótulos Qualitativos} &  \textbf{Intervalos Qualitativos}  \\ \hline
+		 % Métrica de Tamanho e Complexidade
+
+
+		 %------------------------------- Tomcat
+		 \multirow{4}{*}{LOC} 
+		 & Excelente & [de 0 a 33]  \\
+		 & Bom & [de 34 a 87]] \\
+		 & Regular & [de 88 a 200]  \\
+		 & Ruim & [acima de 200] \\ \hline
 		 %---------------------------------
 
-		 %-------------------------------
-		\multirow{4}{*}{ACCM} 
-		 & Excelente & [de 0 a 2,8] & [de 0 a 2,0] \\
-		 & Bom & [de 2,9 a 4,4] & [de 2,1 a 4,0] \\
-		 & Regular & [de 4,5 a 6,0] & [de 4,1 a 6,0] \\
-		 & Ruim & [acima de 6] & [acima de 6] \\ \hline
-		 %---------------------------------
-
-
-		%-------------------------------
-		\multirow{4}{*}{ACC} 
-		 & Excelente & [de 0 a 1] & [de 0 a 2,0] \\
-		 & Bom & [de 1,1 a 5] & [de 2,1 a 7,0] \\
-		 & Regular & [de 5,1 a 12] & [de 7,1 a 15] \\
-		 & Ruim & [acima de 12] & [acima de 15] \\ \hline
+		 %-------------------------------  Tomcat	
+		 \multirow{4}{*}{ACCM} 
+		 & Excelente & [de 0 a 2,8]  \\
+		 & Bom & [de 2,9 a 4,4]  \\
+		 & Regular & [de 4,5 a 6,0]  \\
+		 & Ruim & [acima de 6]  \\ \hline
 		 %---------------------------------
 
 
-		%-------------------------------
-		\multirow{4}{*}{RFC} 
-		 & Excelente & [de 0 a 9] & [de 0 a 29] \\
-		 & Bom & [de 10 a 26] & [de 30 a 64] \\
-		 & Regular & [de 27 a 59] & [de 65 a 102] \\
-		 & Ruim & [acima de 59] & [acima de 102] \\ \hline
+		 %--------------------------------- Tomcat
+		 \multirow{4}{*}{AMLOC} 
+		 & Excelente & [de 0 a 8,3]  \\
+		 & Bom & [de 8,4 a 18]  \\
+		 & Regular & [de 19 a 34]  \\
+		 & Ruim & [acima de 34]  \\ \hline
 		 %---------------------------------
 
-		 %-------------------------------
-		\multirow{4}{*}{LCOM4} 
-		 & Excelente & [de 0 a 3] & [de 0 a 5] \\
-		 & Bom & [de 4 a 7] & [de 6 a 10] \\
-		 & Regular & [de 8 a 12] & [de 11 a 14] \\
-		 & Ruim & [acima de 12] & [acima de 14] \\ \hline
+		 % Métricas de Orientação à Objetos
+
+		 %------------------------------- Tomcat
+		 \multirow{4}{*}{ACC} 
+		 & Excelente & [de 0 a 1] \\
+		 & Bom & [de 1,1 a 5]  \\
+		 & Regular & [de 5,1 a 12] \\
+		 & Ruim & [acima de 12] ] \\ \hline
 		 %---------------------------------
 
-		 %-------------------------------
-		\multirow{4}{*}{NOM} 
-		 & Excelente & [de 0 a 8] & [de 0 a 10] \\
-		 & Bom & [de 9 a 17] & [de 11 a 17] \\
-		 & Regular & [de 18 a 27] & [de 18 a 26] \\
-		 & Ruim & [acima de 27] & [acima de 26] \\ \hline
+
+		 %--------------------------------- Tomcat
+		 \multirow{4}{*}{ANPM} 
+		 & Excelente & [de 0 a 1,5] \\
+		 & Bom & [de 1,6 a 2,3] ] \\
+		 & Regular & [de 2,4 a 3,0]  \\
+		 & Ruim & [acima de 3] \\ \hline
 		 %---------------------------------
 
-		 %-------------------------------
-		\multirow{4}{*}{DIT} 
-		 & Excelente & [de 0 a 2] & [de 0 a 1] \\
-		 & Bom & [de 3 a 4] & [de 2 a 3] \\
-		 & Regular & [de 5 a 6] & [de 3 a 4] \\
-		 &
-		  Ruim & [acima de 6] & [acima de 4] \\ \hline
+		 %--------------------------------- Tomcat
+		 \multirow{4}{*}{CBO} 
+		 & Excelente & [de 0 a 3]  \\
+		 & Bom & [de 4 a 6] ] \\
+		 & Regular & [de 7 a 9]  \\
+		 & Ruim & [acima de 9] \\ \hline
 		 %---------------------------------
 
-		%-------------------------------
-		\multirow{4}{*}{NOC} 
-		 & Excelente & [de 0 a 1] & [0] \\
-		 & Bom & [de 1 a 2] & [1] \\
-		 & Regular & [de 2 a 3] & [de 1 a 2] \\
-		 & Ruim & [acima de 3] & [acima de 2] \\ \hline
+		 %------------------------------- Tomcat
+		 \multirow{4}{*}{DIT} 
+		 & Excelente & [de 0 a 2]   \\
+		 & Bom & [de 3 a 4]  ] \\
+		 & Regular & [de 5 a 6]   \\
+		 & Ruim & [acima de 6]  \\ \hline
 		 %---------------------------------
 
-	\end{tabular}
-	\caption{Intervalos das Métricas para Java e C++}
-	\label{metrics}
-	\end{center}
-	\end{table}
+		 %------------------------------- Tomcat
+		 \multirow{4}{*}{LCOM4} 
+		 & Excelente & [de 0 a 3]  \\
+		 & Bom & [de 4 a 7]  \\
+		 & Regular & [de 8 a 12]   \\
+		 & Ruim & [acima de 12]  ] \\ \hline
+		 %---------------------------------
+
+
+
+		 %------------------------------- Tomcat
+		 \multirow{4}{*}{NOC} 
+		 & Excelente & [0]  \\
+		 & Bom & [1 a 2]   \\
+		 & Regular & [3]  ] \\
+		 & Ruim & [acima de 3]   \\ \hline
+		 %---------------------------------
+
+
+
+		 %------------------------------- Tomcat 
+		 \multirow{4}{*}{NOM} 
+		 & Excelente & [de 0 a 8]   \\
+		 & Bom & [de 9 a 17]   \\
+		 & Regular & [de 18 a 27]  \\
+		 & Ruim & [acima de 27]   \\ \hline
+		 %---------------------------------
+
+
+
+
+		 %--------------------------------- Tomcat
+		 \multirow{4}{*}{NPA} 
+		 & Excelente & [0]   \\
+		 & Bom & [1]   \\
+		 & Regular & [de 2 a 3]   \\
+		 & Ruim & [acima de 3]  \\ \hline
+		 %---------------------------------
+
+
+		 %------------------------------- Tomcat 
+		 \multirow{4}{*}{RFC} 
+		 & Excelente & [de 0 a 9]   \\
+		 & Bom & [de 10 a 26]  ] \\
+		 & Regular & [de 27 a 59]   \\
+		 & Ruim & [acima de 59]   \\ \hline
+		 %---------------------------------
+ 	
+
+			\caption{Intervalos de Qualidade Java}
+	\end{longtable}
 
 De forma geral, o processo realizado para a análise do código fonte do SICG foi retirado do trabalho desenvolvido por BAUFAKER, que  consiste em: executar a ferramenta Analizo sobre o código fonte do projeto SICG, o qual resultará em um arquivo .csv com os resultados númericos das métricas selecionadas, transformar o arquivo .csv em json e inserir esse arquivo na arquitetura desenvolvida por BAUFAKER na ferramenta Pentaho. Ao final desse processo, temos como resultado os gráficos para análise. 
 
 A fim de responder a questão de pesquisa QE12 serão mostrados a seguir os resultados do processamento do código fonte do projeto SICG no que diz respeito a qualidade do código ao longo das sprints do projeto de acordo com as oito métricas selecionadas. Os rótulos de intervalos de qualidade mostrados são resultantes dos valores médios de cada métrica para todas as classes do projeto. 
 
-As Figuras \ref{metricasprint} e \ref{metricasprint2} mostra os valores de todas as métricas ao longo das sprints do projeto. A seguir, serão apresentados os gráficos, primeiramente, dos resultados de cada métrica de forma individual ao longo das sprints do projeto e, posteriormente, o resultado geral da qualidade do código ao longo das sprints do projeto.
+As Figuras \ref{metricasprint}, \ref{metricasprint2} e \ref{metricasprint2} mostram os valores de todas as métricas ao longo das sprints do projeto. A seguir, serão apresentados os gráficos, primeiramente, dos resultados de cada métrica de forma individual ao longo das sprints do projeto e, posteriormente, o resultado geral da qualidade do código ao longo das sprints do projeto.
 
 \begin{figure}[H]
 		\centering
-			\includegraphics[scale=0.8]{figuras/metricasprint.png}
-		\caption{Valores das Métricas do Projeto SICG}
+			\includegraphics[scale=0.9]{figuras/metricas29.png}
+		\caption{Valores das Métricas do Projeto SICG da Sprint 2 a Sprint 9}
 		\label{metricasprint}
 \end{figure}
 
 \begin{figure}[H]
 		\centering
-			\includegraphics[scale=0.8]{figuras/metricasprint2.png}
-		\caption{Valores das Métricas do Projeto SICG - Continuação}
+			\includegraphics[scale=0.9]{figuras/metricas1016.png}
+		\caption{Valores das Métricas do Projeto SICG da Sprint 10 a Sprint 16}
 		\label{metricasprint2}
+\end{figure}
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.9]{figuras/metricas1724.png}
+		\caption{Valores das Métricas do Projeto SICG da Sprint 17 a Sprint 24}
+		\label{metricasprint3}
 \end{figure}
 
 
 \textbf{LOC (Lines of Code)}
 
-A Figura \ref{loc} mostra a qualidade da métrica LOC. Esta métrica permanece com o intervalo de qualidade "Bom" constante ao longo das sprints do projeto.
+A Figura \ref{loc} mostra a qualidade da métrica LOC. Esta métrica permanece com o intervalo de qualidade "Excelente" constante ao longo das sprints do projeto.
 
 \begin{figure}[H]
 		\centering
-			\includegraphics[scale=0.4]{figuras/loc.png}
+			\includegraphics[scale=1.0]{figuras/loc.png}
 		\caption{Qualidade da Métrica LOC nas Sprints do Projeto SICG}
 		\label{loc}
 \end{figure}
@@ -573,9 +694,20 @@ A Figura \ref{accm} mostra a qualidade da métrica ACCM. Esta métrica permanece
 
 \begin{figure}[H]
 		\centering
-			\includegraphics[scale=0.4]{figuras/accm.png}
+			\includegraphics[scale=1.0]{figuras/accm.png}
 		\caption{Qualidade da Métrica ACCM nas Sprints do Projeto SICG}
 		\label{accm}
+\end{figure}
+
+\textbf{AMLOC (Average Method Lines of Code)}
+
+A Figura \ref{amloc} mostra a qualidade da métrica AMLOC. Esta métrica permanece com o intervalo de qualidade "Excelente" constante ao longo das sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=1.0]{figuras/amloc.png}
+		\caption{Qualidade da Métrica AMLOC nas Sprints do Projeto SICG}
+		\label{amloc}
 \end{figure}
 
 \textbf{ACC (Afferent Connections per Class)}
@@ -584,9 +716,88 @@ A Figura \ref{acc} mostra a qualidade da métrica ACC. Esta métrica permanece c
 
 \begin{figure}[H]
 		\centering
-			\includegraphics[scale=0.4]{figuras/acc.png}
+			\includegraphics[scale=1.0]{figuras/acc.png}
 		\caption{Qualidade da Métrica ACC nas Sprints do Projeto SICG}
 		\label{acc}
+\end{figure}
+
+\textbf{ANPM (Average Number of Parameters per Method)}
+
+A Figura \ref{anpm} mostra a qualidade da métrica ANPM. Esta métrica permanece com o intervalo de qualidade "Excelente" constante ao longo das sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=1.0]{figuras/anpm.png}
+		\caption{Qualidade da Métrica ANPM nas Sprints do Projeto SICG}
+		\label{anpm}
+\end{figure}
+
+\textbf{CBO (Coupling Between Objects)}
+
+A Figura \ref{cbo} mostra a qualidade da métrica CBO. Esta métrica permanece com o intervalo de qualidade "Ruim" constante ao longo das sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=1.0]{figuras/cbo.png}
+		\caption{Qualidade da Métrica CBO nas Sprints do Projeto SICG}
+		\label{cbo}
+\end{figure}
+
+\textbf{DIT(Depth of Inheritance Tree)}
+
+A Figura \ref{dit} mostra a qualidade da métrica DIT. Esta métrica permanece com o intervalo de qualidade "Excelente" constante ao longo das sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=1.0]{figuras/dit.png}
+		\caption{Qualidade da Métrica DIT nas Sprints do Projeto SICG}
+		\label{dit}
+\end{figure}
+
+
+\textbf{LCOM4 (Lack of Cohesion in Methods)} 
+
+A Figura \ref{lcom4} mostra a qualidade da métrica LCOM4. Esta métrica inicia com o intervalo de qualidade "Bom" na primeira sprint com entrega de software (Sprint 2) e, posteriormente, permanece com o intervalo de qualidade "Regular" constante ao longo das demais sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.9]{figuras/lcom4.png}
+		\caption{Qualidade da Métrica LCOM4  nas Sprints do Projeto SICG}
+		\label{lcom4}
+\end{figure}
+
+\textbf{NOC (Number of Children)}
+
+A Figura \ref{noc} mostra a qualidade da métrica NOC. Esta métrica permanece com o intervalo de qualidade "Bom" constante ao longo das sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=1.0]{figuras/noc.png}
+		\caption{Qualidade da Métrica NOC nas Sprints do Projeto SICG}
+		\label{noc}
+\end{figure}
+
+
+\textbf{NOM (Number of Methods)} 
+
+A Figura \ref{nom} mostra a qualidade da métrica NOM. Esta métrica permanece com o intervalo de qualidade "Bom" até a Sprint 11 do projeto, a partir da Sprint 12 o código fonte obtém uma melhoria e a métrica NOM passa a ter o intervalo de qualidade "Excelente" até a última sprint analisada do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.9]{figuras/nom.png}
+		\caption{Qualidade da Métrica NOM nas Sprints do Projeto SICG}
+		\label{nom}
+\end{figure}
+
+\textbf{NPA (Number of Public Attributes)} 
+
+A Figura \ref{npa} mostra a qualidade da métrica NPA. Esta métrica permanece com o intervalo de qualidade "Excelente" constante ao longo das sprints do projeto.
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=1.0]{figuras/npa.png}
+		\caption{Qualidade da Métrica NPA nas Sprints do Projeto SICG}
+		\label{npa}
 \end{figure}
 
 \textbf{RFC (Response For a Class)} 
@@ -595,62 +806,27 @@ A Figura \ref{rfc} mostra a qualidade da métrica RFC. Esta métrica permanece c
 
 \begin{figure}[H]
 		\centering
-			\includegraphics[scale=0.4]{figuras/rfc.png}
+			\includegraphics[scale=1.0]{figuras/rfc.png}
 		\caption{Qualidade da Métrica RFC nas Sprints do Projeto SICG}
 		\label{rfc}
 \end{figure}
 
-\textbf{LCOM4 (Lack of Cohesion in Methods)} 
-
-A Figura \ref{lcom4} mostra a qualidade da métrica LCOM4. Esta métrica inicia com o intervalo de qualidade "Bom" na primeira sprint e, posteriormente, permanece com o intervalo de qualidade "Regular" constante ao longo das demais sprints do projeto.
+A Figura \ref{qualidadesprint} mostra a qualidade de todas as métricas analisadas ao longo das sprints do projeto desconsiderando a métrica CBO. Considerando que a Sprint 24 é a última sprint do projeto e, portanto, seria o código final, observamos uma predominância do intervalo de qualidade "Excelente", seguido do intervalo "Bom" e "Regular", respectivamente. 
 
 \begin{figure}[H]
 		\centering
-			\includegraphics[scale=0.4]{figuras/lcom4.png}
-		\caption{Qualidade da Métrica LCOM4  nas Sprints do Projeto SICG}
-		\label{lcom4}
-\end{figure}
-
-\textbf{NOM (Number of Methods)} 
-
-A Figura \ref{nom} mostra a qualidade da métrica NOM. Esta métrica permanece com o intervalo de qualidade "Bom" até a Sprint 11 do projeto, a partir da Sprint 12 o código fonte obtém uma melhoria e a métrica NOM passa a ter o intervalo de qualidade "Excelente" até a última sprint analisada do projeto.
-
-\begin{figure}[H]
-		\centering
-			\includegraphics[scale=0.4]{figuras/nom.png}
-		\caption{Qualidade da Métrica NOM nas Sprints do Projeto SICG}
-		\label{nom}
-\end{figure}
-
-\textbf{DIT (Depth of Inheritance Tree)}
-
-A Figura \ref{dit} mostra a qualidade da métrica DIT. Esta métrica permanece com o intervalo de qualidade "Excelente" constante ao longo das sprints do projeto.
-
-\begin{figure}[H]
-		\centering
-			\includegraphics[scale=0.4]{figuras/dit.png}
-		\caption{Qualidade da Métrica DIT nas Sprints do Projeto SICG}
-		\label{dit}
-\end{figure}
-
-\textbf{NOC (Number of Children)}
-
-A Figura \ref{noc} mostra a qualidade da métrica NOC. Esta métrica permanece com o intervalo de qualidade "Excelente" constante ao longo das sprints do projeto.
-
-\begin{figure}[H]
-		\centering
-			\includegraphics[scale=0.4]{figuras/noc.png}
-		\caption{Qualidade da Métrica NOC nas Sprints do Projeto SICG}
-		\label{noc}
-\end{figure}
-
-A Figura \ref{qualidadesprint} mostra a qualidade de todas as métricas analisadas ao longo das sprints do projeto. Considerando que a Sprint 24 é a última sprint do projeto e, portanto, seria o código final, observamos uma predominância do intervalo de qualidade "Excelente", seguido do intervalo "Bom" e "Regular", respectivamente. 
-
-\begin{figure}[H]
-		\centering
-			\includegraphics[scale=0.4]{figuras/qualidadesprint.png}
-		\caption{Qualidade Geral das Métricas do Projeto SICG}
+			\includegraphics[scale=0.5]{figuras/todasmetricasSemCOB.png}
+		\caption{Qualidade Geral das Métricas do Projeto SICG sem a CBO}
 		\label{qualidadesprint}
+\end{figure}
+
+Enquanto a Figura \ref{qualidadesprint2} mostra a qualidade de todas as métricas analisadas ao longo das sprints do projeto considerando a métrica CBO. É possível perceber o grande impacto na qualidade geral do código fonte causado ao inserirmos na análise a métrica CBO. Ou seja, o código altamente acoplado e possuí uma quantidade alta de oportunidades de refatoração no que diz respeito aos seguintes cenários: classe pouco coesa, interface dos métodos, classes com muitos filhos, classe com métodos grandes e/ou muitos condicionais, classe com muita exposição e complexidade estrutural. 
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=0.5]{figuras/todasmetricasComCOB.png}
+		\caption{Qualidade Geral das Métricas do Projeto SICG com a CBO}
+		\label{qualidadesprint2}
 \end{figure}
 
 
@@ -664,7 +840,7 @@ o intervalo de qualidade como "Bom".
 		\label{percepcaoqualidade}
 \end{figure}
 
-Assim, no que diz respeito a análise estática do código realizada, a qualidade do código fonte do projeto é satisfatória ao compararmos com o melhor software livre encontrado na linguagem de programação Java, o Eclipse, e também é satisfatória na percepção dos envolvidos no projeto SICG. 
+Assim, no que diz respeito a análise estática do código realizada, a qualidade do código fonte do projeto é satisfatória ao compararmos com o melhor software livre encontrado na linguagem de programação Java se considerarmos que a métrica COB não tem um peso relevante em comparação as demais métricas e também é satisfatória na percepção dos envolvidos no projeto SICG. No entanto, ao analisarmos que algumas das práticas ágeis adotadas tanto pela empresa quanto pelo órgão são refatoração, código limpo e revisão de código, o resultado obtido por este estudo de caso contradiz a percepção dos envolvidos.
 
 
 
