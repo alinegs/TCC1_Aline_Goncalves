@@ -6,27 +6,29 @@ Warning--entry type for "leaninstitute" isn't style-file defined
 --line 100 of file bibliografia.bib
 Warning--entry type for "ranking" isn't style-file defined
 --line 106 of file bibliografia.bib
+I was expecting a `,' or a `}'---line 109 of file bibliografia.bib
+ :  
+ :  Year = {2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--entry type for "kanbanindustria" isn't style-file defined
---line 111 of file bibliografia.bib
+--line 112 of file bibliografia.bib
 Warning--entry type for "kanban" isn't style-file defined
---line 117 of file bibliografia.bib
+--line 118 of file bibliografia.bib
 Warning--entry type for "mcti" isn't style-file defined
---line 155 of file bibliografia.bib
+--line 152 of file bibliografia.bib
 Warning--entry type for "ruas" isn't style-file defined
---line 163 of file bibliografia.bib
+--line 160 of file bibliografia.bib
 Warning--entry type for "manifesto" isn't style-file defined
---line 175 of file bibliografia.bib
+--line 168 of file bibliografia.bib
 Warning--entry type for "sistemas" isn't style-file defined
---line 196 of file bibliografia.bib
+--line 189 of file bibliografia.bib
 Warning--entry type for "complexidade" isn't style-file defined
---line 203 of file bibliografia.bib
-Warning--I didn't find a database entry for "Meirelles2013"
-Warning--I didn't find a database entry for "Basili1987"
-Warning--I didn't find a database entry for "Chidamber94"
-Warning--I didn't find a database entry for "beck1997smalltalk"
+--line 196 of file bibliografia.bib
+Warning--campo year vazio ou faltando em ranking
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.8           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://abntex2.googlecode.com                           |
 +---------------------------------------------------------+
-(There were 13 warnings)
+(There was 1 error message)

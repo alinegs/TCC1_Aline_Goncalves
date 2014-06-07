@@ -21,7 +21,7 @@
 \addvspace {10pt}
 \contentsline {figure}{\numberline {15}{\ignorespaces Vis\IeC {\~a}o Geral da Situa\IeC {\c c}\IeC {\~a}o do IPHAN}}{66}{figure.6.15}
 \contentsline {figure}{\numberline {16}{\ignorespaces Pap\IeC {\'e}is e Responsabilidades do Contrato}}{69}{figure.6.16}
-\contentsline {figure}{\numberline {17}{\ignorespaces Quadro Kanban (imagem dispon\IeC {\'\i }vel em http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil) }}{72}{figure.6.17}
+\contentsline {figure}{\numberline {17}{\ignorespaces Quadro Kanban (imagem dispon\IeC {\'\i }vel em http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil)}}{72}{figure.6.17}
 \contentsline {figure}{\numberline {18}{\ignorespaces Transi\IeC {\c c}\IeC {\~a}o para a raia Preparado (imagem dispon\IeC {\'\i }vel em http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil)}}{73}{figure.6.18}
 \contentsline {figure}{\numberline {19}{\ignorespaces Transi\IeC {\c c}\IeC {\~a}o entre raias (imagem dispon\IeC {\'\i }vel em http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil)}}{74}{figure.6.19}
 \contentsline {figure}{\numberline {20}{\ignorespaces Limita\IeC {\c c}\IeC {\~a}o de WIP (imagem dispon\IeC {\'\i }vel em http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil)}}{75}{figure.6.20}
@@ -48,13 +48,14 @@
 \contentsline {figure}{\numberline {41}{\ignorespaces Qualidade da M\IeC {\'e}trica RFC nas Sprints do Projeto SICG}}{92}{figure.6.41}
 \contentsline {figure}{\numberline {42}{\ignorespaces Qualidade Geral das M\IeC {\'e}tricas do Projeto SICG sem a CBO}}{92}{figure.6.42}
 \contentsline {figure}{\numberline {43}{\ignorespaces Qualidade Geral das M\IeC {\'e}tricas do Projeto SICG com a CBO}}{93}{figure.6.43}
-\contentsline {figure}{\numberline {44}{\ignorespaces N\IeC {\'\i }vel de Percep\IeC {\c c}\IeC {\~a}o da Qualidade do C\IeC {\'o}digo Fonte}}{93}{figure.6.44}
+\contentsline {figure}{\numberline {44}{\ignorespaces Cen\IeC {\'a}rios de Limpeza}}{93}{figure.6.44}
+\contentsline {figure}{\numberline {45}{\ignorespaces N\IeC {\'\i }vel de Percep\IeC {\c c}\IeC {\~a}o da Qualidade do C\IeC {\'o}digo Fonte}}{94}{figure.6.45}
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {45}{\ignorespaces Matriz de Gerenciamento de Tempo \cite {bell2011}}}{111}{figure.anexochapback.1.45}
-\contentsline {figure}{\numberline {46}{\ignorespaces Quadro Andon, com o mesmo objetivo do Kanban, na f\IeC {\'a}brica da Toyota \cite {kanbanindustria}}}{118}{figure.anexochapback.1.46}
+\contentsline {figure}{\numberline {46}{\ignorespaces Matriz de Gerenciamento de Tempo \cite {bell2011}}}{111}{figure.anexochapback.1.46}
+\contentsline {figure}{\numberline {47}{\ignorespaces Quadro Andon, com o mesmo objetivo do Kanban, na f\IeC {\'a}brica da Toyota \cite {kanbanindustria}}}{118}{figure.anexochapback.1.47}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {47}{\ignorespaces Processo MIDAS \cite {IPHAN:2013}}}{120}{figure.anexochapback.2.47}
-\contentsline {figure}{\numberline {48}{\ignorespaces Subprocesso Realizar Ateste T\IeC {\'e}cnico \cite {IPHAN:2013}}}{121}{figure.anexochapback.2.48}
-\contentsline {figure}{\numberline {49}{\ignorespaces Subprocesso Sprint \cite {IPHAN:2013}}}{122}{figure.anexochapback.2.49}
+\contentsline {figure}{\numberline {48}{\ignorespaces Processo MIDAS \cite {IPHAN:2013}}}{120}{figure.anexochapback.2.48}
+\contentsline {figure}{\numberline {49}{\ignorespaces Subprocesso Realizar Ateste T\IeC {\'e}cnico \cite {IPHAN:2013}}}{121}{figure.anexochapback.2.49}
+\contentsline {figure}{\numberline {50}{\ignorespaces Subprocesso Sprint \cite {IPHAN:2013}}}{122}{figure.anexochapback.2.50}

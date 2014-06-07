@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  5 JUN 2014 11:00
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.1)  6 JUN 2014 21:21
 entering extended mode
 **C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
 (C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/tcc.tex
@@ -978,6 +978,11 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count176
 \LT@p@ftn=\toks30
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mdwtools\footnote.sty"
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box36
+\fn@width=\dimen161
+)
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.aux
 
 LaTeX Warning: Label `fig05' multiply defined.
@@ -1010,26 +1015,26 @@ LaTeX Warning: Label `fig01' multiply defined.
 LaTeX Warning: Label `fig01' multiply defined.
 
 )
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 14.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-\AtBeginShipoutBox=\box36
-Package hyperref Info: Link coloring ON on input line 13.
+\AtBeginShipoutBox=\box37
+Package hyperref Info: Link coloring ON on input line 14.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1041,19 +1046,19 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 13.
-LaTeX Info: Redefining \ref on input line 13.
-LaTeX Info: Redefining \pageref on input line 13.
-LaTeX Info: Redefining \nameref on input line 13.
-LaTeX Info: Redefining \degres on input line 13.
+LaTeX Info: Redefining \nameref on input line 14.
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
+LaTeX Info: Redefining \degres on input line 14.
 
 Package frenchb.ldf Warning: The definition of \@makecaption has been changed,
 (frenchb.ldf)                frenchb will NOT customise it;
-(frenchb.ldf)                reported on input line 13.
+(frenchb.ldf)                reported on input line 14.
 
-LaTeX Info: Redefining \dots on input line 13.
-LaTeX Info: Redefining \up on input line 13.
-\myptabbox=\box37
+LaTeX Info: Redefining \dots on input line 14.
+LaTeX Info: Redefining \up on input line 14.
+\myptabbox=\box38
 \myptabboxwidth=\skip205
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             http://www.ctan.org/tex-archive/ 
@@ -1061,27 +1066,27 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             or
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
-(lastpage)             ! on input line 13.
+(lastpage)             ! on input line 14.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count178
-\scratchdimen=\dimen161
-\scratchbox=\box38
+\scratchdimen=\dimen162
+\scratchbox=\box39
 \nofMPsegments=\count179
 \nofMParguments=\count180
 \everyMPshowfont=\toks31
 \MPscratchCnt=\count181
-\MPscratchDim=\dimen162
+\MPscratchDim=\dimen163
 \MPnumerator=\count182
 \makeMPintoPDFobject=\count183
 \everyMPtoPDFconversion=\toks32
 )
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 16.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 17.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <20.74> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 16.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 17.
 Package epstopdf Info: Source file: <figuras/capa.eps>
 (epstopdf)                    date: 2013-09-02 13:10:55
 (epstopdf)                    size: 661293 bytes
@@ -1090,7 +1095,7 @@ Package epstopdf Info: Source file: <figuras/capa.eps>
 (epstopdf)                    size: 105957 bytes
 (epstopdf)             Command: <epstopdf --outfile=figuras/capa-eps-converted-
 to.pdf figuras/capa.eps>
-(epstopdf)             \includegraphics on input line 16.
+(epstopdf)             \includegraphics on input line 17.
 Package epstopdf Info: Output file is already uptodate.
 
 <figuras/capa-eps-converted-to.pdf, id=4, 814.04124pt x 1150.2975pt>
@@ -1098,48 +1103,48 @@ File: figuras/capa-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figuras/capa-eps-converted-to.pdf>
 Package pdftex.def Info: figuras/capa-eps-converted-to.pdf used on input line 1
-6.
+7.
 (pdftex.def)             Requested size: 597.52437pt x 844.34396pt.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Aline/Documents/
 GitHub/TCC1_Aline_Goncalves/figuras/capa-eps-converted-to.pdf>]
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <17.28> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 18.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 18.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 19.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 19.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<ot1.cmap>>
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 18.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 19.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<oml.cmap>>
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 18.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 19.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<oms.cmap>>
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 18.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 19.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 18.
+(Font)              <12> on input line 19.
 <<omx.cmap>>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 18.
+(Font)              <8> on input line 19.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 18.
+(Font)              <6> on input line 19.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.18 
+l.19 
       [1
 
 
@@ -1203,6 +1208,10 @@ tex [4
 ])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\fixos/listasAutomaticas.t
 ex (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.lof
+
+Package hyperref Warning: Suppressing empty link on input line 9.
+
+
 Overfull \hbox (117.05594pt too wide) in paragraph at lines 24--24
  [][] [][][]\T1/lmr/m/n/12 Quadro Kan-ban (ima-gem dis-po-n�-vel em http://www.
 slideshare.net/herbertparente/contratao- 
@@ -1280,7 +1289,7 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 48.
  [17]
-<figuras/metodologiapesquisa.png, id=511, 837.8502pt x 542.025pt>
+<figuras/metodologiapesquisa.png, id=512, 837.8502pt x 542.025pt>
 File: figuras/metodologiapesquisa.png Graphic file (type png)
 
 <use figuras/metodologiapesquisa.png>
@@ -1292,7 +1301,7 @@ Overfull \hbox (131.49115pt too wide) in paragraph at lines 69--70
  [][] 
  []
 
-<figuras/fasesestudo.png, id=514, 704.6325pt x 488.57532pt>
+<figuras/fasesestudo.png, id=515, 704.6325pt x 488.57532pt>
 File: figuras/fasesestudo.png Graphic file (type png)
 
 <use figuras/fasesestudo.png>
@@ -1322,7 +1331,7 @@ ol-vi-mento
 
 [21
 
-] [22] [23] [24] [25] <figuras/MCTI.png, id=566, 554.82281pt x 240.14719pt>
+] [22] [23] [24] [25] <figuras/MCTI.png, id=567, 554.82281pt x 240.14719pt>
 File: figuras/MCTI.png Graphic file (type png)
 
 <use figuras/MCTI.png>
@@ -1346,7 +1355,7 @@ l.114
                                                   \fi \fi 
 l.114 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/MCTI.png>]
-[27] <figuras/GCTI.png, id=580, 699.36281pt x 380.17032pt>
+[27] <figuras/GCTI.png, id=581, 699.36281pt x 380.17032pt>
 File: figuras/GCTI.png Graphic file (type png)
 
 <use figuras/GCTI.png>
@@ -1362,14 +1371,20 @@ l.168
 ) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo3.tex
 [30] [31
 
-] <figuras/ranking.png, id=611, 593.21625pt x 403.5075pt>
+] <figuras/ranking.png, id=612, 593.21625pt x 403.5075pt>
 File: figuras/ranking.png Graphic file (type png)
 
 <use figuras/ranking.png>
 Package pdftex.def Info: figuras/ranking.png used on input line 32.
 (pdftex.def)             Requested size: 296.60739pt x 201.75325pt.
- [32]
-<figuras/principioslean.png, id=621, 633.86812pt x 401.24907pt>
+
+
+Package hyperref Warning: Suppressing empty link on input line 33.
+
+
+Package hyperref Warning: Suppressing empty link on input line 33.
+
+[32] <figuras/principioslean.png, id=620, 633.86812pt x 401.24907pt>
 File: figuras/principioslean.png Graphic file (type png)
 
 <use figuras/principioslean.png>
@@ -1396,7 +1411,7 @@ ean.png>] [35] [36]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 107.
  [37] [38] [39]
-<figuras/kanban.png, id=683, 680.5425pt x 467.49657pt>
+<figuras/kanban.png, id=682, 680.5425pt x 467.49657pt>
 File: figuras/kanban.png Graphic file (type png)
 
 <use figuras/kanban.png>
@@ -1407,7 +1422,7 @@ Overfull \hbox (21.3765pt too wide) in paragraph at lines 159--160
  [][] 
  []
 
-[40] <figuras/WIP.png, id=697, 524.71031pt x 267.24844pt>
+[40] <figuras/WIP.png, id=696, 524.71031pt x 267.24844pt>
 File: figuras/WIP.png Graphic file (type png)
 
 <use figuras/WIP.png>
@@ -1420,7 +1435,7 @@ Package pdftex.def Info: figuras/WIP.png used on input line 173.
                                                   \fi \fi 
 l.175 \end{figure}
                    <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figura
-s/kanban.png>] <figuras/metricasKanban.png, id=709, 1018.55531pt x 603.0028pt>
+s/kanban.png>] <figuras/metricasKanban.png, id=708, 1018.55531pt x 603.0028pt>
 File: figuras/metricasKanban.png Graphic file (type png)
 
 <use figuras/metricasKanban.png>
@@ -1458,7 +1473,7 @@ either increase the head height or redesign the header
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[45] <figuras/scrum.png, id=747, 526.96875pt x 234.8775pt>
+[45] <figuras/scrum.png, id=746, 526.96875pt x 234.8775pt>
 File: figuras/scrum.png Graphic file (type png)
 
 <use figuras/scrum.png>
@@ -1479,7 +1494,7 @@ l.53
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[47] <figuras/prescritivo.png, id=767, 499.11469pt x 111.41624pt>
+[47] <figuras/prescritivo.png, id=766, 499.11469pt x 111.41624pt>
 File: figuras/prescritivo.png Graphic file (type png)
 
 <use figuras/prescritivo.png>
@@ -1496,7 +1511,7 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
                                                   \fi \fi 
 l.84 
       <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/prescritivo
-.png>] <figuras/quadros.png, id=779, 659.46375pt x 292.84406pt>
+.png>] <figuras/quadros.png, id=778, 659.46375pt x 292.84406pt>
 File: figuras/quadros.png Graphic file (type png)
 
 <use figuras/quadros.png>
@@ -1535,7 +1550,7 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[53] <figuras/escopoEC.png, id=822, 413.29407pt x 192.72pt>
+[53] <figuras/escopoEC.png, id=821, 413.29407pt x 192.72pt>
 File: figuras/escopoEC.png Graphic file (type png)
 
 <use figuras/escopoEC.png>
@@ -1550,7 +1565,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.5.13})
                                                   \fi \fi 
 l.24 
       <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/escopoEC.pn
-g>] <figuras/estruturaEstudo.png, id=830, 444.15938pt x 511.9125pt>
+g>] <figuras/estruturaEstudo.png, id=829, 444.15938pt x 511.9125pt>
 File: figuras/estruturaEstudo.png Graphic file (type png)
 
 <use figuras/estruturaEstudo.png>
@@ -1592,7 +1607,7 @@ ble.6.5}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.134 
-      ] <figuras/problemas.png, id=877, 462.22687pt x 193.47281pt>
+      ] <figuras/problemas.png, id=876, 462.22687pt x 193.47281pt>
 File: figuras/problemas.png Graphic file (type png)
 
 <use figuras/problemas.png>
@@ -1610,7 +1625,7 @@ Overfull \hbox (7.22574pt too wide) in paragraph at lines 143--144
                                                   \fi \fi 
 l.149 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/problemas.
-png>] [67] <figuras/papeis.png, id=888, 462.22687pt x 498.36188pt>
+png>] [67] <figuras/papeis.png, id=887, 462.22687pt x 498.36188pt>
 File: figuras/papeis.png Graphic file (type png)
 
 <use figuras/papeis.png>
@@ -1635,7 +1650,7 @@ ble.6.6}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.253 \item E
              ntenda a demanda antes de executá-la. É preciso planejar, pel...
-] <figuras/kanbanIPHAN1.png, id=906, 929.72343pt x 383.93437pt>
+] <figuras/kanbanIPHAN1.png, id=905, 929.72343pt x 383.93437pt>
 File: figuras/kanbanIPHAN1.png Graphic file (type png)
 
 <use figuras/kanbanIPHAN1.png>
@@ -1657,7 +1672,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 266--266
 software-
  []
 
-<figuras/kanbanIPHAN2.png, id=908, 648.92438pt x 377.91188pt>
+<figuras/kanbanIPHAN2.png, id=907, 648.92438pt x 377.91188pt>
 File: figuras/kanbanIPHAN2.png Graphic file (type png)
 
 <use figuras/kanbanIPHAN2.png>
@@ -1682,7 +1697,7 @@ software-
 l.278 \end{figure}
                    <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figura
 s/kanbanIPHAN1.png>]
-<figuras/kanbanIPHAN3.png, id=915, 715.17188pt x 429.10312pt>
+<figuras/kanbanIPHAN3.png, id=914, 715.17188pt x 429.10312pt>
 File: figuras/kanbanIPHAN3.png Graphic file (type png)
 
 <use figuras/kanbanIPHAN3.png>
@@ -1706,7 +1721,7 @@ software-
                                                   \fi \fi 
 l.289 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanIPHA
-N2.png>] <figuras/kanbanIPHAN4.png, id=922, 694.84593pt x 400.49625pt>
+N2.png>] <figuras/kanbanIPHAN4.png, id=921, 694.84593pt x 400.49625pt>
 File: figuras/kanbanIPHAN4.png Graphic file (type png)
 
 <use figuras/kanbanIPHAN4.png>
@@ -1731,7 +1746,7 @@ software-
 l.302 \end{figure}
                    <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figura
 s/kanbanIPHAN3.png>]
-<figuras/kanbanIPHAN5.png, id=928, 644.4075pt x 331.2375pt>
+<figuras/kanbanIPHAN5.png, id=927, 644.4075pt x 331.2375pt>
 File: figuras/kanbanIPHAN5.png Graphic file (type png)
 
 <use figuras/kanbanIPHAN5.png>
@@ -1761,7 +1776,7 @@ l.336
                                                   \fi \fi 
 l.336 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanIPHA
-N4.png>] <figuras/resultadosmetricas.png, id=934, 493.845pt x 105.39375pt>
+N4.png>] <figuras/resultadosmetricas.png, id=933, 493.845pt x 105.39375pt>
 File: figuras/resultadosmetricas.png Graphic file (type png)
 
 <use figuras/resultadosmetricas.png>
@@ -1780,7 +1795,7 @@ Overfull \hbox (38.84378pt too wide) in paragraph at lines 352--353
                                                   \fi \fi 
 l.356 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/kanbanIPHA
-N5.png>] <figuras/porcentagemrequisitos.png, id=940, 288.3272pt x 331.99031pt>
+N5.png>] <figuras/porcentagemrequisitos.png, id=939, 288.3272pt x 331.99031pt>
 File: figuras/porcentagemrequisitos.png Graphic file (type png)
 
 <use figuras/porcentagemrequisitos.png>
@@ -1801,7 +1816,7 @@ l.369
 l.369 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/resultados
 metricas.png> <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/por
-centagemrequisitos.png>] <figuras/custo.png, id=948, 349.305pt x 424.58624pt>
+centagemrequisitos.png>] <figuras/custo.png, id=947, 349.305pt x 424.58624pt>
 File: figuras/custo.png Graphic file (type png)
 
 <use figuras/custo.png>
@@ -1814,14 +1829,14 @@ Package pdftex.def Info: figuras/custo.png used on input line 372.
                                                   \fi \fi 
 l.382 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/custo.png>
-] <figuras/visibilidade.png, id=955, 371.88937pt x 274.02374pt>
+] <figuras/visibilidade.png, id=954, 371.88937pt x 274.02374pt>
 File: figuras/visibilidade.png Graphic file (type png)
 
 <use figuras/visibilidade.png>
 Package pdftex.def Info: figuras/visibilidade.png used on input line 387.
 (pdftex.def)             Requested size: 371.88846pt x 274.02307pt.
 
-<figuras/satisfacao.png, id=957, 362.10281pt x 255.95625pt>
+<figuras/satisfacao.png, id=956, 362.10281pt x 255.95625pt>
 File: figuras/satisfacao.png Graphic file (type png)
 
 <use figuras/satisfacao.png>
@@ -1834,70 +1849,54 @@ Package pdftex.def Info: figuras/satisfacao.png used on input line 396.
                                                   \fi \fi 
 l.400 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/visibilida
-de.png>]
-
-LaTeX Warning: Citation `Meirelles2013' on page 80 undefined on input line 422.
-
-
-[80pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2
-6}) has been already used, duplicate ignored
+de.png>] [80pdfTeX warning (ext4): destination with the same identifier (name{f
+igure.6.26}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.430 ...bf{ACC (Afferent Connections per Class):}
+l.429 ...bf{ACC (Afferent Connections per Class):}
                                                    conexões Aferentes por C...
  <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/satisfacao.png>]
-
-LaTeX Warning: Citation `Basili1987' on page 81 undefined on input line 439.
-
-
-LaTeX Warning: Citation `Chidamber94' on page 81 undefined on input line 444.
-
-[81]
-
-LaTeX Warning: Citation `beck1997smalltalk' on page 82 undefined on input line 
-487.
-
-[82pdfTeX warning (ext4): destination with the same identifier (name{table.6.8}
-) has been already used, duplicate ignored
+[81] [82pdfTeX warning (ext4): destination with the same identifier (name{table
+.6.8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.581 		 &
+l.578 		 &
            Ruim & [acima de 3] \\ \hline]
-Underfull \vbox (badness 10000) detected at line 581
+Underfull \vbox (badness 10000) detected at line 578
  []
 
-[83] <figuras/metricas29.png, id=981, 527.72156pt x 194.22563pt>
+[83] <figuras/metricas29.png, id=1030, 527.72156pt x 194.22563pt>
 File: figuras/metricas29.png Graphic file (type png)
 
 <use figuras/metricas29.png>
-Package pdftex.def Info: figuras/metricas29.png used on input line 660.
+Package pdftex.def Info: figuras/metricas29.png used on input line 656.
 (pdftex.def)             Requested size: 474.94502pt x 174.80144pt.
 
-Overfull \hbox (19.94502pt too wide) in paragraph at lines 660--661
+Overfull \hbox (19.94502pt too wide) in paragraph at lines 656--657
  [][] 
  []
 
-[84] <figuras/metricas1016.png, id=987, 528.47438pt x 194.22563pt>
+[84] <figuras/metricas1016.png, id=1037, 528.47438pt x 194.22563pt>
 File: figuras/metricas1016.png Graphic file (type png)
 
 <use figuras/metricas1016.png>
-Package pdftex.def Info: figuras/metricas1016.png used on input line 667.
+Package pdftex.def Info: figuras/metricas1016.png used on input line 663.
 (pdftex.def)             Requested size: 475.62254pt x 174.80144pt.
 
-Overfull \hbox (20.62254pt too wide) in paragraph at lines 667--668
+Overfull \hbox (20.62254pt too wide) in paragraph at lines 663--664
  [][] 
  []
 
-<figuras/metricas1724.png, id=988, 527.72156pt x 193.47281pt>
+<figuras/metricas1724.png, id=1038, 527.72156pt x 193.47281pt>
 File: figuras/metricas1724.png Graphic file (type png)
 
 <use figuras/metricas1724.png>
-Package pdftex.def Info: figuras/metricas1724.png used on input line 674.
+Package pdftex.def Info: figuras/metricas1724.png used on input line 670.
 (pdftex.def)             Requested size: 474.94502pt x 174.12392pt.
 
-Overfull \hbox (19.94502pt too wide) in paragraph at lines 674--675
+Overfull \hbox (19.94502pt too wide) in paragraph at lines 670--671
  [][] 
  []
 
@@ -1906,51 +1905,51 @@ Overfull \hbox (19.94502pt too wide) in paragraph at lines 674--675
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.678 
+l.674 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 6.28}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.678 
+l.674 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/metricas29
 .png> <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/metricas101
-6.png>] <figuras/loc.png, id=994, 276.28218pt x 193.47281pt>
+6.png>] <figuras/loc.png, id=1044, 276.28218pt x 193.47281pt>
 File: figuras/loc.png Graphic file (type png)
 
 <use figuras/loc.png>
-Package pdftex.def Info: figuras/loc.png used on input line 686.
+Package pdftex.def Info: figuras/loc.png used on input line 683.
 (pdftex.def)             Requested size: 276.2815pt x 193.47234pt.
- <figuras/accm.png, id=996, 285.31593pt x 200.24812pt>
+ <figuras/accm.png, id=1046, 285.31593pt x 200.24812pt>
 File: figuras/accm.png Graphic file (type png)
 
 <use figuras/accm.png>
-Package pdftex.def Info: figuras/accm.png used on input line 697.
+Package pdftex.def Info: figuras/accm.png used on input line 694.
 (pdftex.def)             Requested size: 285.31523pt x 200.24763pt.
  [86pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
 29}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.701 
+l.698 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 6.30}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.701 
+l.698 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/metricas17
 24.png> <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/loc.png>]
-<figuras/amloc.png, id=1002, 271.0125pt x 194.22563pt>
+<figuras/amloc.png, id=1052, 271.0125pt x 194.22563pt>
 File: figuras/amloc.png Graphic file (type png)
  <use figuras/amloc.png>
-Package pdftex.def Info: figuras/amloc.png used on input line 708.
+Package pdftex.def Info: figuras/amloc.png used on input line 705.
 (pdftex.def)             Requested size: 271.01183pt x 194.22514pt.
 
-<figuras/acc.png, id=1004, 234.8775pt x 177.66376pt>
+<figuras/acc.png, id=1054, 234.8775pt x 177.66376pt>
 File: figuras/acc.png Graphic file (type png)
  <use figuras/acc.png>
-Package pdftex.def Info: figuras/acc.png used on input line 719.
+Package pdftex.def Info: figuras/acc.png used on input line 716.
 (pdftex.def)             Requested size: 234.87692pt x 177.66331pt.
 
 [87pdfTeX warning (ext4): destination with the same identifier (name{figure.6.3
@@ -1958,25 +1957,25 @@ Package pdftex.def Info: figuras/acc.png used on input line 719.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.723 
+l.720 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 6.32}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.723 
+l.720 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/accm.png> 
 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/amloc.png>]
-<figuras/anpm.png, id=1010, 271.0125pt x 191.21437pt>
+<figuras/anpm.png, id=1060, 271.0125pt x 191.21437pt>
 File: figuras/anpm.png Graphic file (type png)
  <use figuras/anpm.png>
-Package pdftex.def Info: figuras/anpm.png used on input line 730.
+Package pdftex.def Info: figuras/anpm.png used on input line 727.
 (pdftex.def)             Requested size: 271.01183pt x 191.2139pt.
 
-<figuras/cbo.png, id=1012, 268.00125pt x 189.70876pt>
+<figuras/cbo.png, id=1062, 268.00125pt x 189.70876pt>
 File: figuras/cbo.png Graphic file (type png)
  <use figuras/cbo.png>
-Package pdftex.def Info: figuras/cbo.png used on input line 741.
+Package pdftex.def Info: figuras/cbo.png used on input line 738.
 (pdftex.def)             Requested size: 268.00058pt x 189.70828pt.
 
 [88pdfTeX warning (ext4): destination with the same identifier (name{figure.6.3
@@ -1984,28 +1983,28 @@ Package pdftex.def Info: figuras/cbo.png used on input line 741.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.745 
+l.742 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 6.34}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.745 
+l.742 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/acc.png> <
 C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/anpm.png>]
-<figuras/dit.png, id=1018, 274.02374pt x 194.97844pt>
+<figuras/dit.png, id=1068, 274.02374pt x 194.97844pt>
 File: figuras/dit.png Graphic file (type png)
  <use figuras/dit.png>
-Package pdftex.def Info: figuras/dit.png used on input line 752.
+Package pdftex.def Info: figuras/dit.png used on input line 749.
 (pdftex.def)             Requested size: 274.02307pt x 194.97795pt.
 
-<figuras/lcom4.png, id=1020, 532.99126pt x 204.765pt>
+<figuras/lcom4.png, id=1070, 532.99126pt x 204.765pt>
 File: figuras/lcom4.png Graphic file (type png)
  <use figuras/lcom4.png>
-Package pdftex.def Info: figuras/lcom4.png used on input line 764.
+Package pdftex.def Info: figuras/lcom4.png used on input line 761.
 (pdftex.def)             Requested size: 479.6877pt x 184.28677pt.
 
-Overfull \hbox (24.6877pt too wide) in paragraph at lines 764--765
+Overfull \hbox (24.6877pt too wide) in paragraph at lines 761--762
  [][] 
  []
 
@@ -2014,28 +2013,28 @@ Overfull \hbox (24.6877pt too wide) in paragraph at lines 764--765
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.768 
+l.765 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 6.36}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.768 
+l.765 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/cbo.png> <
 C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/dit.png>]
-<figuras/noc.png, id=1026, 271.76532pt x 192.72pt>
+<figuras/noc.png, id=1076, 271.76532pt x 192.72pt>
 File: figuras/noc.png Graphic file (type png)
  <use figuras/noc.png>
-Package pdftex.def Info: figuras/noc.png used on input line 775.
+Package pdftex.def Info: figuras/noc.png used on input line 772.
 (pdftex.def)             Requested size: 271.76465pt x 192.71951pt.
 
-<figuras/nom.png, id=1028, 535.2497pt x 193.47281pt>
+<figuras/nom.png, id=1078, 535.2497pt x 193.47281pt>
 File: figuras/nom.png Graphic file (type png)
  <use figuras/nom.png>
-Package pdftex.def Info: figuras/nom.png used on input line 787.
+Package pdftex.def Info: figuras/nom.png used on input line 784.
 (pdftex.def)             Requested size: 481.72028pt x 174.12392pt.
 
-Overfull \hbox (26.72028pt too wide) in paragraph at lines 787--788
+Overfull \hbox (26.72028pt too wide) in paragraph at lines 784--785
  [][] 
  []
 
@@ -2044,25 +2043,25 @@ Overfull \hbox (26.72028pt too wide) in paragraph at lines 787--788
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.791 
+l.788 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 6.38}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.791 
+l.788 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/lcom4.png>
  <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/noc.png>]
-<figuras/npa.png, id=1035, 279.29344pt x 192.72pt>
+<figuras/npa.png, id=1085, 279.29344pt x 192.72pt>
 File: figuras/npa.png Graphic file (type png)
  <use figuras/npa.png>
-Package pdftex.def Info: figuras/npa.png used on input line 798.
+Package pdftex.def Info: figuras/npa.png used on input line 795.
 (pdftex.def)             Requested size: 279.29276pt x 192.71951pt.
 
-<figuras/rfc.png, id=1037, 274.77657pt x 195.73125pt>
+<figuras/rfc.png, id=1087, 274.77657pt x 195.73125pt>
 File: figuras/rfc.png Graphic file (type png)
  <use figuras/rfc.png>
-Package pdftex.def Info: figuras/rfc.png used on input line 809.
+Package pdftex.def Info: figuras/rfc.png used on input line 806.
 (pdftex.def)             Requested size: 274.77588pt x 195.73076pt.
 
 [91pdfTeX warning (ext4): destination with the same identifier (name{figure.6.3
@@ -2070,36 +2069,36 @@ Package pdftex.def Info: figuras/rfc.png used on input line 809.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.813 
+l.810 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 6.40}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.813 
+l.810 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/nom.png> <
 C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/npa.png>]
-<figuras/todasmetricasSemCOB.png, id=1043, 982.42032pt x 347.04657pt>
+<figuras/todasmetricasSemCOB.png, id=1093, 982.42032pt x 347.04657pt>
 File: figuras/todasmetricasSemCOB.png Graphic file (type png)
 
 <use figuras/todasmetricasSemCOB.png>
-Package pdftex.def Info: figuras/todasmetricasSemCOB.png used on input line 818
+Package pdftex.def Info: figuras/todasmetricasSemCOB.png used on input line 815
 .
 (pdftex.def)             Requested size: 491.20897pt x 173.52286pt.
 
-Overfull \hbox (36.20897pt too wide) in paragraph at lines 818--819
+Overfull \hbox (36.20897pt too wide) in paragraph at lines 815--816
  [][] 
  []
 
-<figuras/todasmetricasComCOB.png, id=1045, 989.94844pt x 341.77687pt>
+<figuras/todasmetricasComCOB.png, id=1095, 989.94844pt x 341.77687pt>
 File: figuras/todasmetricasComCOB.png Graphic file (type png)
 
 <use figuras/todasmetricasComCOB.png>
-Package pdftex.def Info: figuras/todasmetricasComCOB.png used on input line 827
+Package pdftex.def Info: figuras/todasmetricasComCOB.png used on input line 824
 .
 (pdftex.def)             Requested size: 494.973pt x 170.88802pt.
 
-Overfull \hbox (39.973pt too wide) in paragraph at lines 827--828
+Overfull \hbox (39.973pt too wide) in paragraph at lines 824--825
  [][] 
  []
 
@@ -2108,20 +2107,31 @@ Overfull \hbox (39.973pt too wide) in paragraph at lines 827--828
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.831 
+l.828 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 6.42}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.831 
+l.828 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/rfc.png> <
 C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/todasmetricasSemCO
-B.png>] <figuras/percepcaoqualidade.png, id=1051, 362.10281pt x 217.5628pt>
+B.png>] <figuras/cenarios.png, id=1101, 465.23813pt x 240.14719pt>
+File: figuras/cenarios.png Graphic file (type png)
+
+<use figuras/cenarios.png>
+Package pdftex.def Info: figuras/cenarios.png used on input line 833.
+(pdftex.def)             Requested size: 465.23698pt x 240.14658pt.
+
+Overfull \hbox (10.23698pt too wide) in paragraph at lines 833--834
+ [][] 
+ []
+
+<figuras/percepcaoqualidade.png, id=1103, 362.10281pt x 217.5628pt>
 File: figuras/percepcaoqualidade.png Graphic file (type png)
 
 <use figuras/percepcaoqualidade.png>
-Package pdftex.def Info: figuras/percepcaoqualidade.png used on input line 838.
+Package pdftex.def Info: figuras/percepcaoqualidade.png used on input line 843.
 
 (pdftex.def)             Requested size: 362.10191pt x 217.56227pt.
  [93pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
@@ -2129,18 +2139,26 @@ Package pdftex.def Info: figuras/percepcaoqualidade.png used on input line 838.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.844 
+l.847 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 6.44}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.844 
+l.847 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/todasmetri
-casComCOB.png> <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/pe
-rcepcaoqualidade.png>])
+casComCOB.png> <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/ce
+narios.png>])
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\editaveis/capitulo7.tex
-[94]) (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.bbl
+[94pdfTeX warning (ext4): destination with the same identifier (name{figure.6.4
+5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1 \chapter
+            [Conclusão]{Conclusão} <C:/Users/Aline/Documents/GitHub/TCC1_Alin
+e_Goncalves/figuras/percepcaoqualidade.png>])
+(C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.bbl
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.brf)
 \tf@brf=\write5
  [95
@@ -2154,7 +2172,7 @@ bibitemlist
 [98] [99
 
 
-] <figuras/quest1.png, id=1187, 462.22687pt x 710.655pt>
+] <figuras/quest1.png, id=1254, 462.22687pt x 710.655pt>
 File: figuras/quest1.png Graphic file (type png)
 
 <use figuras/quest1.png>
@@ -2167,7 +2185,7 @@ Overfull \vbox (41.17314pt too high) has occurred while \output is active []
 
 
 [101 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quest1.png>]
-<figuras/quest2.png, id=1196, 462.22687pt x 673.01437pt>
+<figuras/quest2.png, id=1263, 462.22687pt x 673.01437pt>
 File: figuras/quest2.png Graphic file (type png)
 
 <use figuras/quest2.png>
@@ -2178,7 +2196,7 @@ Overfull \hbox (7.22574pt too wide) in paragraph at lines 16--17
  [][] 
  []
 
-<figuras/quest3.png, id=1197, 460.72125pt x 653.44125pt>
+<figuras/quest3.png, id=1264, 460.72125pt x 653.44125pt>
 File: figuras/quest3.png Graphic file (type png)
 
 <use figuras/quest3.png>
@@ -2190,7 +2208,7 @@ Overfull \hbox (5.72012pt too wide) in paragraph at lines 23--24
  []
 
 [102 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quest2.png>]
-<figuras/quest4.png, id=1203, 460.72125pt x 608.2725pt>
+<figuras/quest4.png, id=1270, 460.72125pt x 608.2725pt>
 File: figuras/quest4.png Graphic file (type png)
 
 <use figuras/quest4.png>
@@ -2202,7 +2220,7 @@ Overfull \hbox (5.72012pt too wide) in paragraph at lines 30--31
  []
 
 [103 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quest3.png>]
-<figuras/quest5.png, id=1208, 462.22687pt x 642.90187pt>
+<figuras/quest5.png, id=1275, 462.22687pt x 642.90187pt>
 File: figuras/quest5.png Graphic file (type png)
 
 <use figuras/quest5.png>
@@ -2214,7 +2232,7 @@ Overfull \hbox (7.22574pt too wide) in paragraph at lines 37--38
  []
 
 [104 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quest4.png>]
-<figuras/quest6.png, id=1213, 460.72125pt x 626.34pt>
+<figuras/quest6.png, id=1280, 460.72125pt x 626.34pt>
 File: figuras/quest6.png Graphic file (type png)
  <use figuras/quest6.png>
 Package pdftex.def Info: figuras/quest6.png used on input line 44.
@@ -2225,7 +2243,7 @@ Overfull \hbox (5.72012pt too wide) in paragraph at lines 44--45
  []
 
 [105 <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/quest5.png>]
-<figuras/quest7.png, id=1218, 460.72125pt x 734.745pt>
+<figuras/quest7.png, id=1285, 460.72125pt x 734.745pt>
 File: figuras/quest7.png Graphic file (type png)
 
 <use figuras/quest7.png>
@@ -2249,7 +2267,7 @@ Overfull \vbox (26.7432pt too high) has occurred while \output is active []
 ] [109
 
 ]
-<figuras/matrizcomportamento.png, id=1247, 469.00218pt x 357.58594pt>
+<figuras/matrizcomportamento.png, id=1314, 469.00218pt x 357.58594pt>
 File: figuras/matrizcomportamento.png Graphic file (type png)
 
 <use figuras/matrizcomportamento.png>
@@ -2257,7 +2275,7 @@ Package pdftex.def Info: figuras/matrizcomportamento.png used on input line 39.
 
 (pdftex.def)             Requested size: 422.09807pt x 321.82436pt.
  [110] [111pdfTeX warning (ext4): destination with the same identifier (name{fi
-gure.anexochapback.1.45}) has been already used, duplicate ignored
+gure.anexochapback.1.46}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -2267,14 +2285,14 @@ rtamento.png>] [112]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 71.
  [113] [114] [115] [116] [117]
-<figuras/kanbanindustria.png, id=1315, 361.35pt x 220.57407pt>
+<figuras/kanbanindustria.png, id=1382, 361.35pt x 220.57407pt>
 File: figuras/kanbanindustria.png Graphic file (type png)
 
 <use figuras/kanbanindustria.png>
 Package pdftex.def Info: figuras/kanbanindustria.png used on input line 156.
 (pdftex.def)             Requested size: 361.34912pt x 220.57352pt.
  [118pdfTeX warning (ext4): destination with the same identifier (name{figure.a
-nexochapback.1.46}) has been already used, duplicate ignored
+nexochapback.1.47}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -2298,7 +2316,7 @@ Underfull \hbox (badness 2600) in paragraph at lines 180--181
 
 [119
 
-] <figuras/processoMIDAS.png, id=1327, 1318.9275pt x 679.03688pt>
+] <figuras/processoMIDAS.png, id=1394, 1318.9275pt x 679.03688pt>
 File: figuras/processoMIDAS.png Graphic file (type png)
 
 <use figuras/processoMIDAS.png>
@@ -2311,20 +2329,20 @@ exochapback.2.10}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.204 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-anexochapback.2.47}) has been already used, duplicate ignored
+anexochapback.2.48}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.204 
        <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figuras/processoMI
-DAS.png>] <figuras/subprocessoAteste.png, id=1337, 641.39626pt x 481.04718pt>
+DAS.png>] <figuras/subprocessoAteste.png, id=1404, 641.39626pt x 481.04718pt>
 File: figuras/subprocessoAteste.png Graphic file (type png)
 
 <use figuras/subprocessoAteste.png>
 Package pdftex.def Info: figuras/subprocessoAteste.png used on input line 208.
 (pdftex.def)             Requested size: 448.97432pt x 336.73073pt.
 
-<figuras/subprocessoSprint.png, id=1342, 1171.37625pt x 663.22781pt>
+<figuras/subprocessoSprint.png, id=1409, 1171.37625pt x 663.22781pt>
 File: figuras/subprocessoSprint.png Graphic file (type png)
 
 <use figuras/subprocessoSprint.png>
@@ -2336,7 +2354,7 @@ Overfull \hbox (13.5422pt too wide) in paragraph at lines 218--219
  []
 
 [121pdfTeX warning (ext4): destination with the same identifier (name{figure.an
-exochapback.2.48}) has been already used, duplicate ignored
+exochapback.2.49}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -2348,48 +2366,45 @@ No file tcc.ind.
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 51.
+(in both cases you will find help in the memoir manual). on input line 52.
 
 
 AED: lastpage setting LastPage
 [122pdfTeX warning (ext4): destination with the same identifier (name{figure.an
-exochapback.2.49}) has been already used, duplicate ignored
+exochapback.2.50}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.51 \end{document}
+l.52 \end{document}
                     <C:/Users/Aline/Documents/GitHub/TCC1_Aline_Goncalves/figur
 as/subprocessoSprint.png>]
 \tf@lof=\write6
 \tf@lot=\write7
 \tf@toc=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 51.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 51.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
 
 (C:\Users\Aline\Documents\GitHub\TCC1_Aline_Goncalves\tcc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 51.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 51.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
 Package rerunfilecheck Info: File `tcc.brf' has not changed.
-(rerunfilecheck)             Checksum: ED2A71619BC73DA1FB06040E50F82FFD;6031.
-
-
-LaTeX Warning: There were undefined references.
+(rerunfilecheck)             Checksum: 34F3FF6A7EE24162FE85A1701C807C8F;6817.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 51.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 13281 strings out of 493921
- 197975 string characters out of 3144877
- 322752 words of memory out of 3000000
- 15834 multiletter control sequences out of 15000+200000
+ 13447 strings out of 493921
+ 200448 string characters out of 3144877
+ 326448 words of memory out of 3000000
+ 15982 multiletter control sequences out of 15000+200000
  123358 words of font info for 69 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,13n,38p,1552b,635s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (x86)/
+ 41i,13n,41p,1552b,632s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files (x86)/
 MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files (x86)/MiKTeX 2.9/
 fonts/type1/public/lm/lmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
 /public/lm/lmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/
@@ -2407,9 +2422,9 @@ MiKTeX 2.9/fonts/type1/public/lm/lmssbo10.pfb><C:/Program Files (x86)/MiKTeX 2.
 ype1/public/lm/lmsso12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
 c/lm/lmsso17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy1
 0.pfb>
-Output written on tcc.pdf (123 pages, 4094307 bytes).
+Output written on tcc.pdf (123 pages, 4118454 bytes).
 PDF statistics:
- 1813 PDF objects out of 2073 (max. 8388607)
- 332 named destinations out of 1000 (max. 500000)
- 1170 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1882 PDF objects out of 2073 (max. 8388607)
+ 346 named destinations out of 1000 (max. 500000)
+ 1175 words of extra memory for PDF output out of 10000 (max. 10000000)
 

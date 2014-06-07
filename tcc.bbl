@@ -5,6 +5,18 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.8 }
 
+\bibitem[Basili e Rombach 1987]{Basili1987}
+\abntrefinfo{Basili e Rombach}{BASILI; ROMBACH}{1987}
+{BASILI, V.~R.; ROMBACH, H.~D. \emph{{TAME: Integrating Measurement into
+  Software Environments}}. 1987.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/drum\-.lib\-.umd\-.edu\-/\-/handle\-/1903\-/7517$>$}{http://drum.lib.umd.edu//handle/1903/7517}.}
+
+\bibitem[Beck 1997]{beck1997smalltalk}
+\abntrefinfo{Beck}{BECK}{1997}
+{BECK, K. \emph{Smalltalk Best Practice Patterns. Volume 1: Coding}. [S.l.]:
+  Prentice Hall, Englewood Cliffs, NJ, 1997.}
+
 \bibitem[Bell e Orzen 2011]{bell2011}
 \abntrefinfo{Bell e Orzen}{BELL; ORZEN}{2011}
 {BELL, S.~C.; ORZEN, M.~A. \emph{Lean IT Enabling and Sustaining your Lean
@@ -25,6 +37,12 @@
   informática (sisp) do poder executivo federal.
 [S.l.], 2010.}
 
+\bibitem[Chidamber e Kemerer 1994]{Chidamber94}
+\abntrefinfo{Chidamber e Kemerer}{CHIDAMBER; KEMERER}{1994}
+{CHIDAMBER, S.~R.; KEMERER, C.~F. {A Metrics Suite for Object-Oriented Design}.
+\emph{IEEE Transactions on Software Engineering}, v.~20, n.~6, p. 476--493,
+  1994.}
+
 \bibitem[Cruz, Andrade e Figueiredo 2011]{cruz2011}
 \abntrefinfo{Cruz, Andrade e Figueiredo}{CRUZ; ANDRADE; FIGUEIREDO}{2011}
 {CRUZ, C.~S.; ANDRADE, E. L.~P.; FIGUEIREDO, R. M.~C. \emph{Processo de
@@ -42,9 +60,9 @@ Dispon{\'\i}vel em:
 {FILHO, D. L.~B. \emph{Experiências com desenvolvimento ágil}. [S.l.: s.n.],
   2008.}
 
-\bibitem[Guedes 2012]{ranking}
-\abntrefinfo{Guedes}{GUEDES}{2012}
-{GUEDES, P. 2012.}
+\bibitem[Guedes]{ranking}
+\abntrefinfo{Guedes}{GUEDES}{}
+{GUEDES, P. \emph{A gestão Lean de equipas informáticas}.}
 
 \bibitem[Hibbs, Jewett e Sullivan 2009]{hibbs2009}
 \abntrefinfo{Hibbs, Jewett e Sullivan}{HIBBS; JEWETT; SULLIVAN}{2009}
@@ -55,6 +73,12 @@ Dispon{\'\i}vel em:
 \abntrefinfo{Highsmith}{HIGHSMITH}{2002}
 {HIGHSMITH, J. \emph{Agile Software Development Ecosystems}. [S.l.: s.n.],
   2002.}
+
+\bibitem[Hitz e Montazeri 1995]{LCOM4}
+\abntrefinfo{Hitz e Montazeri}{HITZ; MONTAZERI}{1995}
+{HITZ, M.; MONTAZERI, B. {Measuring Coupling and Cohesion in Object-Oriented
+  Systems}. In:  \emph{{Proceedings of International Symposium on Applied
+  Corporate Computing}}. [S.l.: s.n.], 1995.}
 
 \bibitem[Instituto do PatrimÔnio HistÓrico e ArtÍstico Nacional
   2013]{IPHAN:2013}
@@ -73,6 +97,11 @@ Brasília, Brasil, 2013.}
 {JENSES, K. 2009.
 Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/ketiljensen\-.wordpress\-.com\-/2009\-/10\-/31\-/kanban-the-next-step-in-the-agile-evolution\-/$>$}{http://ketiljensen.wordpress.com/2009/10/31/kanban-the-next-step-in-the-agile-evolution/}.}
+
+\bibitem[Jones 1991]{Jones91}
+\abntrefinfo{Jones}{JONES}{1991}
+{JONES, T.~C. \emph{{Applied Software Measurement: Assuring Productivity and
+  Quality}}. New York: McGraw-Hill, 1991.}
 
 \bibitem[Katayama 2010]{katayama2010}
 \abntrefinfo{Katayama}{KATAYAMA}{2010}
@@ -100,6 +129,32 @@ Dispon{\'\i}vel em:
 {LIMA, O.; SILVA, W. 2003.
 Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/www2\-.ufersa\-.edu\-.br\-/portal\-/view\-/uploads\-/setores\-/241\-/texto\%203\-.pdf$>$}{http://www2.ufersa.edu.br/portal/view/uploads/setores/241/texto\%203.pdf}.}
+
+\bibitem[Lorenz e Kidd 1994]{Lorenz94}
+\abntrefinfo{Lorenz e Kidd}{LORENZ; KIDD}{1994}
+{LORENZ, M.; KIDD, J. \emph{{Object-Oriented Software Metrics}}. [S.l.]:
+  Prentice Hall, 1994.}
+
+\bibitem[McCabe 1976]{McCabe76}
+\abntrefinfo{McCabe}{MCCABE}{1976}
+{MCCABE, T.~J. {A Complexity Measure}.
+\emph{IEEE Transactions Software Engineering}, v.~2, n.~4, p. 308--320,
+  December 1976.}
+
+\bibitem[McCabe, Dreyer e Watson 1994]{McCabe94}
+\abntrefinfo{McCabe, Dreyer e Watson}{MCCABE; DREYER; WATSON}{1994}
+{MCCABE, T.~J.; DREYER, L.~A.; WATSON, A.~H. {Testing An Object-Oriented
+  Application}.
+\emph{Journal of the Quality Assurance Institute}, v.~8, n.~4, p. 21--27,
+  October 1994.}
+
+\bibitem[Meirelles 2013]{Meirelles2013}
+\abntrefinfo{Meirelles}{MEIRELLES}{2013}
+{MEIRELLES, P. R.~M.
+\emph{Monitoramento de métricas de código-fonte em projetos de software
+  livre}.
+Tese (Doutorado) --- Instituto de Matemática e Estátistica -- Universidade de
+  São Paulo (IME/USP), 2013.}
 
 \bibitem[Melo et al. 2012]{RTMAC}
 \abntrefinfo{Melo et al.}{MELO et al.}{2012}
@@ -138,10 +193,22 @@ Dispon{\'\i}vel em:
 {POPPENDIECK, M.; POPPENDIECK, T. \emph{Implementando o Desenvolvimento Lean de
   Software}: Do conceito ao dinheiro. [S.l.: s.n.], 2011.}
 
+\bibitem[Rêgo 2014]{baufaker}
+\abntrefinfo{Rêgo}{RêGO}{2014}
+{RêGO, G. {Monitoramento de Métricas de Código-Fonte com suporte de um
+  ambiente de Data Warehousing}.
+2014.}
+
 \bibitem[Rodrigues 2012]{rodrigues2012}
 \abntrefinfo{Rodrigues}{RODRIGUES}{2012}
 {RODRIGUES, M. J.~F. \emph{Implementação de práticas Lean numa linha de
   produção eletrónica}. [S.l.: s.n.], 2012.}
+
+\bibitem[Rosenberg e Hyatt 1997]{Rosenberg97}
+\abntrefinfo{Rosenberg e Hyatt}{ROSENBERG; HYATT}{1997}
+{ROSENBERG, L.~H.; HYATT, L.~E. {Software Quality Metrics for Object-Oriented
+  Environments}.
+\emph{Crosstalk - the Journal of Defense Software Engineering}, v.~10, 1997.}
 
 \bibitem[Ruas e Vaz 2013]{ruas}
 \abntrefinfo{Ruas e Vaz}{RUAS; VAZ}{2013}
@@ -156,6 +223,18 @@ Dispon{\'\i}vel em:
 \bibitem[Schwaber 1996]{ken}
 \abntrefinfo{Schwaber}{SCHWABER}{1996}
 {SCHWABER, K. \emph{Scrum Development Process}. [S.l.: s.n.], 1996.}
+
+\bibitem[Sharble e Cohen 1993]{Sharble93}
+\abntrefinfo{Sharble e Cohen}{SHARBLE; COHEN}{1993}
+{SHARBLE, R.; COHEN, S. {The Object-Oriented Brewery: A Comparison of Two
+  Object-Oriented Development Methods}.
+\emph{Software Engineering Notes}, v.~18, n.~2, p. 60--73, 1993.}
+
+\bibitem[Shih et al. 1997]{Shih97}
+\abntrefinfo{Shih et al.}{SHIH et al.}{1997}
+{SHIH, T. et al. {Decomposition of Inheritance Hierarchy DAGs for
+  Object-Oriented Software Metrics}. In:  \emph{{Workshop on Engineering of
+  Computer-Based Systems (ECBS 97)}}. [S.l.: s.n.], 1997. p.~238.}
 
 \bibitem[Sutherland's 2010]{jeff}
 \abntrefinfo{Sutherland's}{SUTHERLAND'S}{2010}

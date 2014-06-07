@@ -263,11 +263,11 @@ O Kanban definido pelo IPHAN possui quatro colunas ou raias e está ilustrado na
 		\centering
 		
 			\includegraphics[scale=0.5]{figuras/kanbanIPHAN1.png}
-		\caption{Quadro Kanban (imagem disponível em http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil) }
+		\caption{Quadro Kanban (imagem disponível em http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil)}
 	\label{kanban1}
 \end{figure}
 
-A primeira raia do Kanban diz respeito aos itens que estão no estado “Preparado”. A condição de transição para esta raia pode ser feita da forma que o órgão quiser (\ref{kanban2}). Por exemplo, os itens com mais prioridade podem ser os primeiros a irem para esta coluna. É importante que a definição de “Preparado” e a definição de “Pronto” estejam bem claras para todos os envolvidos.
+A primeira raia do Kanban diz respeito aos itens que estão no estado “Preparado”. A condição de transição para esta raia pode ser feita da forma que o órgão quiser (\ref{kanban2}). Por exemplo, os itens com mais prioridade podem ser os primeiros a irem para esta coluna. É importante que a definição de “Preparado” e a definição de “Pronto” estejam bem claras para todos os envolvidos.  
 
 \begin{figure}[H]
 		\centering
@@ -406,15 +406,14 @@ As métricas de tamanho e complexidade selecionadas são:
 
 \textbf{LOC (Lines of Code):} número de Linhas de Código foi uma das primeiras métricas
 utilizadas para medir o tamanho de um software. São contadas apenas as linhas
-executáveis, ou seja, são excluídas linhas em branco e comentários (JONES,
-1991).
+executáveis, ou seja, são excluídas linhas em branco e comentários \cite{Jones91}.
 
  \vspace{\onelineskip} 
 
 \textbf{ACCM (Average Cyclomatic Complexity per Method):} média da Complexidade
 Ciclomática por Método mede a complexidade dos métodos ou funções
 de um programa. Essa métrica pode ser representada através de um grafo de fluxo
-de controle (MCCABE, 1976). O uso de estruturas de controle, tais como, if, else,
+de controle \cite{McCabe76}. O uso de estruturas de controle, tais como, if, else,
 while aumentam a complexidade ciclomática de um método.
 
  \vspace{\onelineskip}
@@ -431,8 +430,7 @@ As métricas de orientação à objetos selecionadas são:
 total de classes externas de um pacote que dependem de classes de dentro desse
 pacote. Quando calculada no nível da classe, essa medida também é conhecida como
 Fan-in da classe, medindo o número de classes das quais a classe é derivada e, assim,
-valores elevados indicam uso excessivo de herança múltipla (MCCABE; DREYER;
-WATSON, 1994) (CHIDAMBER; KEMERER, 1994).
+valores elevados indicam uso excessivo de herança múltipla \cite{McCabe94} \cite{Chidamber94}.
 
  \vspace{\onelineskip} 
 
@@ -451,14 +449,13 @@ apenas as superclasses do sistema, ou seja, as classes de bibliotecas não são
 contabilizadas. Nos casos onde herança múltipla é permitida, considera-se o maior
 caminho da classe até uma das raízes da hierarquia. Quanto maior for o valor DIT,
 maior é o número de atributos e métodos herdados, e, portanto,maior é a complexidade
-(SHIH et al., 1997).
+\cite{Shih97}.
 
  \vspace{\onelineskip} 
 
 \textbf{LCOM4 (Lack of Cohesion in Methods):} falta de Coesão entre Métodos. Originalmente
-proposto por Chidamber e Kemerer (1994) como LCOM não teve uma
-grande aceitabilidade. Após críticas e sugestões a métrica foi revisada por Hitz e
-Montazeri (1995), que propôs a LCOM4. Para calcular LCOM4 de um módulo, é
+proposto por \citeonline{Chidamber94} como LCOM não teve uma
+grande aceitabilidade. Após críticas e sugestões a métrica foi revisada por \citeonline{LCOM4}, que propôs a LCOM4. Para calcular LCOM4 de um módulo, é
 necessário construir um gráfico não-orientado em que os nós são os métodos e atributos
 de uma classe. Para cada método, deve haver uma aresta entre ele e um outro
 método ou variável que ele usa. O valor da LCOM4 é o número de componentes
@@ -468,7 +465,7 @@ fracamente conectados nesse gráfico.
  \vspace{\onelineskip} 
 
 \textbf{NOC (Number of Children):} número de Filhos é o número de subclasses ou classes
-filhas que herdam da classe analisada (ROSENBERG; HYATT, 1997). Deve se ter
+filhas que herdam da classe analisada \cite{Rosenberg97}. Deve se ter
 cautela ao modificar classes com muitos filhos, pois uma simples modificação de
 assinatura de um método, pode criar uma mudança em muitas classes.
 
@@ -479,7 +476,7 @@ assinatura de um método, pode criar uma mudança em muitas classes.
 das classes em termos das suas operações implementadas. Essa métrica é usada para
 ajudar a identificar o potencial de reúso de uma classe. Em geral, as classes com
 um grande número de métodos são mais difíceis de serem reutilizadas, pois elas são
-propensas a serem menos coesas (LORENZ; KIDD, 1994).
+propensas a serem menos coesas \cite{Lorenz94}.
 
 
  \vspace{\onelineskip} 
@@ -492,14 +489,14 @@ propensas a serem menos coesas (LORENZ; KIDD, 1994).
 
 \textbf{RFC (Response For a Class):} respostas para uma Classe é número de métodos
 dentre todos os métodos que podem ser invocados em resposta a uma mensagem
-enviada por um objeto de uma classe (SHARBLE; COHEN, 1993).
+enviada por um objeto de uma classe \cite{Sharble93}.
 
 
 
  \vspace{\onelineskip} 
 
 Um dos objetivos científicos do estudo de Meirelles foi a identificação das distribuições estatísticas do valores das métricas apresentadas anteriormente em 38 projetos
-de software livre. A partir de cada uma das distribuições estatísticas Meirelles classificou as métricas de código fonte de acordo com a frequência dos valores apresentados,
+de software livre. A partir de cada uma das distribuições estatísticas \citeonline{Meirelles2013} classificou as métricas de código fonte de acordo com a frequência dos valores apresentados,
 com os intervalos: muito frequente, frequente, pouco frequente e não frequente. Para simplificar o entendimento das métricas de código fonte, Morais interpretou os rótulos dos
 intervalos de frequência definidos por Meirelles em em rótulos qualitativos, tal como a Tab. (8). 
 
@@ -507,7 +504,7 @@ intervalos de frequência definidos por Meirelles em em rótulos qualitativos, t
 	\begin{center}
 	 \begin{tabular}{|l|l|}
 		\hline
-		Intervalo de Frequência & Rótulo Qualitativos \\ \hline
+		\textbf{Intervalo de Frequência} & \textbf{Rótulo Qualitativos} \\ \hline
 		Muito Frequente & Excelente \\ \hline
 		Frequente       & Bom       \\ \hline
 		Pouco Frequente & Regular   \\ \hline
@@ -520,8 +517,8 @@ intervalos de frequência definidos por Meirelles em em rótulos qualitativos, t
 
 
 Posteriormente, apresenta-se a Tabela 3, retirada do
-estudo de Meirelles (2013), com os intervalos encontrados para C++ e Java. Com isso, os intervalos apresentados na Tab. (9) foram os utilizados como os indicadores
-de qualidade de código fonte na análise deste estudo de caso. É importante ressaltar que quando apresentarmos o resultado da análise sobre o código fonte desse estudo de caso e dissermos que o código fonte tem um rótulo "excelente" ou "ruim" para determinada métrica siginifica que esse código fonte é "excelente" ou "ruim" em comparação ao melhor projeto de software livre selecionado por Meirelles na Linguagem Java, que foi o Open JDK8.
+estudo de\citeonline{Meirelles2013}, com os intervalos encontrados para C++ e Java. Com isso, os intervalos apresentados na Tab. (9) foram os utilizados como os indicadores
+de qualidade de código fonte na análise deste estudo de caso. É importante ressaltar que quando apresentarmos o resultado da análise sobre o código fonte desse estudo de caso e dissermos que o código fonte tem um rótulo "excelente" ou "ruim" para determinada métrica siginifica que esse código fonte é "excelente" ou "ruim" em comparação ao melhor projeto de software livre selecionado por \citeonline{Meirelles2013} na Linguagem Java, que foi o Open JDK8.
 
  \vspace{\onelineskip} 
  \vspace{\onelineskip} 
@@ -649,12 +646,11 @@ de qualidade de código fonte na análise deste estudo de caso. É importante re
 			\caption{Intervalos de Qualidade Java}
 	\end{longtable}
 
-De forma geral, o processo realizado para a análise do código fonte do SICG foi retirado do trabalho desenvolvido por BAUFAKER, que  consiste em: executar a ferramenta Analizo sobre o código fonte do projeto SICG, o qual resultará em um arquivo .csv com os resultados númericos das métricas selecionadas, transformar o arquivo .csv em json e inserir esse arquivo na arquitetura desenvolvida por BAUFAKER na ferramenta Pentaho. Ao final desse processo, temos como resultado os gráficos para análise. 
+De forma geral, o processo realizado para a análise do código fonte do SICG foi retirado do trabalho desenvolvido por \citeonline{baufaker}, que  consiste em: executar a ferramenta Analizo sobre o código fonte do projeto SICG, o qual resultará em um arquivo .csv com os resultados númericos das métricas selecionadas, transformar o arquivo .csv em json e inserir esse arquivo na arquitetura desenvolvida por \citeonline{baufaker} na ferramenta Pentaho. Ao final desse processo, temos como resultado os gráficos para análise. 
 
 A fim de responder a questão de pesquisa QE12 serão mostrados a seguir os resultados do processamento do código fonte do projeto SICG no que diz respeito a qualidade do código ao longo das sprints do projeto de acordo com as oito métricas selecionadas. Os rótulos de intervalos de qualidade mostrados são resultantes dos valores médios de cada métrica para todas as classes do projeto. 
 
-As Figuras \ref{metricasprint}, \ref{metricasprint2} e \ref{metricasprint2} mostram os valores de todas as métricas ao longo das sprints do projeto. A seguir, serão apresentados os gráficos, primeiramente, dos resultados de cada métrica de forma individual ao longo das sprints do projeto e, posteriormente, o resultado geral da qualidade do código ao longo das sprints do projeto.
-
+As Figuras \ref{metricasprint}, \ref{metricasprint2} e \ref{metricasprint2} mostram os valores de todas as métricas ao longo das sprints do projeto.
 \begin{figure}[H]
 		\centering
 			\includegraphics[scale=0.9]{figuras/metricas29.png}
@@ -676,6 +672,7 @@ As Figuras \ref{metricasprint}, \ref{metricasprint2} e \ref{metricasprint2} most
 		\label{metricasprint3}
 \end{figure}
 
+A seguir, serão apresentados os gráficos, primeiramente, dos resultados de cada métrica de forma individual ao longo das sprints do projeto e, posteriormente, o resultado geral da qualidade do código ao longo das sprints do projeto.
 
 \textbf{LOC (Lines of Code)}
 
@@ -829,6 +826,14 @@ Enquanto a Figura \ref{qualidadesprint2} mostra a qualidade de todas as métrica
 		\label{qualidadesprint2}
 \end{figure}
 
+A Figura \ref{cenarios} mostra qual a taxa de aproveitamento de oportunidade de limpeza por sprint. Ao analisarmos a última sprint do projeto, observamos que existe 43\%  da quantidade de classes do código fonte com oportunidades de refatoração. 
+
+\begin{figure}[H]
+		\centering
+			\includegraphics[scale=1.0]{figuras/cenarios.png}
+		\caption{Cenários de Limpeza}
+		\label{cenarios}
+\end{figure}
 
 A Figura \ref{percepcaoqualidade} mostra a percepção da qualidade do código fonte do SICG segundo os envolvidos no projeto (Scrum Master, Product Owner, Gestor do Contrato, Coordenador do Projeto, Fiscal Técnico e Desenvolvedores). Cerca de 66\% dos envolvidos consideraram  o intervalo de qualidade do código como "Excelente" e os demais consideraram
 o intervalo de qualidade como "Bom".
