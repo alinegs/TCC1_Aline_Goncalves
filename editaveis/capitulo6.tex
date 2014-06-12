@@ -1,10 +1,10 @@
 \chapter[O Estudo de Caso]{O Estudo de Caso}
 
-Neste capítulo será apresentado o estudo de caso desse trabalho. Na primeira seção será apresentado o contexto e a caracterização da organização do estudo de caso. Na segunda seção será apresentada a empresa contratada para o desenvolvimento do projeto. Na terceira seção será apresentada a caracterização do contrato e o objeto do contrato, ou seja, a caracterização do projeto que os dados foram coletados. Na quarta seção será apresentada a solução aplicada na gestão do contrato analisado. E, finalmente, na quinta seção serão apresentadas a análise dos dados e a discussão dos resultados.
+Neste capítulo será apresentado o estudo de caso desse trabalho. Na primeira seção será apresentado o contexto e a caracterização da organização do estudo de caso. Na segunda seção será apresentada a empresa contratada para o desenvolvimento do projeto. Na terceira seção será apresentada a caracterização do contrato e seu objeto, ou seja, a caracterização do projeto no qual os dados foram coletados. Na quarta seção será apresentada a solução aplicada na gestão do contrato analisado. E, finalmente, na quinta seção serão apresentadas a análise dos dados e a discussão dos resultados.
 
 \section[A Organização]{A Organização}
 
-O órgão escolhido, IPHAN, possui uma força de trabalho atuante na área de TI de apenas 8 funcionários, dos quais apenas 4 trabalham diretamente com sistemas. O perfil dessa equipe é apresentado na Tab. (2). Devido ao número reduzido de servidores disponíveis na área de TI do órgão, frequentemente uma mesma pessoa acaba desempenhando diferentes papeis requeridos pela Instrução Normativa MP/SLTI Nº04/2010.
+O organização escolhida, IPHAN, uma autarquia pública federal, possui uma força de trabalho atuante na área de TI de apenas 8 servidores, dos quais apenas 4 trabalham diretamente com sistemas. O perfil dessa equipe é apresentado na Tab. (2). Devido ao número reduzido de servidores disponíveis na área de TI do órgão, frequentemente uma mesma pessoa acaba desempenhando diferentes papeis requeridos pela Instrução Normativa MP/SLTI Nº04/2010.
 
 \begin{table}[H]
 \center
@@ -43,14 +43,12 @@ Documentação desnecessária estava \\ sendo produzida e entregue              
 Entrega de software funcional era pouco \\ frequente nos contratos anteriores        &  66\%                  \\ \hline
 Visibilidade do processo era baixa              &  66\%                \\ \hline
 O fiscal técnico do contrato e o gestor do \\ contrato não estavam exercendo os seus papéis como deveriam              &  66\%                \\ \hline
-A satisfação do cliente era baixa              &  66\%                \\ \hline
 Visibilidade do processo era baixa              &  66\%                \\ \hline
 A qualidade do produto era preocupante   &  66\%                \\ \hline
 Os requisitos de software não eram atendidos &  66\%                \\ \hline
 \end{tabular}
 \caption{Fatores motivacionais}
 \end{table}
-
 
 No que diz respeito a aplicação de métodos ágeis na gestão do contrato, de acordo com a Instrução Normativa MP/SLTI Nº04/2010, a fase de Gerenciamento de Contrato deve conter as seguintes etapas: início do contrato; encaminhamento formal de ordem de serviço ou fornecimento de bens  monitoramento da execução; e transição contratual e/ou encerramento do contrato. Todas estas etapas foram contempladas no processo definido pelo órgão, fazendo com que ele seja aderente ao normativo e adequado para o estudo de caso deste trabalho.
 
@@ -63,12 +61,12 @@ As metas norteadoras para a elaboração do processo de gestão de contrato com 
 \item Satisfazer as necessidades do cliente.
 \end{itemize}
 
-Outros instrumentos contratuais que foram modificados com a adoção do processo de gestão de contrato com métodos ágeis foram a forma de pagamento e a aplicação de multas. Em relação a esta, diferentemente das outras formas de gestão de contrato utilizadas anteriormente, onde as multas eram progressivamente aplicadas, por exemplo, sobre a não entrega de documentação somente além de deter caráter meramente punitivo. Com o novo processo, passou-se a considerar o maturidade e crescimento da empresa no contrato e  se não houvesse entrega de \textit{software} a empresa contratada não receberia o pagamento estimado para aquela ordem de serviço. O faturamento das ordens de serviço era executado a cada entrega, final de \textit{sprint}, o que mantinha o fluxo de caixa da empresa contratada sempre ativo. 
+Outros instrumentos contratuais que foram modificados com a adoção do processo de gestão de contrato com métodos ágeis foram a forma de pagamento e a aplicação de multas. Em relação a esta, diferentemente das outras formas de gestão de contrato utilizadas anteriormente, onde as multas eram progressivamente aplicadas, por exemplo, sobre a não entrega de documentação, detinha caráter meramente punitivo. Com o novo processo, passou-se a considerar o maturidade e crescimento da empresa no contrato e  se não houvesse entrega de \textit{software}, a empresa contratada não recebia o pagamento estimado para aquela ordem de serviço. O faturamento das ordens de serviço era executado a cada entrega, final de \textit{sprint}, o que mantinha o fluxo de caixa da empresa contratada sempre ativo.
 
 
 \section[A Empresa Contratada]{A Empresa Contratada}
 
-A empresa contratada para desenvolvido do projeto foi a empresa EGL - Engenharia. Formada por uma equipe multidisciplinar, a EGL Engenharia, desenvolve sistemas de informação geográfica e de apoio a gestão administrativa jurídica, privada ou pública. É capacitada a criar sistemas customizados para atender as necessidades especificas, além de fornecer manutenção corretiva e evolutiva destes.
+A empresa contratada para desenvolvido do projeto foi a empresa EGL - Engenharia. \textcolor{red}{Acredito que esteja  faltando um S.A ou Ltda. no nome da empresa.} Formada por uma equipe multidisciplinar, a EGL Engenharia, desenvolve sistemas de informação geográfica e de apoio a gestão administrativa jurídica, privada ou pública. É capacitada a criar sistemas customizados para atender as necessidades especificas, além de fornecer manutenção corretiva e evolutiva destes.
 
 A EGL - Engenharia possui entre 7 e 9 envolvidos no desenvolvimento do projeto.  O perfil dessa equipe é apresentado na Tab. (4).
 
@@ -89,10 +87,11 @@ Preposto   &  1               \\ \hline
 \caption{Perfil da Equipe da EGL - Engenharia}
 \end{table}
 
+\textcolor{red}{\todo[inline, color=yellow!20]{Aline, aqui cabe uma discussão sobre o fato da equipe ser de especialistas e não generalistas, comum em equipes ágeis. Principal questão: como as atividades foram realizadas com essa configuração de equipe?}}
 
-No desenvolvimento do projeto a empresa utilizou a metodologia Scrum e a linguagem de programação Java. No que diz respeito a experiência da equipe com essa metodologia, houve uma grande variação nas respostas do questionário, existindo integrantes com pouca experiência e integrantes com alta experiência. No que diz respeito a experiência da equipe com a liguagem de programação, os desenvolvedores tinham uma alta experiência.
+No desenvolvimento do projeto a empresa utilizou a metodologia Scrum e a linguagem de programação Java. No que diz respeito a experiência da equipe com essa metodologia, houve uma grande variação nas respostas do questionário, existindo integrantes com pouca experiência e integrantes com alta experiência. \textcolor{red}{Por favor, coloque os percentuais de cada uma das respostas sobre a experiência com o scrum.} No que diz respeito a experiência da equipe com a liguagem de programação, os desenvolvedores tinham uma alta experiência.
 
-A lista de práticas ágeis utilizadas para o desenvolvimento do projeto estão na Tab. (5).
+A lista de práticas ágeis utilizadas para o desenvolvimento do projeto são apresentadas na Tab. (5).
 
 \begin{table}[H]
 \center
@@ -128,11 +127,11 @@ e estratégica, conforme detalhado a seguir:
 \item Estratégica: considerando o mapeamento, a organização e a disponibilização de informações sobre o patrimônio como base para a construção de políticas públicas integradas - com outros parceiros - e de planos de preservação e desenvolvimento das regiões onde se inserem os bens.
 \end{itemize}
 
-Em termos especíificos, a metodologia buscou, em primeiro lugar, mapear os procedimentos necessários para a execução das ações de cadastramento, proteção, normatização e fiscalização de bens culturais de natureza material, indicando adicionalmente os dados a serem coletados. Este mapeamento contou com a participação de representantes das Superintendências e Escritórios Técnicos, que, por meio de Grupos de Trabalho, analisaram, de forma crítica, as metodologias até então existentes.
+Em termos específicos, a metodologia buscou, em primeiro lugar, mapear os procedimentos necessários para a execução das ações de cadastramento, proteção, normatização e fiscalização de bens culturais de natureza material, indicando adicionalmente os dados a serem coletados. Este mapeamento contou com a participação de representantes das Superintendências e Escritórios Técnicos, que, por meio de Grupos de Trabalho, analisaram, de forma crítica, as metodologias até então existentes.
 
 A revisão dos processos levou à formulação da nova metodologia que, por sua vez, permitiu a otimização das atividades de cadastramento de sítios históricos e de bens tombados isoladamente e gerou a normalização das ações de fiscalização. O resultado desse trabalho produziu um conjunto de fichas e procedimentos específicos com demandas para cadastramento de dados textuais, geográficos e imagens.
 
-Há um entendimento no IPHAN de que é necessária a formação de uma rede de proteção fomentada pelo SNPC que consolide o grande volume de informações atualmente produzido por suas unidades administrativas, composto de 27 Superintendências, 30 escritórios técnicos, 4 Unidades Especiais e 2 Parques Históricos Nacionais. Entretanto, na conjuntura atual, a natureza das informações, em grande maioria armazenadas em planilhas e em banco de dados isolados, difculta o processo de consolidação das informações, fato que frusta os esforços para a construção da rede de proteção baseada nos recursos e tecnologias atualmente adotados, pois demandaria o aporte considerável de recursos financeiros e humanos sem ganhos no processo. O órgão se manteria refém da demora na produção de informações decorrentedo intervalo entre ação e recepção das respostas, ou seja, entre a percepção do problema e sua solução.
+Há um entendimento no IPHAN de que é necessária a formação de uma rede de proteção fomentada pelo SNPC \textcolor{red}{SNPC? é a primeira citação...} que consolide o grande volume de informações atualmente produzido por suas unidades administrativas, composto de 27 Superintendências, 30 escritórios técnicos, 4 Unidades Especiais e 2 Parques Históricos Nacionais. Entretanto, na conjuntura atual, a natureza das informações, em grande maioria armazenadas em planilhas e em banco de dados isolados, dificulta o processo de consolidação das informações. Esse fato frusta os esforços para a construção da rede de proteção baseada nos recursos e tecnologias atualmente adotados, pois demandaria o aporte considerável de recursos financeiros e humanos sem ganhos no processo. O órgão se manteria refém da demora na produção de informações decorrente do intervalo entre ação e recepção das respostas, ou seja, entre a percepção do problema e sua solução.
 
 Apesar do fato de os processos de cadastramento, normatização de sítios urbanos tombados e fiscalização de bens imóveis de metodologia já fazerem parte da realidade das Superintendências e Escrritóricos Técnicos, o processo manual de suporte e gestão dos dados torna a execução precária e morosa.
 
@@ -145,7 +144,9 @@ A Figura \ref{problemas}  apresenta a visão geral da situação vivida pela IPH
 		\label{problemas}
 \end{figure}
 
-Portanto, a solução informatizada é apontada como um caminho adequado para endereçar as dificuldades citadas, pois possibilitaria a execução de vários processos do IPHAN (cadastramento, normatização, fiscalização e planejamento) de maneira integrada, garantindo agilidade na produção da informação. 
+\textcolor{red}{\todo[inline, color=yellow!20]{1)Imagem ruim! Aline, veja com o Baufaker o "truque" que ele descobriu com o Paulo para exportar tabela para o latec. 2) Na prática não é uma figura e sim uma tabela. Contudo, você citou como figura}}
+
+Portanto, a solução informatizada é apontada como um caminho adequado para endereçar as dificuldades citadas, pois, possibilitaria a execução de vários processos do IPHAN (cadastramento, normatização, fiscalização e planejamento) de maneira integrada, garantindo agilidade na produção da informação. 
 
 O sistema proposto é formado por 7 módulos:
 
@@ -166,7 +167,7 @@ Os objetivos da contratação são:
 \begin{itemize}
 \item Automatizar o processo de trabalho decorrente da metodologia de inventário, cadastramento, análise e gestão do patrimônio material, denominado Sistema Integrado de Conhecimento e Gestão (SICG);
 \item Centralizar as diversas bases de informações utilizadas pelo Departamento de Patrimônio Material e Fiscalização (DEPAM) em uma base de dados única, possibilitando integração futura com bases de dados de outros departamentos do IPHAN,   o problema atual de falta de integração, da dispersão e da redundância dos dados;
-\item Possibilitar a descontinuidade gradativa de 100\% das bases de dados isolados, de caráter local ou descentralizado existentes no DEPAM;
+\item Possibilitar a descontinuidade gradativa de 100\% das bases de dados isoladas, de caráter local ou descentralizado existentes no DEPAM;
 \item Mapear as informações produzidas pelas diversas coordenações do DEPAM, pelas Superintendências e Escritórios Técnicos, pelos parceiros do Sistema Nacional de Patrimônio Cultural (SNPC), e as informações presentes no Arquivo Central do IPHAN, por meio de dados geográficos convergentes;
 \item Possibilitar a realização de análises territoriais e de uma visão territorial das ações do DEPAM, provendo atributos de tamanho, proximidade, área, localização, topologia e outros, por meio de dados georreferenciados;
 \item Consolidar informações originidas nas diversas coordenações do DEPAM, pelas Superintendências e Escritórios Técnicos, pelos parceiros do SNPC e uma base de dados geográfica de alta escalabilidade e que contenha 100\% das informações georreferenciadas;
@@ -177,6 +178,9 @@ Os objetivos da contratação são:
 \subsection[Papéis e Responsabilidades]{Papéis e Responsabilidades}
 
 Os papéis e responsabilidades são definidos na figura \ref{papeis} conforme a Instrução Normativa nº 04.
+
+\textcolor{red}{\todo[inline, color=yellow!20]{1)Imagem ruim! 2) Mesmo problema da "figura" 15. Na prática não é uma figura e sim uma tabela. Contudo, você citou como figura. 3) Retirar os pontos finais nas colunas atores e papeis. 4) A responsabilidade da EGL não seria de executar o contrato ao invés de acompanhar...?}}
+
 
 \begin{figure}[H]
 		\centering
@@ -190,7 +194,9 @@ Os papéis e responsabilidades são definidos na figura \ref{papeis} conforme a 
 
 \textbf{Forma de Encaminhamento das Ordens de Serviço}
 
-Toda ordem de serviço será repassada pessoalmente ao preposto da contratada.
+Toda ordem de serviço era repassada pessoalmente ao preposto da contratada.
+
+\textcolor{red}{\todo[inline, color=yellow!20]{Fazer uma revisão geral, neste capítulo, no que diz respeito ao tempo verbal. Ora é futuro, ora é passado... Sugestão de usar o passado, uma vez que, o projeto já ocorreu. }}
 
 
 \textbf{Ciclos}
@@ -213,11 +219,11 @@ Na Reunião de Planejamento, a Contratada apresentou à Contratante uma proposta
 
 Na Reunião de Encerramento, a Contratada entregou e apresentou à Contratante o conjunto de produtos resultantes da execução do respectivo ciclo.
 
-Os produtos entregues pela Contratada tinha um prazo de no máximo um ciclo para serem homologados pela Contratante.
+Os produtos entregues pela Contratada tinham um prazo de no máximo um ciclo para serem homologados pela Contratante.
 
 \section[Caracterização da Solução]{Caracterização da Solução}
 
-Para desenvolver um modelo de contratação de fornecedores de \textit{software} baseado em Scrum e Kanban, o IPHAN definiu alguns procedimentos que deveriam ser feitos com o foco na minimização dos riscos da execução contratual e na obtenção do sucesso no contrato de terceirização. O \textit{framework} utilizado não é considerado o mais relevante, mas sim os valores e princípios do Manifesto Ágil, além do atendimento à legislação vigente. 
+Para desenvolver uma metodologia de gestão de demandas \textit{software} baseada no Scrum e no Kanban, o IPHAN definiu alguns procedimentos que deveriam ser feitos com o foco na minimização dos riscos da execução contratual e na obtenção do sucesso no contrato de terceirização. O \textit{framework} utilizado não é considerado o mais relevante, mas sim os valores e princípios do Manifesto Ágil, além do atendimento à legislação vigente. 
 
 As metodologias ágeis foram utilizadas como o meio para atingir o sucesso ou para identificar de forma rápida os riscos iminentes. O sucesso contratual pode ser entendido como aquele contrato que atende às necessidades do órgão, com sistemas, sem comprometer o erário (tesouro público). Assim, para atingir sucesso em um contrato é preciso que pelos menos esses três procedimentos sejam realizados: 
 \begin{itemize}
@@ -243,9 +249,9 @@ Tempo de Ciclo (Lead time).         &  Revisão de Código.               \\ \hl
 \end{table}
 
 
-Com isso, foram definidas algumas premissas que devem orientar o planejamento e execução do contrato. A saber: 
+Com isso, foram definidas algumas premissas que orientaram o planejamento e execução do contrato. A saber: 
 \begin{itemize}
-\item O órgão não deve definir, ou exigir, o uso de Metodologia Ágil da entidade contratada. Não defina Metodologia de Desenvolvimento de Software (MDS), mas sim a
+\item O IPHAN não deveria definir, ou exigir, o uso de Metodologia Ágil da entidade contratada. Não defina Metodologia de Desenvolvimento de Software (MDS), mas sim a
 forma de gerenciar as demandas (ordens de serviço), os produtos que devem ser entregues e seus critérios de aceitação. 
 \item A recontagem de Pontos por Função nos moldes do roteiro do SISP com metodologia ágil que pode mudar constantemente é um risco. É preciso alterar o percentual definido para a alteração, manutenção ou refatoração de uma funcionalidade, definir corretamente o conceito de manutenção evolutiva, refatoração e alteração de requisito e evidenciar no processo o custo de uma alteração e fazer com que o gestor negocial, que pediu a alteração, assine a ordem de serviço e ateste a nota fiscal;
 \item Só abra uma Ordem de Serviço (OS) por vez e por projeto. Pode-se ter várias OS abertas com a mesma Contratada, porém, será uma OS para cada projeto e uma OS por \textit{Sprint}; Além disso, nunca comece oficialmente a próxima demanda sem receber ou finalizar a demanda anterior. Caso uma OS não estiver atendendo o que foi solicitado, ou por uma mudança negocial essa OS não for necessária, cancele-a e abra outra ordem de serviço que atenda a nova exigência do gestor contratual;
@@ -255,7 +261,7 @@ forma de gerenciar as demandas (ordens de serviço), os produtos que devem ser e
 \item Acredite na evolução da empresa. No começo, a empresa contratada poderá não conseguir entregar o que foi solicitado ou entregar um produto funcional, no entanto, progressivamente ela irá se adequar ao processo e evoluir. 
 \end{itemize} 
 
-Com essas premissas definidas o órgão construiu um Kanban para auxiliar a Gestão de Demandas. 
+A partir dessas premissas definidas, a autarquia construiu um Kanban para auxiliar a Gestão de Demandas.
 
 O Kanban definido pelo IPHAN possui quatro colunas ou raias e está ilustrado na Fig. (\ref{kanban1}).
 
@@ -266,6 +272,8 @@ O Kanban definido pelo IPHAN possui quatro colunas ou raias e está ilustrado na
 		\caption{Quadro Kanban (imagem disponível em http://www.slideshare.net/herbertparente/contratao-de-fbrica-de-software-metodologia-gil)}
 	\label{kanban1}
 \end{figure}
+
+\textcolor{red}{Essa forma de citar a fonte de uma imagem é prevista na abnt, ou foi você quem escolheu? Verificar, por favor!} 
 
 A primeira raia do Kanban diz respeito aos itens que estão no estado “Preparado”. A condição de transição para esta raia pode ser feita da forma que o órgão quiser (\ref{kanban2}). Por exemplo, os itens com mais prioridade podem ser os primeiros a irem para esta coluna. É importante que a definição de “Preparado” e a definição de “Pronto” estejam bem claras para todos os envolvidos.  
 
@@ -334,12 +342,13 @@ Outra técnica importante que foi construída diz respeito a parelização das a
 		\label{kanban5}
 \end{figure}
 
-O Kanban evidencia a aderência de utilização de métodos ágeis. A paralelização das atividades, que evita desperdícios de trabalho, evidencia a aderência ao Lean no Desenvolvimento de \textit{Software}. Assim, conclui-se que as premissas utilizadas como base para o desenvolvimento do Kanban foram baseadas tanto nos princípios ágeis quanto nos princípios do Lean. Após alguns meses de aplicação dessa solução o órgão deu início a construção da Metodologia IPHAN de Gestão de Demandas de Desenvolvimento Ágil de \textit{Software} (MIDAS). Uma parte do MIDAS pode ser visualizada no Anexo B. 
+O Kanban evidencia a aderência de utilização de métodos ágeis. A paralelização das atividades, que evita desperdícios de trabalho, evidencia a aderência ao Lean no Desenvolvimento de \textit{Software}. Assim, conclui-se que as premissas utilizadas como base para o desenvolvimento do Kanban foram baseadas tanto nos princípios ágeis quanto nos princípios do Lean. Após alguns meses de aplicação dessa solução o órgão deu início a construção da Metodologia IPHAN de Gestão de Demandas de Desenvolvimento Ágil de \textit{Software} (MIDAS). Uma parte do MIDAS pode ser visualizada no Anexo B.
 
+\textcolor{red}{\todo[inline, color=yellow!20]{Precisamos explorar melhor essa discussão aqui. O kanban originalmente vem do LEAN. Além desses dois itens cite os demais princípios/valores do LEAN Development, pois eles aplicam vários outros. Ex: Limitar o trabalho (eles definiram um WIP com APF); Respeito as pessoas (consideram o aprendizado às pessoas, não aplicaram multas punitivas, fvoreceram o fluxo de caixa com os percentuais de pagto; Cadência de propósitos (o controle das OS mensais, com entrega de software funcional) Explore melhor esses e outros pontos. Da maneira como está esta discussão está meio pobre, rasa... É preciso e possível destacar outras evidências.  ) }}
 
 \section[Análise dos Dados]{Análise dos Dados}
 
-Nesta seção serão apresentados os resultados dos dados coletados categorizados em três efeitos: entrega de ordens de serviço, satisfação do cliente e qualidade interna do código fonte. As subseções a seguir têm o objetivo de responder diretamente às questões específicas de pesquisa definidas no Capítulo 5.
+Nesta seção são apresentados os resultados dos dados coletados, categorizados em três efeitos: entrega de ordens de serviço, satisfação do cliente e qualidade interna do código fonte. As subseções a seguir têm o objetivo de responder diretamente às questões específicas de pesquisa definidas no Capítulo 5.
 
 \subsection[Efeitos sobre a entrega de ordens de serviço]{Efeitos sobre a entrega de ordens de serviço}
 
@@ -354,6 +363,8 @@ A Figura \ref{resultadosmetricas} apresenta os resultados das métricas para cad
 		\label{resultadosmetricas}
 \end{figure}
 
+\textcolor{red}{\todo[inline, color=yellow!20]{Novamente o problema de figura/tabela, e com qualidade ruim... QE7 e QE9 citando figura X ) }}
+
 A Figura \ref{porcentagemrequisitos} apresenta a porcentagem de requisitos atendidos em cada ordem de serviço ou sprint, respondendo assim a questão de pesquisa QE7.
 
 \begin{figure}[H]
@@ -363,9 +374,13 @@ A Figura \ref{porcentagemrequisitos} apresenta a porcentagem de requisitos atend
 		\label{porcentagemrequisitos}
 \end{figure}
 
+\textcolor{red}{\todo[inline, color=yellow!20]{Novamente o problema de figura/tabela e qualidade ruim...}}
+
  A média geral de requisitos atendidos ao longo do projeto de acordo com os dados levantados da documentação foi de 78\%, o que coincide com a percepção dos envolvidos no projeto: 75\% dos envolvidos responderam ao questionário que a percepção geral de requisitos atendidos durante o projeto estava entre 70\% e 90\%.
 
 A Figura \ref{custo} apresenta o custo de cada ordem de serviço ou sprint, respondendo assim a questão de pesquisa QE9. Como pode ser observado, nas ordens de serviço que tiverem a porcentagem de requisitos atendidos como 0\% não houve remuneração para a contratada. O custo estimado do contrato antes da contratação era de R\$ 990,000. Portanto, o custo final foi próximo do custo estimado, ultrapassando apenas 1,8\%.
+
+\textcolor{red}{\todo[inline, color=yellow!20]{Importante também destacar que as informações sobre o custo estão presentes somente na documentação do projeto. Fica difícil monitorar,... Uma possível solução automatizada traria maior poder de análise por parte do gestor... ) }}
 
 \begin{figure}[H]
 		\centering
@@ -378,7 +393,7 @@ A Figura \ref{custo} apresenta o custo de cada ordem de serviço ou sprint, resp
 
 \subsection[Efeitos sobre a satisfação do cliente]{Efeitos sobre a satisfação do cliente}
 
-O cliente do projeto SICG é representado pelo papel de dono do produto, que também atuou como gestor do contrato, e por todos os envolvidos no projeto por parte do IPHAN. Os IPHAN nunca havia participado anteriormente de um projeto onde a gestão do contrato era realizada com o uso de métodos ágeis, portanto, a experiência dos envolvidos no projeto com métodos ágeis era pouca. Para coletar a opinião do cliente acerca das questões de pesquisa QE10  e QE11 foi aplicado um questionário.
+O cliente do projeto SICG é representado pelo papel de dono do produto, que também atuou como gestor do contrato, e por todos os envolvidos no projeto por parte do IPHAN. Este nunca havia participado anteriormente de um projeto onde a gestão do contrato era realizada com o uso de métodos ágeis, portanto, a experiência dos envolvidos no projeto com esses métodos era pouca. Para coletar a opinião do cliente acerca das questões de pesquisa QE10  e QE11 foi aplicado um questionário.
 
 A Figura \ref{visibilidade} apresenta a visibilidade do processo de todos os envolvidos no projeto por parte do IPHAN. Cerca de 80\% dos envolvidos no projeto considerou a visibilidade do processo como "Alta", dentre eles o gestor do contrato.
 
@@ -400,7 +415,7 @@ A Figura \ref{satisfacao} apresenta o resultado de satisfação do IPHAN com rel
 
 \subsection[Efeitos sobre a qualidade do código]{Efeitos sobre a qualidade do código}
 
-A qualidade do código fonte do SICG pode ser avaliada por meio de métricas. Neste trabalho foram selecionadas as métricas de código fonte levantadas e categorizadas por MEIRELLES: métricas de tamanho e complexidade e métricas de orientação à objetos. 
+A qualidade do código fonte do SICG pode ser avaliada por meio de métricas que evidenciam a qualidade externa \textcolor{red}{citar a iso que traz essa classificação. No trabalho do Baufaker tem}. Neste trabalho foram selecionadas as métricas de código fonte levantadas e categorizadas por \citeonline{Meirelles2013}: métricas de tamanho e complexidade e métricas de orientação à objetos. 
 
 As métricas de tamanho e complexidade selecionadas são: 
 
@@ -495,10 +510,9 @@ enviada por um objeto de uma classe \cite{Sharble93}.
 
  \vspace{\onelineskip} 
 
-Um dos objetivos científicos do estudo de \citeonline{Meirelles2013} foi a identificação das distribuições estatísticas do valores das métricas apresentadas anteriormente em 38 projetos
-de software livre. A partir de cada uma das distribuições estatísticas \citeonline{Meirelles2013} classificou as métricas de código fonte de acordo com a frequência dos valores apresentados,
+Um dos objetivos científicos do estudo de \citeonline{Meirelles2013} foi a identificação das distribuições estatísticas do valores das métricas apresentadas anteriormente em 38 projetos de software livre, onde foram analisadas XXXX mil \textcolor{red}{Citar a quantidade de classes analisadas. Foram mais de 600K...}. A partir de cada uma das distribuições estatísticas \citeonline{Meirelles2013} classificou as métricas de código fonte de acordo com a frequência dos valores apresentados,
 com os intervalos: muito frequente, frequente, pouco frequente e não frequente. Para simplificar o entendimento das métricas de código fonte, Morais interpretou os rótulos dos
-intervalos de frequência definidos por \citeonline{Meirelles2013} em em rótulos qualitativos, tal como a Tab. (8). 
+intervalos de frequência definidos por \citeonline{Meirelles2013} em em rótulos qualitativos, tal como apresentado na tabela 8. 
 
 \begin{table}[!ht]
 	\begin{center}
@@ -516,9 +530,9 @@ intervalos de frequência definidos por \citeonline{Meirelles2013} em em rótulo
 		\end{table}
 
 
-Posteriormente, apresenta-se a Tabela 3, retirada do
-estudo de \citeonline{Meirelles2013}, com os intervalos encontrados para C++ e Java. Com isso, os intervalos apresentados na Tab. (9) foram os utilizados como os indicadores
-de qualidade de código fonte na análise deste estudo de caso. É importante ressaltar que quando apresentarmos o resultado da análise sobre o código fonte desse estudo de caso e dissermos que o código fonte tem um rótulo "excelente" ou "ruim" para determinada métrica siginifica que esse código fonte é "excelente" ou "ruim" em comparação ao melhor projeto de software livre selecionado por \citeonline{Meirelles2013} na Linguagem Java, que foi o Open JDK8.
+Posteriormente, é apresentando na tabela 3 \textcolor{red}{conferir número da tabela}, retirada do
+estudo de \citeonline{Meirelles2013}, com os intervalos encontrados para C++ e Java. Com isso, os intervalos apresentados na tabela 9 foram os utilizados como os indicadores
+de qualidade de código fonte na análise deste estudo de caso. É importante ressaltar que quando apresentarmos o resultado da análise sobre o código fonte deste estudo de caso e dissermos que o código fonte tem um rótulo "excelente" ou "ruim" para determinada métrica, siginifica dizer que, esse código fonte é "excelente" ou "ruim" em comparação ao melhor projeto de software livre selecionado por \citeonline{Meirelles2013} na Linguagem Java, que foi o Open JDK8.
 
  \vspace{\onelineskip} 
  \vspace{\onelineskip} 
@@ -646,11 +660,17 @@ de qualidade de código fonte na análise deste estudo de caso. É importante re
 			\caption{Intervalos de Qualidade Java}
 	\end{longtable}
 
-De forma geral, o processo realizado para a análise do código fonte do SICG foi retirado do trabalho desenvolvido por \citeonline{baufaker}, que  consiste em: executar a ferramenta Analizo sobre o código fonte do projeto SICG, o qual resultará em um arquivo .csv com os resultados númericos das métricas selecionadas, transformar o arquivo .csv em json e inserir esse arquivo na arquitetura desenvolvida por \citeonline{baufaker} na ferramenta Pentaho. Ao final desse processo, temos como resultado os gráficos para análise. 
+De forma geral, o processo realizado para a análise do código fonte do SICG foi retirado do trabalho desenvolvido por \citeonline{baufaker}, que  consiste em: i) executar a ferramenta de análise estática de código fonte, Analizo, sobre o código fonte do projeto SICG; ii) Após o passo i o resultado será armazenado em um arquivo .csv com as medidas númericos das métricas selecionadas; iii) transformar o arquivo .csv em json; iv) e por fim, processar esse arquivo na solução desenvolvida por \citeonline{baufaker} que faz uso de um ambiente de Datawarehousing, utilizando a ferramenta Pentaho. Ao final desse processo, temos como resultado os gráficos para análise. 
 
-A fim de responder a questão de pesquisa QE12 serão mostrados a seguir os resultados do processamento do código fonte do projeto SICG no que diz respeito a qualidade do código ao longo das sprints do projeto de acordo com as oito métricas selecionadas. Os rótulos de intervalos de qualidade mostrados são resultantes dos valores médios de cada métrica para todas as classes do projeto. 
+\textcolor{red}{\todo[inline, color=yellow!20]{Fazer uma nota de rodapé explicando o que é um .csv e json. Tem pessoas que vão ler e não conhecem esses formatos.}}
+
+
+A fim de responder a questão de pesquisa QE12 serão mostrados a seguir os resultados do processamento do código fonte do projeto SICG no que diz respeito a qualidade interna do produto ao longo das sprints do projeto, de acordo com as 12 métricas selecionadas.
 
 As Figuras \ref{metricasprint}, \ref{metricasprint2} e \ref{metricasprint2} mostram os valores de todas as métricas ao longo das sprints do projeto.
+
+\textcolor{red}{\todo[inline, color=yellow!20]{tabela/figura...}}
+
 \begin{figure}[H]
 		\centering
 			\includegraphics[scale=0.9]{figuras/metricas29.png}
@@ -817,7 +837,7 @@ A Figura \ref{qualidadesprint} mostra a qualidade de todas as métricas analisad
 		\label{qualidadesprint}
 \end{figure}
 
-Enquanto a Figura \ref{qualidadesprint2} mostra a qualidade de todas as métricas analisadas ao longo das sprints do projeto considerando a métrica CBO. É possível perceber o grande impacto na qualidade geral do código fonte causado ao inserirmos na análise a métrica CBO. Ou seja, o código altamente acoplado e possuí uma quantidade alta de oportunidades de refatoração no que diz respeito aos seguintes cenários: classe pouco coesa, interface dos métodos, classes com muitos filhos, classe com métodos grandes e/ou muitos condicionais, classe com muita exposição e complexidade estrutural. 
+Já a Figura \ref{qualidadesprint2} mostra a qualidade de todas as métricas analisadas ao longo das sprints do projeto considerando a métrica CBO. É possível perceber o grande impacto na qualidade geral do código fonte causado ao inserirmos na análise a métrica CBO. Ou seja, o código altamente acoplado e possuí uma quantidade alta de oportunidades de refatoração no que diz respeito aos seguintes cenários: classe pouco coesa, interface dos métodos, classes com muitos filhos, classe com métodos grandes e/ou muitos condicionais, classe com muita exposição e complexidade estrutural. 
 
 \begin{figure}[H]
 		\centering
@@ -826,14 +846,11 @@ Enquanto a Figura \ref{qualidadesprint2} mostra a qualidade de todas as métrica
 		\label{qualidadesprint2}
 \end{figure}
 
-A Figura \ref{cenarios} mostra qual a taxa de aproveitamento de oportunidade de limpeza por sprint. Ao analisarmos a última sprint do projeto, observamos que existe 43\%  da quantidade de classes do código fonte com oportunidades de refatoração. 
 
-\begin{figure}[H]
-		\centering
-			\includegraphics[scale=1.0]{figuras/cenarios.png}
-		\caption{Cenários de Limpeza}
-		\label{cenarios}
-\end{figure}
+
+\textcolor{red}{\todo[inline, color=yellow!20]{Aline, retirei a apresentação sobre a taxa de oportunidade, pois O Baufaker ainda vai defender e não temos um feedback ainda sobre essa solução}}
+
+
 
 A Figura \ref{percepcaoqualidade} mostra a percepção da qualidade do código fonte do SICG segundo os envolvidos no projeto (Scrum Master, Product Owner, Gestor do Contrato, Coordenador do Projeto, Fiscal Técnico e Desenvolvedores). Cerca de 66\% dos envolvidos consideraram  o intervalo de qualidade do código como "Excelente" e os demais consideraram
 o intervalo de qualidade como "Bom".
@@ -845,7 +862,13 @@ o intervalo de qualidade como "Bom".
 		\label{percepcaoqualidade}
 \end{figure}
 
-Assim, no que diz respeito a análise estática do código realizada, a qualidade do código fonte do projeto é satisfatória ao compararmos com o melhor software livre encontrado na linguagem de programação Java se considerarmos que a métrica COB não tem um peso relevante em comparação as demais métricas e também é satisfatória na percepção dos envolvidos no projeto SICG. No entanto, ao analisarmos que algumas das práticas ágeis adotadas tanto pela empresa quanto pelo órgão são refatoração, código limpo e revisão de código, o resultado obtido por este estudo de caso contradiz a percepção dos envolvidos.
+Assim, no que diz respeito a análise estática do código realizada, a qualidade interna do produto pode ser considerada satisfatória ao compararmos com o melhor software livre encontrado na linguagem de programação Java, de acordo com os estudos de \citeonline{Meirelles2013}. 
+
+Se considerarmos que a métrica COB não tem um peso relevante em comparação as demais métricas e também é satisfatória na percepção dos envolvidos no projeto SICG. \textcolor{red}{Por que ela não é relevante?} No entanto, ao analisarmos que algumas das práticas ágeis adotadas tanto pela empresa quanto pelo órgão são refatoração, código limpo e revisão de código, o resultado obtido por este estudo de caso contradiz a percepção dos envolvidos.
+
+\textcolor{red}{\todo[inline, color=yellow!20]{Esse texto tá meio confuso. Eu não consegui entender direito. Por favor, reescreva. Esse discussão é de extrema importância}}
+
+\textcolor{red}{\todo[inline, color=yellow!20]{Aqui também seria o ponto de discutirmos o fato do software não ter entrado em produção e a falha de desempenho que ele apresentou...}}
 
 
 
