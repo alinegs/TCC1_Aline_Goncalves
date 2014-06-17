@@ -12,6 +12,11 @@
 Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/drum\-.lib\-.umd\-.edu\-/\-/handle\-/1903\-/7517$>$}{http://drum.lib.umd.edu//handle/1903/7517}.}
 
+\bibitem[Basili e Rombach 1994]{gqm}
+\abntrefinfo{Basili e Rombach}{BASILI; ROMBACH}{1994}
+{BASILI, V.~R.; ROMBACH, H.~D. {Goal Question Metric Paradigm}.
+1994.}
+
 \bibitem[Beck 1997]{beck1997smalltalk}
 \abntrefinfo{Beck}{BECK}{1997}
 {BECK, K. \emph{Smalltalk Best Practice Patterns. Volume 1: Coding}. [S.l.]:
@@ -86,6 +91,13 @@ Dispon{\'\i}vel em:
 {INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL. \emph{Metodologia
   IPHAN de Gestão de Demandas de Desenvolvimento Ágil de Softwares}.
 Brasília, Brasil, 2013.}
+
+\bibitem[{ISO/IEC 25023} 2011]{ISO25023}
+\abntrefinfo{{ISO/IEC 25023}}{{ISO/IEC 25023}}{2011}
+{{ISO/IEC 25023}. \emph{{ISO/IEC} 25023: Systems and software engineering -
+  Systems and software Quality Requirements and Evaluation (SQuaRE) -
+  Measurement of system and software product quality}.
+[S.l.], 2011.}
 
 \bibitem[Jardim 2010]{costa2010}
 \abntrefinfo{Jardim}{JARDIM}{2010}
@@ -264,5 +276,10 @@ Dispon{\'\i}vel em:
 Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/wheels\-.blogs\-.nytimes\-.com\-/2009\-/09\-/04\-/toyota-quality-control-includes-greensleeves-and-popeye\-/?\underline{\
   }r=1$>$}{http://wheels.blogs.nytimes.com/2009/09/04/toyota-quality-control-includes-greensleeves-and-popeye/?_r=1}.}
+
+\bibitem[Yin 2010]{yin}
+\abntrefinfo{Yin}{YIN}{2010}
+{YIN, R.~K. \emph{{Estudo de Caso - Planejamento e Métodos}}. [S.l.: s.n.],
+  2010.}
 
 \end{thebibliography}

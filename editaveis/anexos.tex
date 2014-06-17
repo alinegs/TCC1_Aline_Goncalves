@@ -31,13 +31,14 @@ No entanto, as pessoas possuem hábitos diferentes. Muitas pessoas gostam da mud
 
 O princípio que fica sobre a base da pirâmide é o de comportamento proativo, que significa tomar iniciativa, assumindo pessoal responsabilidade pela qualidade do próprio trabalho e pelo ambiente de trabalho. Ser proativo significa aproveitar a oportunidade para fazer a diferença dia a dia \cite{bell2011}.
 
-Em os 7 Hábitos de Pessoas Altamente Eficazes, o Dr. Stephen Covey introduz um modelo chamado Matriz de Gerenciamento de Tempo, dividindo o trabalho em quatro quadrantes com base na importância e urgência, como ilustrado na Fig. (20).
+Em os 7 Hábitos de Pessoas Altamente Eficazes, o Dr. Stephen Covey introduz um modelo chamado Matriz de Gerenciamento de Tempo, dividindo o trabalho em quatro quadrantes com base na importância e urgência, como ilustrado na Fig. (\ref{matrizcomportamento}).
 
 \begin{figure}[H]
 		\centering
 		\label{fig03}
 			\includegraphics[scale=0.9]{figuras/matrizcomportamento.png}
 		\caption{Matriz de Gerenciamento de Tempo \cite{bell2011}}
+\label{matrizcomportamento}
 \end{figure}
 
 Ele ressalta que o trabalho de maior valor encontra-se no quandrante importante e não urgente, onde o planejamento proativo, a prevenção, a preparação e a aprendizagem serão mais fortemente desenvolvidos. Trabalho não planejado concentra-se no quadrante importante e urgente (combate de forma reativa) ou não importante e urgente (atividades que parecem importante devido à sua urgência). Em ambos os casos, eles roubam tempo e recursos que devem ser usados para abordar proativamente o trabalho importante e não urgente. O comportamento reatiavo, geralmente, deixa desperdício e impede o progresso. 
@@ -146,7 +147,7 @@ O primeiro conceito, Seiri, consiste na  remoção de todos os materiais e ferra
 
 \subsection[Kanban]{Kanban}
 
-Uma das ferramentas de grande importância associado ao Pensamento Lean é o sistema Kanban (Fig. 21) , palavra japonesa que significa cartão ou registro visível. Sendo mais um dos conceitos desenvolvidos pela Toyota, este sistema tem como objetivo o balanceamento da produção e a minimização de estoque. Por meio da gestão visual, os Kanbans fornecem de forma simples e intuitiva indicações aos trabalhadores relativas a fluxos de materiais, recursos e informação. 
+Uma das ferramentas de grande importância associado ao Pensamento Lean é o sistema Kanban (Fig. \ref{kanbanindustria}) , palavra japonesa que significa cartão ou registro visível. Sendo mais um dos conceitos desenvolvidos pela Toyota, este sistema tem como objetivo o balanceamento da produção e a minimização de estoque. Por meio da gestão visual, os Kanbans fornecem de forma simples e intuitiva indicações aos trabalhadores relativas a fluxos de materiais, recursos e informação. 
 
 Este sistema é implementado com o objetivo de atingir a produção \textit{Just-in-Time}, ou seja, produzir na quantidade certa, na altura devida e o produto correto. O Kanban limita o trabalho em progress, o que fornece previsibilidade de tempo em ciclos e faz com que as entregas sejam mais confiáveis. A abordagem de "parar a linha de produção", para superar os obstáculos e os erros encontrados, também resulta em níveis mais elevados de qualidade e uma queda rápida de retrabalho. Além disso, o Kanban implica um modelo de produção do tipo \textit{pull}, ou seja, este sistema desencadeia ordens de produção vindas do cliente\cite{rodrigues2012}.  
 
@@ -155,6 +156,7 @@ Este sistema é implementado com o objetivo de atingir a produção \textit{Just
 		\label{fig04}
 			\includegraphics[scale=1.0]{figuras/kanbanindustria.png}
 		\caption{Quadro Andon, com o mesmo objetivo do Kanban, na fábrica da Toyota \cite{kanbanindustria}}
+\label{kanbanindustria}
 \end{figure}
 
 \chapter{Metodologia IPHAN de Gestão de Demandas de Desenvolvimento Ágil de \textit{Software}}
@@ -168,7 +170,7 @@ O MIDAS foi baseado nos príncipios ágeis advindos do Manifesto Ágil, tais pri
 \item Manter a simplicidade: sempre que possível, a complexidade de um sistema deve ser eliminada concentrando-se na simplicidade tanto do sistema quanto do processo de desenvolvimento.
 \end{itemize}
 
-Os papéis definidos no MIDAS são: área de TI, área de negócio (requisitante) e o fornecedor contratado. Ao relacionamos estes papéis com os papéis do Scrum temos de forma geral que os representantes da área requisitante serão o \textit{Product Owner}, um representante da área de TI do órgão e um representante do fornecedor representarão o papel de Scrum \textit{Master} e a equipe do fornecedor contratado representa a Equipe de Desenvolvimento do Scrum. Se mapearmos ainda os papéis do Scrum com os papéis específicos definidos pela IN 04, temos como resultado a Tab. (4). 
+Os papéis definidos no MIDAS são: área de TI, área de negócio (requisitante) e o fornecedor contratado. Ao relacionamos estes papéis com os papéis do Scrum temos de forma geral que os representantes da área requisitante serão o \textit{Product Owner}, um representante da área de TI do órgão e um representante do fornecedor representarão o papel de Scrum \textit{Master} e a equipe do fornecedor contratado representa a Equipe de Desenvolvimento do Scrum. Se mapearmos ainda os papéis do Scrum com os papéis específicos definidos pela IN 04, temos como resultado a Tab. (\ref{pmidas}). 
 
 \begin{table}[H]
 \center
@@ -187,29 +189,32 @@ Os papéis definidos no MIDAS são: área de TI, área de negócio (requisitante
    \hline
 \end{tabular}
 \caption{Papéis MIDAS x Papéis IN 04}
+\label{pmidas}
 \end{table}
 
 As demandas para desenvolvimento de sistemas são divididas em cinco tipos dentro do MIDAS: sistema novo, manutenção evolutiva, manutenção corretiva, documentação de sistemas legados e refatoração.  O sistema novo e a manutenção evolutiva devem seguir todo o processo do MIDAS. A refatoração e a documentação de sistemas legados podem seguir todo o processo do MIDAS ou apenas o subprocesso Sprint. Já a manutenção corretiva não segue nenhum dos processos, ela seguirá uma ordem de serviço específica de acordo com sua urgência.
 
-O processo MIDAS é dividido em três fases: planejamento, desenvolvimento e encerramento, e deve ser executado de forma incremental, com entregas frequentes e progresso medido continuamente. O macro fluxo do processo MIDAS é representado pela Fig. (22).
+O processo MIDAS é dividido em três fases: planejamento, desenvolvimento e encerramento, e deve ser executado de forma incremental, com entregas frequentes e progresso medido continuamente. O macro fluxo do processo MIDAS é representado pela Fig. (\ref{processoMIDAS}).
 
 \begin{figure}[H]
 		\centering
 		\label{fig01}
 			\includegraphics[scale=0.3]{figuras/processoMIDAS.png}
 		\caption{Processo MIDAS \cite{IPHAN:2013}}
+\label{processoMIDAS}
 \end{figure}
 
-O primeiro subprocesso advindo do planejamento é o subprocesso Realizar Ateste Técnico, trata-se de um subprocesso padrão que será executado em todas as fases do processo MIDAS. Nele estão contidos outros dois processos: Medição de Sistemas e Controle de Qualidade, cujo detalhamento não cabe no escopo deste trabalho. O subprocesso de Realizar Ateste Técnico tem o objetivo de verificar se os requisitos de cada fase foram satisfeitos e se os produtos de trabalho atendem às especificações de entrada e aos planos e regras estabelecidos. O fluxo deste subprocesso está representado na Fig. (23) com suas atividades, entradas e saídas.
+O primeiro subprocesso advindo do planejamento é o subprocesso Realizar Ateste Técnico, trata-se de um subprocesso padrão que será executado em todas as fases do processo MIDAS. Nele estão contidos outros dois processos: Medição de Sistemas e Controle de Qualidade, cujo detalhamento não cabe no escopo deste trabalho. O subprocesso de Realizar Ateste Técnico tem o objetivo de verificar se os requisitos de cada fase foram satisfeitos e se os produtos de trabalho atendem às especificações de entrada e aos planos e regras estabelecidos. O fluxo deste subprocesso está representado na Fig. (\ref{subprocessoateste}) com suas atividades, entradas e saídas.
 
 \begin{figure}[H]
 		\centering
 		\label{fig01}
 			\includegraphics[scale=0.7]{figuras/subprocessoAteste.png}
 		\caption{Subprocesso Realizar Ateste Técnico \cite{IPHAN:2013}}
+\label{subprocessoateste}
 \end{figure}
 
-O subprocesso Sprint é o principal processo da fase de desenvolvimento e tem o objetivo de realizar o ciclo de trabalho de desenvolvimento. Sprint é um ciclo de desenvolvimento onde requisitos são implementados tendo como resultado um incremento do produto que está sendo desenvolvido. A quantidade de ciclos totais do projeto é definida na atividade de “Planejar Projeto”, a qual é realizada na fase de planejamento. O fluxo deste subprocesso está ilustrado na figura 24.
+O subprocesso Sprint é o principal processo da fase de desenvolvimento e tem o objetivo de realizar o ciclo de trabalho de desenvolvimento. Sprint é um ciclo de desenvolvimento onde requisitos são implementados tendo como resultado um incremento do produto que está sendo desenvolvido. A quantidade de ciclos totais do projeto é definida na atividade de “Planejar Projeto”, a qual é realizada na fase de planejamento. O fluxo deste subprocesso está ilustrado na Fig. \ref{subprocessosprint}.
 
 
 \begin{figure}[H]
@@ -217,6 +222,7 @@ O subprocesso Sprint é o principal processo da fase de desenvolvimento e tem o 
 		\label{fig01}
 			\includegraphics[scale=0.4]{figuras/subprocessoSprint.png}
 		\caption{Subprocesso Sprint \cite{IPHAN:2013}}
+\label{subprocessosprint}
 \end{figure}
 
 \end{anexosenv}
