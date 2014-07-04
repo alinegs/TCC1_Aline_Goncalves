@@ -1,52 +1,52 @@
 \select@language {brazil}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {1}{\ignorespaces Sele\IeC {\c c}\IeC {\~a}o de Metodologia de Pesquisa}}{18}{figure.1.1}
-\contentsline {figure}{\numberline {2}{\ignorespaces Fases do Estudo de Caso}}{19}{figure.1.2}
+\contentsline {figure}{\numberline {1}{\ignorespaces Sele\IeC {\c c}\IeC {\~a}o de Metodologia de Pesquisa}}{19}{figure.1.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Fases do Estudo de Caso}}{20}{figure.1.2}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {3}{\ignorespaces Modelo de Contrata\IeC {\c c}\IeC {\~o}es de Solu\IeC {\c c}\IeC {\~o}es de TI \cite {mcti}}}{26}{figure.2.3}
-\contentsline {figure}{\numberline {4}{\ignorespaces Gerenciamento de Contrata\IeC {\c c}\IeC {\~o}es de Solu\IeC {\c c}\IeC {\~o}es de TI \cite {mcti}}}{29}{figure.2.4}
+\contentsline {figure}{\numberline {3}{\ignorespaces Modelo de Contrata\IeC {\c c}\IeC {\~o}es de Solu\IeC {\c c}\IeC {\~o}es de TI \cite {mcti}}}{27}{figure.2.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Gerenciamento de Contrata\IeC {\c c}\IeC {\~o}es de Solu\IeC {\c c}\IeC {\~o}es de TI \cite {mcti}}}{30}{figure.2.4}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {5}{\ignorespaces \textit {Ranking} de Vendas da Ind\IeC {\'u}stria Automobil\IeC {\'\i }stica \cite {ranking}}}{33}{figure.3.5}
-\contentsline {figure}{\numberline {6}{\ignorespaces Pir\IeC {\^a}mide de Princ\IeC {\'\i }pios Lean}}{34}{figure.3.6}
-\contentsline {figure}{\numberline {7}{\ignorespaces Quadro Kanban \cite {kanban}}}{41}{figure.3.7}
-\contentsline {figure}{\numberline {8}{\ignorespaces \textit {Work in Progress} \cite {klipp}}}{42}{figure.3.8}
-\contentsline {figure}{\numberline {9}{\ignorespaces Gr\IeC {\'a}fico de Medi\IeC {\c c}\IeC {\~o}es Kanban \cite {klipp}}}{42}{figure.3.9}
+\contentsline {figure}{\numberline {5}{\ignorespaces \textit {Ranking} de Vendas da Ind\IeC {\'u}stria Automobil\IeC {\'\i }stica \cite {ranking}}}{34}{figure.3.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Pir\IeC {\^a}mide de Princ\IeC {\'\i }pios Lean}}{35}{figure.3.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Quadro Kanban \cite {kanban}}}{42}{figure.3.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces \textit {Work in Progress} \cite {klipp}}}{43}{figure.3.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Gr\IeC {\'a}fico de Medi\IeC {\c c}\IeC {\~o}es Kanban \cite {klipp}}}{43}{figure.3.9}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {10}{\ignorespaces Framework Scrum}}{47}{figure.4.10}
-\contentsline {figure}{\numberline {11}{\ignorespaces Compara\IeC {\c c}\IeC {\~a}o entre m\IeC {\'e}todos segundo suas caracter\IeC {\'\i }sticas prescritivas \cite {kniberg2009}}}{48}{figure.4.11}
-\contentsline {figure}{\numberline {12}{\ignorespaces Quadro Scrum x Quadro Kanban \cite {kniberg2009}}}{49}{figure.4.12}
+\contentsline {figure}{\numberline {10}{\ignorespaces Framework Scrum}}{48}{figure.4.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Compara\IeC {\c c}\IeC {\~a}o entre m\IeC {\'e}todos segundo suas caracter\IeC {\'\i }sticas prescritivas \cite {kniberg2009}}}{49}{figure.4.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Quadro Scrum x Quadro Kanban \cite {kniberg2009}}}{50}{figure.4.12}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {13}{\ignorespaces Escopo do Estudo de Caso}}{58}{figure.5.13}
-\contentsline {figure}{\numberline {14}{\ignorespaces Estrutura do Estudo de Caso}}{59}{figure.5.14}
+\contentsline {figure}{\numberline {13}{\ignorespaces Escopo do Estudo de Caso}}{59}{figure.5.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Estrutura do Estudo de Caso}}{60}{figure.5.14}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {15}{\ignorespaces Quadro Kanban}}{76}{figure.6.15}
-\contentsline {figure}{\numberline {16}{\ignorespaces Transi\IeC {\c c}\IeC {\~a}o para a raia Preparado}}{77}{figure.6.16}
-\contentsline {figure}{\numberline {17}{\ignorespaces Transi\IeC {\c c}\IeC {\~a}o entre raias}}{77}{figure.6.17}
-\contentsline {figure}{\numberline {18}{\ignorespaces Limita\IeC {\c c}\IeC {\~a}o de WIP}}{78}{figure.6.18}
-\contentsline {figure}{\numberline {19}{\ignorespaces Pareliza\IeC {\c c}\IeC {\~a}o de Atividades}}{79}{figure.6.19}
-\contentsline {figure}{\numberline {20}{\ignorespaces N\IeC {\'\i }vel de Visibilidade do Processo do Projeto SICG}}{94}{figure.6.20}
-\contentsline {figure}{\numberline {21}{\ignorespaces N\IeC {\'\i }vel de Satisfa\IeC {\c c}\IeC {\~a}o do Produto Entregue do Projeto SICG}}{94}{figure.6.21}
-\contentsline {figure}{\numberline {22}{\ignorespaces Qualidade da M\IeC {\'e}trica LOC nas \textit {Sprints} do Projeto SICG}}{100}{figure.6.22}
-\contentsline {figure}{\numberline {23}{\ignorespaces Qualidade da M\IeC {\'e}trica ACCM nas \textit {Sprints} do Projeto SICG}}{100}{figure.6.23}
-\contentsline {figure}{\numberline {24}{\ignorespaces Qualidade da M\IeC {\'e}trica AMLOC nas \textit {Sprints} do Projeto SICG}}{101}{figure.6.24}
-\contentsline {figure}{\numberline {25}{\ignorespaces Qualidade da M\IeC {\'e}trica ACC nas \textit {Sprints} do Projeto SICG}}{101}{figure.6.25}
-\contentsline {figure}{\numberline {26}{\ignorespaces Qualidade da M\IeC {\'e}trica ANPM nas \textit {Sprints} do Projeto SICG}}{102}{figure.6.26}
-\contentsline {figure}{\numberline {27}{\ignorespaces Qualidade da M\IeC {\'e}trica CBO nas \textit {Sprints} do Projeto SICG}}{102}{figure.6.27}
-\contentsline {figure}{\numberline {28}{\ignorespaces Qualidade da M\IeC {\'e}trica DIT nas \textit {Sprints} do Projeto SICG}}{103}{figure.6.28}
-\contentsline {figure}{\numberline {29}{\ignorespaces Qualidade da M\IeC {\'e}trica LCOM4 nas \textit {Sprints} do Projeto SICG}}{103}{figure.6.29}
-\contentsline {figure}{\numberline {30}{\ignorespaces Qualidade da M\IeC {\'e}trica NOC nas \textit {Sprints} do Projeto SICG}}{104}{figure.6.30}
-\contentsline {figure}{\numberline {31}{\ignorespaces Qualidade da M\IeC {\'e}trica NOM nas \textit {Sprints} do Projeto SICG}}{104}{figure.6.31}
-\contentsline {figure}{\numberline {32}{\ignorespaces Qualidade da M\IeC {\'e}trica NPA nas \textit {Sprints} do Projeto SICG}}{105}{figure.6.32}
-\contentsline {figure}{\numberline {33}{\ignorespaces Qualidade da M\IeC {\'e}trica RFC nas \textit {Sprints} do Projeto SICG}}{105}{figure.6.33}
-\contentsline {figure}{\numberline {34}{\ignorespaces Qualidade Geral do C\IeC {\'o}digo Fonte}}{106}{figure.6.34}
-\contentsline {figure}{\numberline {35}{\ignorespaces N\IeC {\'\i }vel de Percep\IeC {\c c}\IeC {\~a}o da Qualidade do C\IeC {\'o}digo Fonte}}{107}{figure.6.35}
-\addvspace {10pt}
-\addvspace {10pt}
+\contentsline {figure}{\numberline {15}{\ignorespaces Quadro Kanban}}{77}{figure.6.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Transi\IeC {\c c}\IeC {\~a}o para a raia Preparado}}{78}{figure.6.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Transi\IeC {\c c}\IeC {\~a}o entre raias}}{78}{figure.6.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Limita\IeC {\c c}\IeC {\~a}o de WIP}}{79}{figure.6.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces Pareliza\IeC {\c c}\IeC {\~a}o de Atividades}}{80}{figure.6.19}
+\contentsline {figure}{\numberline {20}{\ignorespaces N\IeC {\'\i }vel de Visibilidade do Processo do Projeto SICG}}{95}{figure.6.20}
+\contentsline {figure}{\numberline {21}{\ignorespaces N\IeC {\'\i }vel de Satisfa\IeC {\c c}\IeC {\~a}o do Produto Entregue do Projeto SICG}}{95}{figure.6.21}
+\contentsline {figure}{\numberline {22}{\ignorespaces Qualidade da M\IeC {\'e}trica LOC nas \textit {Sprints} do Projeto SICG}}{101}{figure.6.22}
+\contentsline {figure}{\numberline {23}{\ignorespaces Qualidade da M\IeC {\'e}trica ACCM nas \textit {Sprints} do Projeto SICG}}{101}{figure.6.23}
+\contentsline {figure}{\numberline {24}{\ignorespaces Qualidade da M\IeC {\'e}trica AMLOC nas \textit {Sprints} do Projeto SICG}}{102}{figure.6.24}
+\contentsline {figure}{\numberline {25}{\ignorespaces Qualidade da M\IeC {\'e}trica ACC nas \textit {Sprints} do Projeto SICG}}{102}{figure.6.25}
+\contentsline {figure}{\numberline {26}{\ignorespaces Qualidade da M\IeC {\'e}trica ANPM nas \textit {Sprints} do Projeto SICG}}{103}{figure.6.26}
+\contentsline {figure}{\numberline {27}{\ignorespaces Qualidade da M\IeC {\'e}trica CBO nas \textit {Sprints} do Projeto SICG}}{103}{figure.6.27}
+\contentsline {figure}{\numberline {28}{\ignorespaces Qualidade da M\IeC {\'e}trica DIT nas \textit {Sprints} do Projeto SICG}}{104}{figure.6.28}
+\contentsline {figure}{\numberline {29}{\ignorespaces Qualidade da M\IeC {\'e}trica LCOM4 nas \textit {Sprints} do Projeto SICG}}{104}{figure.6.29}
+\contentsline {figure}{\numberline {30}{\ignorespaces Qualidade da M\IeC {\'e}trica NOC nas \textit {Sprints} do Projeto SICG}}{105}{figure.6.30}
+\contentsline {figure}{\numberline {31}{\ignorespaces Qualidade da M\IeC {\'e}trica NOM nas \textit {Sprints} do Projeto SICG}}{105}{figure.6.31}
+\contentsline {figure}{\numberline {32}{\ignorespaces Qualidade da M\IeC {\'e}trica NPA nas \textit {Sprints} do Projeto SICG}}{106}{figure.6.32}
+\contentsline {figure}{\numberline {33}{\ignorespaces Qualidade da M\IeC {\'e}trica RFC nas \textit {Sprints} do Projeto SICG}}{106}{figure.6.33}
+\contentsline {figure}{\numberline {34}{\ignorespaces Qualidade Geral do C\IeC {\'o}digo Fonte}}{107}{figure.6.34}
+\contentsline {figure}{\numberline {35}{\ignorespaces N\IeC {\'\i }vel de Percep\IeC {\c c}\IeC {\~a}o da Qualidade do C\IeC {\'o}digo Fonte}}{108}{figure.6.35}
 \addvspace {10pt}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {36}{\ignorespaces Matriz de Gerenciamento de Tempo \cite {bell2011}}}{131}{figure.anexochapback.1.36}
-\contentsline {figure}{\numberline {37}{\ignorespaces Quadro Andon, com o mesmo objetivo do Kanban, na f\IeC {\'a}brica da Toyota \cite {kanbanindustria}}}{138}{figure.anexochapback.1.37}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {38}{\ignorespaces Processo MIDAS \cite {IPHAN:2013}}}{140}{figure.anexochapback.2.38}
-\contentsline {figure}{\numberline {39}{\ignorespaces Subprocesso Realizar Ateste T\IeC {\'e}cnico \cite {IPHAN:2013}}}{141}{figure.anexochapback.2.39}
-\contentsline {figure}{\numberline {40}{\ignorespaces Subprocesso Sprint \cite {IPHAN:2013}}}{142}{figure.anexochapback.2.40}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {36}{\ignorespaces Matriz de Gerenciamento de Tempo \cite {bell2011}}}{132}{figure.anexochapback.1.36}
+\contentsline {figure}{\numberline {37}{\ignorespaces Quadro Andon, com o mesmo objetivo do Kanban, na f\IeC {\'a}brica da Toyota \cite {kanbanindustria}}}{139}{figure.anexochapback.1.37}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {38}{\ignorespaces Processo MIDAS \cite {IPHAN:2013}}}{141}{figure.anexochapback.2.38}
+\contentsline {figure}{\numberline {39}{\ignorespaces Subprocesso Realizar Ateste T\IeC {\'e}cnico \cite {IPHAN:2013}}}{142}{figure.anexochapback.2.39}
+\contentsline {figure}{\numberline {40}{\ignorespaces Subprocesso Sprint \cite {IPHAN:2013}}}{143}{figure.anexochapback.2.40}

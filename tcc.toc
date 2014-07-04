@@ -1,106 +1,106 @@
 \changetocdepth {3}
 \select@language {brazil}
-\contentsline {chapter}{\chapternumberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{15}{chapter.1}
-\contentsline {section}{\numberline {1.1}Contexto}{15}{section.1.1}
-\contentsline {section}{\numberline {1.2}Justificativa}{16}{section.1.2}
-\contentsline {section}{\numberline {1.3}Problema}{16}{section.1.3}
-\contentsline {section}{\numberline {1.4}Objetivos}{17}{section.1.4}
-\contentsline {section}{\numberline {1.5}Metodologia de Pesquisa}{18}{section.1.5}
-\contentsline {section}{\numberline {1.6}Organiza\IeC {\c c}\IeC {\~a}o do Trabalho}{19}{section.1.6}
-\contentsline {chapter}{\chapternumberline {2}Contrata\IeC {\c c}\IeC {\~o}es de Fornecedores de Desenvolvimento de Software}{21}{chapter.2}
-\contentsline {section}{\numberline {2.1}Import\IeC {\^a}ncia da Contra\IeC {\c c}\IeC {\~a}o de Fornecedores de Desenvolvimento de Software}{21}{section.2.1}
-\contentsline {section}{\numberline {2.2}Normas, Processos e Legisla\IeC {\c c}\IeC {\~a}o Pertinentes \IeC {\`a} Contrata\IeC {\c c}\IeC {\~a}o}{22}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Lei n\IeC {\textordmasculine } 8.666/93}{22}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Instru\IeC {\c c}\IeC {\~a}o Normativa n\IeC {\textordmasculine } 04}{24}{subsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.2.1}Disposi\IeC {\c c}\IeC {\~o}es Gerais}{25}{subsubsection.2.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2.2}Processo de Contrata\IeC {\c c}\IeC {\~a}o}{26}{subsubsection.2.2.2.2}
-\contentsline {section}{\numberline {2.3}Considera\IeC {\c c}\IeC {\~o}es Finais do Cap\IeC {\'\i }tulo}{29}{section.2.3}
-\contentsline {chapter}{\chapternumberline {3}Pensamento Lean}{31}{chapter.3}
-\contentsline {section}{\numberline {3.1}Lean na Manufatura}{31}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Hist\IeC {\'o}rico}{31}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Princ\IeC {\'\i }pios}{33}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}Lean no Desenvolvimento de \textit {Software}}{34}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Abordagem}{34}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Princ\IeC {\'\i }pios}{34}{subsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.2.1}Eliminar o Desperd\IeC {\'\i }cio}{34}{subsubsection.3.2.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2.2}Integrar Qualidade}{35}{subsubsection.3.2.2.2}
-\contentsline {subsubsection}{\numberline {3.2.2.3}Criar Conhecimento}{36}{subsubsection.3.2.2.3}
-\contentsline {subsubsection}{\numberline {3.2.2.4}Adiar Comprometimentos}{36}{subsubsection.3.2.2.4}
-\contentsline {subsubsection}{\numberline {3.2.2.5}Entregar R\IeC {\'a}pido}{36}{subsubsection.3.2.2.5}
-\contentsline {subsubsection}{\numberline {3.2.2.6}Respeitar as Pessoas}{37}{subsubsection.3.2.2.6}
-\contentsline {subsubsection}{\numberline {3.2.2.7}Otimizar o Todo}{37}{subsubsection.3.2.2.7}
-\contentsline {subsection}{\numberline {3.2.3} Pr\IeC {\'a}ticas}{37}{subsection.3.2.3}
-\contentsline {subsubsection}{\numberline {3.2.3.1}Gerenciamento de C\IeC {\'o}digo Fonte e \textit {Scripts} de \textit {Builds}}{37}{subsubsection.3.2.3.1}
-\contentsline {subsubsection}{\numberline {3.2.3.2}Teste Automatizado}{38}{subsubsection.3.2.3.2}
-\contentsline {subsubsection}{\numberline {3.2.3.3}Integra\IeC {\c c}\IeC {\~a}o Cont\IeC {\'\i }nua}{38}{subsubsection.3.2.3.3}
-\contentsline {subsubsection}{\numberline {3.2.3.4}Menos C\IeC {\'o}digo }{39}{subsubsection.3.2.3.4}
-\contentsline {subsubsection}{\numberline {3.2.3.5}Itera\IeC {\c c}\IeC {\~o}es Curtas}{39}{subsubsection.3.2.3.5}
-\contentsline {subsubsection}{\numberline {3.2.3.6}Participa\IeC {\c c}\IeC {\~a}o do Cliente}{40}{subsubsection.3.2.3.6}
-\contentsline {subsubsection}{\numberline {3.2.3.7}Kanban}{40}{subsubsection.3.2.3.7}
-\contentsline {section}{\numberline {3.3}Considera\IeC {\c c}\IeC {\~o}es Finais do Cap\IeC {\'\i }tulo}{43}{section.3.3}
-\contentsline {chapter}{\chapternumberline {4}Ado\IeC {\c c}\IeC {\~a}o de M\IeC {\'e}todos \IeC {\'A}geis na Gest\IeC {\~a}o de Contratos de Desenvolvimento de \textit {Software} em Organiza\IeC {\c c}\IeC {\~o}es P\IeC {\'u}blicas Brasileiras}{44}{chapter.4}
-\contentsline {section}{\numberline {4.1}Metodologias \IeC {\'A}geis de Desenvolvimento de \textit {Software}}{44}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Scrum}{46}{subsection.4.1.1}
-\contentsline {section}{\numberline {4.2}Kanban, Scrum e o Pensamento Lean }{47}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Cad\IeC {\^e}ncia}{49}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Limita\IeC {\c c}\IeC {\~a}o do WIP}{49}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Equipe de Trabalho}{50}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Contrata\IeC {\c c}\IeC {\~a}o \IeC {\'A}gil nas Organiza\IeC {\c c}\IeC {\~o}es P\IeC {\'u}blicas Brasileiras}{50}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Iniciativas de Ado\IeC {\c c}\IeC {\~a}o de M\IeC {\'e}todos \IeC {\'A}geis no Governo}{50}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Desafios}{56}{subsection.4.3.2}
-\contentsline {section}{\numberline {4.4}Considera\IeC {\c c}\IeC {\~o}es Finais do Cap\IeC {\'\i }tulo}{56}{section.4.4}
-\contentsline {chapter}{\chapternumberline {5}Projeto do Estudo de Caso}{58}{chapter.5}
-\contentsline {section}{\numberline {5.1}Defini\IeC {\c c}\IeC {\~a}o}{58}{section.5.1}
-\contentsline {section}{\numberline {5.2}Background}{62}{section.5.2}
-\contentsline {section}{\numberline {5.3}Design}{62}{section.5.3}
-\contentsline {section}{\numberline {5.4}Sele\IeC {\c c}\IeC {\~a}o}{63}{section.5.4}
-\contentsline {section}{\numberline {5.5}Fonte e M\IeC {\'e}todo Coleta de Dados}{63}{section.5.5}
-\contentsline {section}{\numberline {5.6}Validade}{64}{section.5.6}
-\contentsline {section}{\numberline {5.7}Trabalho de Campo}{65}{section.5.7}
-\contentsline {section}{\numberline {5.8}An\IeC {\'a}lise}{65}{section.5.8}
-\contentsline {section}{\numberline {5.9}Considera\IeC {\c c}\IeC {\~o}es Finais do Cap\IeC {\'\i }tulo}{65}{section.5.9}
-\contentsline {chapter}{\chapternumberline {6}O Estudo de Caso}{67}{chapter.6}
-\contentsline {section}{\numberline {6.1}A Organiza\IeC {\c c}\IeC {\~a}o}{67}{section.6.1}
-\contentsline {section}{\numberline {6.2}A Empresa Contratada}{69}{section.6.2}
-\contentsline {section}{\numberline {6.3}Caracteriza\IeC {\c c}\IeC {\~a}o do Projeto Contrato}{70}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Vis\IeC {\~a}o Geral}{70}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Objetivos da Contrata\IeC {\c c}\IeC {\~a}o}{72}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Metodologia de Trabalho}{73}{subsection.6.3.3}
-\contentsline {section}{\numberline {6.4}Caracteriza\IeC {\c c}\IeC {\~a}o da Solu\IeC {\c c}\IeC {\~a}o}{74}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}An\IeC {\'a}lise da Adequa\IeC {\c c}\IeC {\~a}o da Solu\IeC {\c c}\IeC {\~a}o ao Pensamento Lean e ao Scrum}{80}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}An\IeC {\'a}lise da Adequa\IeC {\c c}\IeC {\~a}o da Solu\IeC {\c c}\IeC {\~a}o aos Valores \IeC {\'A}geis e a Legisla\IeC {\c c}\IeC {\~a}o}{82}{subsection.6.4.2}
-\contentsline {section}{\numberline {6.5}An\IeC {\'a}lise dos Dados}{90}{section.6.5}
-\contentsline {subsection}{\numberline {6.5.1}Efeitos sobre a entrega de ordens de servi\IeC {\c c}o}{90}{subsection.6.5.1}
-\contentsline {subsection}{\numberline {6.5.2}Efeitos sobre a satisfa\IeC {\c c}\IeC {\~a}o do cliente}{93}{subsection.6.5.2}
-\contentsline {subsection}{\numberline {6.5.3}Efeitos sobre a qualidade do c\IeC {\'o}digo}{95}{subsection.6.5.3}
-\contentsline {chapter}{\chapternumberline {7}Conclus\IeC {\~a}o}{109}{chapter.7}
-\contentsline {chapter}{Refer\^encias}{112}{section*.10}
+\contentsline {chapter}{\chapternumberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{16}{chapter.1}
+\contentsline {section}{\numberline {1.1}Contexto}{16}{section.1.1}
+\contentsline {section}{\numberline {1.2}Justificativa}{17}{section.1.2}
+\contentsline {section}{\numberline {1.3}Problema}{17}{section.1.3}
+\contentsline {section}{\numberline {1.4}Objetivos}{18}{section.1.4}
+\contentsline {section}{\numberline {1.5}Metodologia de Pesquisa}{19}{section.1.5}
+\contentsline {section}{\numberline {1.6}Organiza\IeC {\c c}\IeC {\~a}o do Trabalho}{20}{section.1.6}
+\contentsline {chapter}{\chapternumberline {2}Contrata\IeC {\c c}\IeC {\~o}es de Fornecedores de Desenvolvimento de Software}{22}{chapter.2}
+\contentsline {section}{\numberline {2.1}Import\IeC {\^a}ncia da Contra\IeC {\c c}\IeC {\~a}o de Fornecedores de Desenvolvimento de Software}{22}{section.2.1}
+\contentsline {section}{\numberline {2.2}Normas, Processos e Legisla\IeC {\c c}\IeC {\~a}o Pertinentes \IeC {\`a} Contrata\IeC {\c c}\IeC {\~a}o}{23}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Lei n\IeC {\textordmasculine } 8.666/93}{23}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Instru\IeC {\c c}\IeC {\~a}o Normativa n\IeC {\textordmasculine } 04}{25}{subsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Disposi\IeC {\c c}\IeC {\~o}es Gerais}{26}{subsubsection.2.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2.2}Processo de Contrata\IeC {\c c}\IeC {\~a}o}{27}{subsubsection.2.2.2.2}
+\contentsline {section}{\numberline {2.3}Considera\IeC {\c c}\IeC {\~o}es Finais do Cap\IeC {\'\i }tulo}{30}{section.2.3}
+\contentsline {chapter}{\chapternumberline {3}Pensamento Lean}{32}{chapter.3}
+\contentsline {section}{\numberline {3.1}Lean na Manufatura}{32}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Hist\IeC {\'o}rico}{32}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Princ\IeC {\'\i }pios}{34}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Lean no Desenvolvimento de \textit {Software}}{35}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Abordagem}{35}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Princ\IeC {\'\i }pios}{35}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}Eliminar o Desperd\IeC {\'\i }cio}{35}{subsubsection.3.2.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2.2}Integrar Qualidade}{36}{subsubsection.3.2.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.3}Criar Conhecimento}{37}{subsubsection.3.2.2.3}
+\contentsline {subsubsection}{\numberline {3.2.2.4}Adiar Comprometimentos}{37}{subsubsection.3.2.2.4}
+\contentsline {subsubsection}{\numberline {3.2.2.5}Entregar R\IeC {\'a}pido}{37}{subsubsection.3.2.2.5}
+\contentsline {subsubsection}{\numberline {3.2.2.6}Respeitar as Pessoas}{38}{subsubsection.3.2.2.6}
+\contentsline {subsubsection}{\numberline {3.2.2.7}Otimizar o Todo}{38}{subsubsection.3.2.2.7}
+\contentsline {subsection}{\numberline {3.2.3} Pr\IeC {\'a}ticas}{38}{subsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3.1}Gerenciamento de C\IeC {\'o}digo Fonte e \textit {Scripts} de \textit {Builds}}{38}{subsubsection.3.2.3.1}
+\contentsline {subsubsection}{\numberline {3.2.3.2}Teste Automatizado}{39}{subsubsection.3.2.3.2}
+\contentsline {subsubsection}{\numberline {3.2.3.3}Integra\IeC {\c c}\IeC {\~a}o Cont\IeC {\'\i }nua}{39}{subsubsection.3.2.3.3}
+\contentsline {subsubsection}{\numberline {3.2.3.4}Menos C\IeC {\'o}digo }{40}{subsubsection.3.2.3.4}
+\contentsline {subsubsection}{\numberline {3.2.3.5}Itera\IeC {\c c}\IeC {\~o}es Curtas}{40}{subsubsection.3.2.3.5}
+\contentsline {subsubsection}{\numberline {3.2.3.6}Participa\IeC {\c c}\IeC {\~a}o do Cliente}{41}{subsubsection.3.2.3.6}
+\contentsline {subsubsection}{\numberline {3.2.3.7}Kanban}{41}{subsubsection.3.2.3.7}
+\contentsline {section}{\numberline {3.3}Considera\IeC {\c c}\IeC {\~o}es Finais do Cap\IeC {\'\i }tulo}{44}{section.3.3}
+\contentsline {chapter}{\chapternumberline {4}Ado\IeC {\c c}\IeC {\~a}o de M\IeC {\'e}todos \IeC {\'A}geis na Gest\IeC {\~a}o de Contratos de Desenvolvimento de \textit {Software} em Organiza\IeC {\c c}\IeC {\~o}es P\IeC {\'u}blicas Brasileiras}{45}{chapter.4}
+\contentsline {section}{\numberline {4.1}Metodologias \IeC {\'A}geis de Desenvolvimento de \textit {Software}}{45}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Scrum}{47}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Kanban, Scrum e o Pensamento Lean }{48}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Cad\IeC {\^e}ncia}{50}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Limita\IeC {\c c}\IeC {\~a}o do WIP}{50}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Equipe de Trabalho}{51}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Contrata\IeC {\c c}\IeC {\~a}o \IeC {\'A}gil nas Organiza\IeC {\c c}\IeC {\~o}es P\IeC {\'u}blicas Brasileiras}{51}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Iniciativas de Ado\IeC {\c c}\IeC {\~a}o de M\IeC {\'e}todos \IeC {\'A}geis no Governo}{51}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Desafios}{57}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Considera\IeC {\c c}\IeC {\~o}es Finais do Cap\IeC {\'\i }tulo}{57}{section.4.4}
+\contentsline {chapter}{\chapternumberline {5}Projeto do Estudo de Caso}{59}{chapter.5}
+\contentsline {section}{\numberline {5.1}Defini\IeC {\c c}\IeC {\~a}o}{59}{section.5.1}
+\contentsline {section}{\numberline {5.2}Background}{63}{section.5.2}
+\contentsline {section}{\numberline {5.3}Design}{63}{section.5.3}
+\contentsline {section}{\numberline {5.4}Sele\IeC {\c c}\IeC {\~a}o}{64}{section.5.4}
+\contentsline {section}{\numberline {5.5}Fonte e M\IeC {\'e}todo Coleta de Dados}{64}{section.5.5}
+\contentsline {section}{\numberline {5.6}Validade}{65}{section.5.6}
+\contentsline {section}{\numberline {5.7}Trabalho de Campo}{66}{section.5.7}
+\contentsline {section}{\numberline {5.8}An\IeC {\'a}lise}{66}{section.5.8}
+\contentsline {section}{\numberline {5.9}Considera\IeC {\c c}\IeC {\~o}es Finais do Cap\IeC {\'\i }tulo}{66}{section.5.9}
+\contentsline {chapter}{\chapternumberline {6}O Estudo de Caso}{68}{chapter.6}
+\contentsline {section}{\numberline {6.1}A Organiza\IeC {\c c}\IeC {\~a}o}{68}{section.6.1}
+\contentsline {section}{\numberline {6.2}A Empresa Contratada}{70}{section.6.2}
+\contentsline {section}{\numberline {6.3}Caracteriza\IeC {\c c}\IeC {\~a}o do Projeto Contrato}{71}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Vis\IeC {\~a}o Geral}{71}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Objetivos da Contrata\IeC {\c c}\IeC {\~a}o}{73}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Metodologia de Trabalho}{74}{subsection.6.3.3}
+\contentsline {section}{\numberline {6.4}Caracteriza\IeC {\c c}\IeC {\~a}o da Solu\IeC {\c c}\IeC {\~a}o}{75}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}An\IeC {\'a}lise da Adequa\IeC {\c c}\IeC {\~a}o da Solu\IeC {\c c}\IeC {\~a}o ao Pensamento Lean e ao Scrum}{81}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}An\IeC {\'a}lise da Adequa\IeC {\c c}\IeC {\~a}o da Solu\IeC {\c c}\IeC {\~a}o aos Valores \IeC {\'A}geis e a Legisla\IeC {\c c}\IeC {\~a}o}{83}{subsection.6.4.2}
+\contentsline {section}{\numberline {6.5}An\IeC {\'a}lise dos Dados}{91}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Efeitos sobre a entrega de ordens de servi\IeC {\c c}o}{91}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Efeitos sobre a satisfa\IeC {\c c}\IeC {\~a}o do cliente}{94}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.3}Efeitos sobre a qualidade do c\IeC {\'o}digo}{96}{subsection.6.5.3}
+\contentsline {chapter}{\chapternumberline {7}Conclus\IeC {\~a}o}{110}{chapter.7}
+\contentsline {chapter}{Refer\^encias}{113}{section*.11}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
-\contentsline {part}{Ap\^endices}{116}{section*.11}
-\contentsline {appendix}{\chapternumberline {A}Question\IeC {\'a}rio Gest\IeC {\~a}o do Contrato}{118}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}M\IeC {\'e}tricas de C\IeC {\'o}digo Fonte}{125}{appendix.B}
+\contentsline {part}{Ap\^endices}{117}{section*.12}
+\contentsline {appendix}{\chapternumberline {A}Question\IeC {\'a}rio Gest\IeC {\~a}o do Contrato}{119}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}M\IeC {\'e}tricas de C\IeC {\'o}digo Fonte}{126}{appendix.B}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
-\contentsline {part}{Anexos}{128}{section*.12}
-\contentsline {appendix}{\chapternumberline {A}Princ\IeC {\'\i }pios e Pr\IeC {\'a}ticas do Lean na Manufatura}{129}{appendix.anexochapback.1}
-\contentsline {section}{\numberline {A.1}Princ\IeC {\'\i }pios}{129}{section.anexochapback.1.1}
-\contentsline {subsection}{\numberline {A.1.1}Const\IeC {\^a}ncia de Prop\IeC {\'o}sitos}{129}{subsection.anexochapback.1.1.1}
-\contentsline {subsection}{\numberline {A.1.2}Respeito \IeC {\`a}s Pessoas}{129}{subsection.anexochapback.1.1.2}
-\contentsline {subsection}{\numberline {A.1.3}Melhoria Cont\IeC {\'\i }nua e Perfei\IeC {\c c}\IeC {\~a}o}{130}{subsection.anexochapback.1.1.3}
-\contentsline {subsection}{\numberline {A.1.4}Comportamento Proativo}{130}{subsection.anexochapback.1.1.4}
-\contentsline {subsection}{\numberline {A.1.5}Voz do Cliente}{131}{subsection.anexochapback.1.1.5}
-\contentsline {subsection}{\numberline {A.1.6}Qualidade na Ra\IeC {\'\i }z}{132}{subsection.anexochapback.1.1.6}
-\contentsline {subsection}{\numberline {A.1.7}Pensamento Sist\IeC {\^e}mico}{132}{subsection.anexochapback.1.1.7}
-\contentsline {subsection}{\numberline {A.1.8}Fluxo Cont\IeC {\'\i }nuo, Produ\IeC {\c c}\IeC {\~a}o Puxada e \textit {Just in Time}}{133}{subsection.anexochapback.1.1.8}
-\contentsline {subsection}{\numberline {A.1.9}Cultura}{134}{subsection.anexochapback.1.1.9}
-\contentsline {section}{\numberline {A.2}Conceitos de Valor e Desperd\IeC {\'\i }cio}{134}{section.anexochapback.1.2}
-\contentsline {subsection}{\numberline {A.2.1}Valor}{135}{subsection.anexochapback.1.2.1}
-\contentsline {subsection}{\numberline {A.2.2}Cadeia de Valor}{135}{subsection.anexochapback.1.2.2}
-\contentsline {subsection}{\numberline {A.2.3}Os Tr\IeC {\^e}s Ms}{135}{subsection.anexochapback.1.2.3}
-\contentsline {section}{\numberline {A.3}Pr\IeC {\'a}ticas e Ferramentas}{135}{section.anexochapback.1.3}
-\contentsline {subsection}{\numberline {A.3.1}A3 Thinking}{136}{subsection.anexochapback.1.3.1}
-\contentsline {subsection}{\numberline {A.3.2}Mapeamento da Cadeia de Valor}{136}{subsection.anexochapback.1.3.2}
-\contentsline {subsection}{\numberline {A.3.3}Kaizen}{136}{subsection.anexochapback.1.3.3}
-\contentsline {subsection}{\numberline {A.3.4}Metodologia 5S}{137}{subsection.anexochapback.1.3.4}
-\contentsline {subsection}{\numberline {A.3.5}Kanban}{138}{subsection.anexochapback.1.3.5}
-\contentsline {appendix}{\chapternumberline {B}Metodologia IPHAN de Gest\IeC {\~a}o de Demandas de Desenvolvimento \IeC {\'A}gil de \textit {Software}}{139}{appendix.anexochapback.2}
+\contentsline {part}{Anexos}{129}{section*.13}
+\contentsline {appendix}{\chapternumberline {A}Princ\IeC {\'\i }pios e Pr\IeC {\'a}ticas do Lean na Manufatura}{130}{appendix.anexochapback.1}
+\contentsline {section}{\numberline {A.1}Princ\IeC {\'\i }pios}{130}{section.anexochapback.1.1}
+\contentsline {subsection}{\numberline {A.1.1}Const\IeC {\^a}ncia de Prop\IeC {\'o}sitos}{130}{subsection.anexochapback.1.1.1}
+\contentsline {subsection}{\numberline {A.1.2}Respeito \IeC {\`a}s Pessoas}{130}{subsection.anexochapback.1.1.2}
+\contentsline {subsection}{\numberline {A.1.3}Melhoria Cont\IeC {\'\i }nua e Perfei\IeC {\c c}\IeC {\~a}o}{131}{subsection.anexochapback.1.1.3}
+\contentsline {subsection}{\numberline {A.1.4}Comportamento Proativo}{131}{subsection.anexochapback.1.1.4}
+\contentsline {subsection}{\numberline {A.1.5}Voz do Cliente}{132}{subsection.anexochapback.1.1.5}
+\contentsline {subsection}{\numberline {A.1.6}Qualidade na Ra\IeC {\'\i }z}{133}{subsection.anexochapback.1.1.6}
+\contentsline {subsection}{\numberline {A.1.7}Pensamento Sist\IeC {\^e}mico}{133}{subsection.anexochapback.1.1.7}
+\contentsline {subsection}{\numberline {A.1.8}Fluxo Cont\IeC {\'\i }nuo, Produ\IeC {\c c}\IeC {\~a}o Puxada e \textit {Just in Time}}{134}{subsection.anexochapback.1.1.8}
+\contentsline {subsection}{\numberline {A.1.9}Cultura}{135}{subsection.anexochapback.1.1.9}
+\contentsline {section}{\numberline {A.2}Conceitos de Valor e Desperd\IeC {\'\i }cio}{135}{section.anexochapback.1.2}
+\contentsline {subsection}{\numberline {A.2.1}Valor}{136}{subsection.anexochapback.1.2.1}
+\contentsline {subsection}{\numberline {A.2.2}Cadeia de Valor}{136}{subsection.anexochapback.1.2.2}
+\contentsline {subsection}{\numberline {A.2.3}Os Tr\IeC {\^e}s Ms}{136}{subsection.anexochapback.1.2.3}
+\contentsline {section}{\numberline {A.3}Pr\IeC {\'a}ticas e Ferramentas}{136}{section.anexochapback.1.3}
+\contentsline {subsection}{\numberline {A.3.1}A3 Thinking}{137}{subsection.anexochapback.1.3.1}
+\contentsline {subsection}{\numberline {A.3.2}Mapeamento da Cadeia de Valor}{137}{subsection.anexochapback.1.3.2}
+\contentsline {subsection}{\numberline {A.3.3}Kaizen}{137}{subsection.anexochapback.1.3.3}
+\contentsline {subsection}{\numberline {A.3.4}Metodologia 5S}{138}{subsection.anexochapback.1.3.4}
+\contentsline {subsection}{\numberline {A.3.5}Kanban}{139}{subsection.anexochapback.1.3.5}
+\contentsline {appendix}{\chapternumberline {B}Metodologia IPHAN de Gest\IeC {\~a}o de Demandas de Desenvolvimento \IeC {\'A}gil de \textit {Software}}{140}{appendix.anexochapback.2}
